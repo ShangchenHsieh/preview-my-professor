@@ -7,22 +7,20 @@ app = Flask(__name__)
 CORS(app)  
 
 # Example Function to Fetch User Transaction History
-def get_user_transaction_history(db: Session, user_id: str):
-    # Assuming a `transactions` table exists with a `user_id` column
-    result = db.execute(f"SELECT * FROM transactions WHERE user_id = '{user_id}'").fetchall()
-    return [dict(row) for row in result]  # Convert to list of dicts
-
+def get_professor_information(db: Session, email: str):
+    result = db.execute(f"SELECT * FROM professors WHERE user_email = '{email}'").fetchall()
+    return [dict(row) for row in result], 200
 @cross_origin()
-@app.route('/<user_id>', methods=['GET'])
-def get_user_transaction_history_route(user_id):
-    db = SessionLocal()  # Open a new database session
+@app.route('/<email>', methods=['GET'])
+def get_user_transaction_history_route(email: str):
+    db = SessionLocal()
     try:
-        transactions = get_user_transaction_history(db, user_id)
-        return jsonify(transactions)
+        professors = get_professor_information(db, email)
+        return jsonify(professors)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
     finally:
-        db.close()  # Ensure session closes after request
+        db.close() 
 
 if __name__ == '__main__':
     app.run(debug=True)
