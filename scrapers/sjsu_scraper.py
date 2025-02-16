@@ -37,4 +37,4 @@ search_button = wait.until(EC.element_to_be_clickable((By.ID, "CLASS_SRCH_WRK2_S
 # Click the Search button
 search_button.click()
 
-# Continue with further actions or scraping logic...
+# Implement more webpage navigation and then the scraping below
