@@ -5,27 +5,27 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Path to the geckodriver executable
+# Path to the geckodriver executable -- update this to generic path so it works on any machine
 driver_path = "C:\\Users\\mickd\\PycharmProjects\\preview-my-professor\\drivers\\geckodriver.exe"
 
-# Initialize the WebDriver using the specified path for geckodriver
+# Initialize the WebDriver using the specified path for geckodriver (firefox)
 service = Service(driver_path)
 driver = webdriver.Firefox(service=service)
 
 # Open the webpage
 driver.get("https://www.sjsu.edu/classes/schedules/spring-2025.php")
 
-# Wait for the Subject input field to become available
+# Wait for the Subject input field to become available (wait for webpage load)
 wait = WebDriverWait(driver, 20)
 
-# Locate and click the 'Load Table' button using JavaScript
+# Locate and click the 'Load Class Schedule' button using JavaScript
 load_table_button = driver.find_element(By.ID, "btnLoadTable")
 driver.execute_script("arguments[0].click();", load_table_button)
 
 # Wait for the search input field to become available
 search_input = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='search']")))
 
-# Enter the search query
+# Enter the search query (we can automate this process and use a variable that contains classname)
 search_input.send_keys("CS 122")
 
 # Submit the search
@@ -48,7 +48,12 @@ for row in rows:
         course_name = columns[0].text
         instructor_name = columns[9].text
         mode_of_instruction = columns[2].text
+
+        # -------database insertion could happen here--------
         print(f"Course: {course_name}, Instructor: {instructor_name}, Mode of Instruction: {mode_of_instruction}")
 
-# Close the driver
+# Close the driver a.k.a. exit browser
 driver.quit()
+
+# we are going to want to add some output cleaning of the names, remove , / etc.
+# we should design an object to hold all the information so we can move it around easily if needed.
