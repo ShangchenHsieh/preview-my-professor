@@ -5,8 +5,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Path to the geckodriver executable -- update this to generic path so it works on any machine
-driver_path = "C:\\Users\\mickd\\PycharmProjects\\preview-my-professor\\drivers\\geckodriver.exe"
+# Path to the geckodriver executable
+driver_path = "../drivers/geckodriver.exe"
 
 # Initialize the WebDriver using the specified path for geckodriver (firefox)
 service = Service(driver_path)
