@@ -1,26 +1,50 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS, cross_origin
-from sqlalchemy.orm import Session
-from database import get_db, SessionLocal 
+from flask import Flask, render_template, request, redirect, url_for, flash, session, send_file
+from openai import OpenAI  # Use the client class as shown in your example
+import uuid
+import os
 
 app = Flask(__name__)
 CORS(app)  
+app.secret_key = os.urandom(24)
+user_data = {}
 
-# Example Function to Fetch User Transaction History
-def get_professor_information(db: Session, email: str):
-    result = db.execute(f"SELECT * FROM professors WHERE user_email = '{email}'").fetchall()
-    return [dict(row) for row in result], 200
-@cross_origin()
-@app.route('/<email>', methods=['GET'])
-def get_user_transaction_history_route(email: str):
-    db = SessionLocal()
+def load_default_prompt():
     try:
-        professors = get_professor_information(db, email)
-        return jsonify(professors)
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-    finally:
-        db.close() 
+        with open("app/default_prompt.txt") as file:
+            return file.read()
+    except Exception:
+        return "Please enter a prompt."
+
+@app.route("/", methods=["GET", "POST"])
+def index():
+    user_data = {
+            "course_num": "",
+            "api_key": "",
+            "model": "gpt-4o-mini",
+            "prompt": load_default_prompt(),
+            "result": "", 
+            "summary": "",
+        }
+    return render_template("index.html", data=user_data)
+
+@app.route("/set_api_key", methods=["GET", "POST"])
+def set_api_key():
+    data = user_data
+    if request.method == "POST":
+        api_key = request.form.get("api_key", "")
+        selected_model = request.form.get("model", "")
+        if api_key:
+            user_data["api_key"] = api_key
+            if selected_model:
+                user_data["model"] = selected_model
+            flash("API key and model updated successfully.", "success")
+            return redirect(url_for("index"))
+        else:
+            flash("Please enter a valid API key.", "error")
+    return render_template("set_api_key.html", data=data)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
