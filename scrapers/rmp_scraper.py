@@ -4,6 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
+
 
 # Path to the geckodriver executable
 driver_path = "../drivers/geckodriver.exe"
@@ -40,27 +42,14 @@ school_search_input.send_keys("San Jose State University")
 teacher_search_input.send_keys(Keys.RETURN)
 school_search_input.send_keys(Keys.RETURN)
 
+# Wait for the close button to be clickable
+wait = WebDriverWait(driver, 10)
+close_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//img[@role='button' and contains(@alt, 'Close Icon')]")))
 
-# # Wait for the table to load
-# wait.until(EC.presence_of_element_located((By.ID, "classSchedule")))
-#
-# # Locate the table
-# table = driver.find_element(By.ID, "classSchedule")
-#
-# # Extract table rows
-# rows = table.find_elements(By.TAG_NAME, "tr")
-#
-# # Iterate through each row and extract data
-# for row in rows:
-#     columns = row.find_elements(By.TAG_NAME, "td")
-#     if columns:
-#         # Extract and print the desired information
-#         course_name = columns[0].text
-#         instructor_name = columns[9].text
-#         mode_of_instruction = columns[2].text
-#
-#         # -------database insertion could happen here--------
-#         print(f"Course: {course_name}, Instructor: {instructor_name}, Mode of Instruction: {mode_of_instruction}")
+# Click the close button
+close_button.click()
+
+
 
 # Close the driver a.k.a. exit browser
 #driver.quit()
