@@ -4,10 +4,20 @@ from flask import Flask, render_template, request, redirect, url_for, flash, ses
 from openai import OpenAI  # Use the client class as shown in your example
 import uuid
 import os
+import util
 
+#################
+### Flask App ###
+#################
+# This is where we define the endpoints for our Flask application 
+
+# initialize the Flask app
 app = Flask(__name__)
+# enable CORS
 CORS(app)  
 app.secret_key = os.urandom(24)
+
+
 user_data = {}
 
 def load_default_prompt():
@@ -45,6 +55,12 @@ def set_api_key():
             flash("Please enter a valid API key.", "error")
     return render_template("set_api_key.html", data=data)
 
+@app.route("/demo_url", methods=["GET", "POST"])
+def demo_url():
+    data = util.demo()
+    data
+    return render_template("index.html", data=data)
 
+# Flask app driver
 if __name__ == '__main__':
     app.run(debug=True)
