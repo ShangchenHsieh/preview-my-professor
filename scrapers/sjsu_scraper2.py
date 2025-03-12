@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import re
 
 # Path to the geckodriver executable
 driver_path = "../drivers/geckodriver.exe"
@@ -46,11 +47,18 @@ for row in rows:
     if columns:
         # Extract and print the desired information
         course_name = columns[0].text
+        stripped_course = re.sub(r"\s*\(.*\)", "", course_name)
+        # We have course here, we want to store this as a dictionary key maybe and the teachers
+        # after the name?
+
         instructor_name = columns[9].text
+        stripped_instructor = instructor_name.split(" / ")[0]
+        # insert instructor to the db
+
         mode_of_instruction = columns[2].text
 
         # -------database insertion could happen here--------
-        print(f"Course: {course_name}, Instructor: {instructor_name}, Mode of Instruction: {mode_of_instruction}")
+        print(f"Course: {stripped_course}, Instructor: {stripped_instructor}, Mode of Instruction: {mode_of_instruction}")
 
 # Close the driver a.k.a. exit browser
 driver.quit()
