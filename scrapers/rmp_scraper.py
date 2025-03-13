@@ -8,7 +8,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 # Path to the geckodriver executable
-driver_path = "../drivers/geckodriver.exe"
+driver_path = "drivers/geckodriver.exe"
 
 # Initialize the WebDriver using the specified path for geckodriver (firefox)
 service = Service(driver_path)

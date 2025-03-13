@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Path to the geckodriver executable
-driver_path = "C:\\Users\\mickd\\PycharmProjects\\preview-my-professor\\drivers\\geckodriver.exe"
+driver_path = "drivers/geckodriver.exe"
 
 # Initialize the WebDriver using the specified path for geckodriver
 service = Service(driver_path)
