@@ -30,6 +30,30 @@ def get_cursor_and_connection():
 
     return cur, conn
 
+
+# def test_connection():
+#     """Test the database connection by querying the version."""
+#     cur, conn = get_cursor_and_connection()
+#
+#     if cur and conn:
+#         try:
+#             # Execute a simple query to check the connection
+#             cur.execute("SELECT version();")
+#             db_version = cur.fetchone()  # Fetch the result of the query
+#             print(f"Connected to the database. Version: {db_version[0]}")
+#         except Exception as e:
+#             print("Error executing query:", e)
+#         finally:
+#             # Close the cursor and connection after the test
+#             cur.close()
+#             conn.close()
+#     else:
+#         print("Failed to connect to the database.")
+#
+#
+# # Call the test connection function
+# test_connection()
+
     
 
 
