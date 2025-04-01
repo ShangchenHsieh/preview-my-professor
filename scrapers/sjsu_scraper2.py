@@ -1,8 +1,10 @@
 # scraper.py
 
 from selenium import webdriver
+from selenium.webdriver import ActionChains
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -28,10 +30,28 @@ wait = WebDriverWait(driver, 20)
 load_table_button = driver.find_element(By.ID, "btnLoadTable")
 driver.execute_script("arguments[0].click();", load_table_button)
 
+# Resize the browser window to ensure the dropdown is within view
+driver.set_window_size(1920, 1080)
+
+# Step 1: Locate the dropdown element using its name attribute
+dropdown_element = driver.find_element(By.NAME, "classSchedule_length")
+
+# Step 2: Open the dropdown using JavaScript
+driver.execute_script("arguments[0].click();", dropdown_element)
+
+# Step 3: Wait for the dropdown options to be visible (optional, but ensures we wait for the dropdown to load)
+WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "//select[@name='classSchedule_length']/option")))
+
+# Step 4: Select the "100" option using JavaScript
+driver.execute_script("arguments[0].value = '100'; arguments[0].dispatchEvent(new Event('change'));", dropdown_element)
+
+
+
+
 # ---------------------- Begin Automation -----------------------------------------------------------------------------
 
 # Read cleaned course list and store as a list
-with open("scraper_resources/test_list_clean.txt", "r") as file:
+with open("scraper_resources/fast_list_clean.txt", "r") as file:
     class_list = [line.strip() for line in file if line.strip()]
 
 for course_name in class_list:
