@@ -1,0 +1,73 @@
+KIN 1 - Adapted Physical Activities
+KIN 2A - Beginning Swimming
+KIN 2B - Intermediate Swimming
+KIN 2C - Advanced Swimming
+KIN 3 - Water Polo
+KIN 7 - Mexican Folklorico Dance
+KIN 8 - Skin and SCUBA Diving
+KIN 9A - Beginning Sailing
+KIN 10A - Beginning Kayaking
+KIN 11A - Beginning Rowing
+KIN 13A - Beginning Rugby
+KIN 14A - Beginning Volleyball
+KIN 14B - Intermediate Volleyball
+KIN 14C - Advanced Volleyball
+KIN 15A - Beginning Basketball
+KIN 15B - Intermediate Basketball
+KIN 16A - Beginning Team Handball
+KIN 18A - Beginning Handball
+KIN 18B - Intermediate Handball
+KIN 19A - Beginning Soccer
+KIN 19B - Intermediate Soccer
+KIN 20A - Beginning Badminton
+KIN 20B - Intermediate Badminton
+KIN 20C - Advanced Badminton
+KIN 21A - Beginning Tennis
+KIN 21B - Intermediate Tennis
+KIN 22A - Beginning Racquetball
+KIN 22B - Intermediate Racquetball
+KIN 23A - Beginning Archery
+KIN 23B - Intermediate Archery
+KIN 24A - Beginning Bowling
+KIN 24B - Intermediate Bowling
+KIN 25A - Beginning Golf
+KIN 25B - Intermediate Golf
+KIN 27A - Beginning Table Tennis
+KIN 27B - Intermediate Table Tennis
+KIN 28A - Beginning Gymnastics
+KIN 29 - Cardio Kickboxing
+KIN 30 - Pilates
+KIN 31 - Body Sculpting
+KIN 32 - Aerobics
+KIN 33 - Advanced Aerobic Activities
+KIN 34 - Step Training
+KIN 35A - Beginning Weight Training
+KIN 35B - Intermediate Weight Training
+KIN 36 - Conditioning through Cross Training
+KIN 37 - Fitness Walking
+KIN 38 - Beginning Jogging
+KIN 40A - Topics in Modern Dance I
+KIN 41A - Topics in Ballet I
+KIN 42A - Topics in Jazz Dance I
+KIN 45A - Beginning Lindy Hop and Night Club Swing
+KIN 46A - Beginning Social Dance
+KIN 47A - Beginning West Coast Swing
+KIN 48A - Beginning Latin Dance
+KIN 49A - Topics in Tap Dance I
+KIN 50 - Tai Chi (Non-Combative)
+KIN 51A - Beginning Aikido
+KIN 51B - Intermediate Aikido
+KIN 52A - Beginning Judo
+KIN 52B - Intermediate Judo
+KIN 52C - Competitive Judo
+KIN 53A - Beginning Karate
+KIN 53B - Intermediate Karate
+KIN 54A - Beginning Tae Kwon Do
+KIN 54B - Intermediate Tae Kwon Do
+KIN 55A - Beginning Self-Defense
+KIN 58A - Introductory Brazilian Jiu-Jitsu
+KIN 61A - Beginning Hatha Yoga
+KIN 61B - Intermediate Hatha Yoga
+KIN 62A - Beginning Ice Skating
+KIN 63A - Beginning Hiking and Backpacking
+KIN 65A - Beginning Ice Hockey
