@@ -1,10 +1,8 @@
 # scraper.py
 
 from selenium import webdriver
-from selenium.webdriver import ActionChains
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -44,7 +42,6 @@ WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "
 
 # Step 4: Select the "100" option using JavaScript
 driver.execute_script("arguments[0].value = '100'; arguments[0].dispatchEvent(new Event('change'));", dropdown_element)
-
 
 
 
@@ -95,12 +92,22 @@ for course_name in class_list:
             course_type = columns[6].text
             days = columns[7].text
             times = columns[8].text
-            instructor_name = columns[9].text
+
+            try:
+                instructor_name_element = columns[9].find_element(By.TAG_NAME, "a")
+                instructor_name = instructor_name_element.text if instructor_name_element else columns[9].text.strip()
+                instructor_email = instructor_name_element.get_attribute("href").replace("mailto:",
+                                                                                         "") if instructor_name_element else ""
+            except:
+                # If no <a> tag is found, fallback to raw text in the <td> tag
+                instructor_name = columns[9].text.strip()
+                instructor_name = ""
+                instructor_email = ""  # If no email, leave it blank
+
             location = columns[10].text
             dates = columns[11].text
             open_seats = columns[12].text
             notes = columns[13].text
-
 
             # Create a Course object with the extracted data
             course_data = Course(
@@ -117,7 +124,8 @@ for course_name in class_list:
                 location=location,
                 dates=dates,
                 open_seats=open_seats,
-                notes=notes
+                notes=notes,
+                instructor_email=instructor_email
             )
 
             # Insert the course data into the database

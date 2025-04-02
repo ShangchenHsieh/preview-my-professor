@@ -1,6 +1,6 @@
 class Course:
     def __init__(self, section, class_number, mode_of_instruction, course_title, satisfies, units,
-                 type, days, times, instructor, location, dates, open_seats, notes):
+                 type, days, times, instructor, location, dates, open_seats, notes, instructor_email):
         self.section = section
         self.class_number = class_number
         self.mode_of_instruction = mode_of_instruction
@@ -15,6 +15,7 @@ class Course:
         self.dates = dates
         self.open_seats = open_seats
         self.notes = notes
+        self.instructor_email = instructor_email
 
     def to_tuple(self):
         # Convert the object into a tuple for insertion into the database
@@ -33,5 +34,6 @@ class Course:
             self.location,
             self.dates,
             int(self.open_seats) if self.open_seats.strip() != "" else None,  # Convert to int or None
-            self.notes
+            self.notes,
+            self.instructor_email
         )

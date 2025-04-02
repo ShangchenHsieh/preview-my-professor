@@ -13,9 +13,9 @@ class CourseDAO:
             insert_query = """
             INSERT INTO courses (
                 section, class_number, mode_of_instruction, course_title, satisfies, units,
-                type, days, times, instructor, location, dates, open_seats, notes
+                type, days, times, instructor, location, dates, open_seats, notes, instructor_email
             ) VALUES (
-                %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
+                %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
             )
             """
             try:
@@ -36,3 +36,24 @@ class CourseDAO:
                 pass
         else:
             print("Failed to connect to the database.")
+
+    @staticmethod
+    def get_unique_instructors():
+        cursor, conn = DatabaseConnection.get_connection()
+
+        if conn is not None:
+            query = """
+            SELECT DISTINCT instructor, instructor_email
+            FROM courses
+            WHERE instructor IS NOT NULL AND instructor != '';
+            """
+            try:
+                cursor.execute(query)
+                unique_instructors = cursor.fetchall()  # Fetch all unique instructors
+                return unique_instructors
+            except Exception as e:
+                print(f"Error retrieving unique instructors: {e}")
+                return []
+        else:
+            print("Failed to connect to the database.")
+            return []
