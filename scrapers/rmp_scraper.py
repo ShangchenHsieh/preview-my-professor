@@ -4,55 +4,64 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains
-
+import time
 
 # Path to the geckodriver executable
 driver_path = "../drivers/geckodriver.exe"
 
-# Initialize the WebDriver using the specified path for geckodriver (firefox)
+# Initialize WebDriver
 service = Service(driver_path)
 driver = webdriver.Firefox(service=service)
-
-# Open the webpage
-driver.get("https://www.ratemyprofessors.com/school/881")
-
-# Wait for the Subject input field to become available (wait for webpage load)
-wait = WebDriverWait(driver, 20)
-
-# # Locate and click the 'Load Class Schedule' button using JavaScript
-# load_table_button = driver.find_element(By.ID, "btnLoadTable")
-# driver.execute_script("arguments[0].click();", load_table_button)
-
-# Wait for the search input field to become available
-teacher_search_input = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='text']")))
-
-# Wait for the school search field to become available
-school_search_input = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[aria-label='search'][placeholder='Your school']")))
-
-
-# Enter the search query (we can automate this process and use a variable that contains classname)
-teacher_search_input.send_keys("Wendy Lee")
-
-# Input the school name in the school search query
-school_search_input.send_keys("San Jose State University")
-
-
-# Submit the search
-teacher_search_input.send_keys(Keys.RETURN)
-school_search_input.send_keys(Keys.RETURN)
-
-# Wait for the close button to be clickable
 wait = WebDriverWait(driver, 10)
-close_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//img[@role='button' and contains(@alt, 'Close Icon')]")))
 
-# Click the close button
-close_button.click()
-
+# List of professor names
+professors = ["Wendy Lee", "John Doe", "Jane Smith"]  # Replace with your list
 
 
-# Close the driver a.k.a. exit browser
-#driver.quit()
+def search_professor(professor_name):
+    """Search for a professor on DuckDuckGo and click the RMP link."""
+    driver.get("https://duckduckgo.com/")
 
-# we are going to want to add some output cleaning of the names, remove , / etc.
-# we should design an object to hold all the information so we can move it around easily if needed.
+    # Enter search query
+    search_box = wait.until(EC.presence_of_element_located((By.NAME, "q")))
+    query = f"{professor_name} San Jose State site:ratemyprofessors.com"
+    search_box.send_keys(query)
+    search_box.send_keys(Keys.RETURN)
+
+    # Wait for search results to load
+    wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a")))
+
+    # Loop through search results to find the correct link
+    while True:
+        result_links = driver.find_elements(By.CSS_SELECTOR, "a")
+        for link in result_links:
+            try:
+                link_text = link.text.strip()
+                if "San Jose State University" in link_text and "Rate My Professors" in link_text:
+                    print(f"Found link for {professor_name}: {link_text}")
+                    link.click()
+                    return True  # Successfully navigated to RMP
+            except:
+                continue
+    return False  # No link found
+
+
+def scrape_professor_data():
+    """Scrape professor's rating and basic details."""
+    try:
+        time.sleep(2)  # Let page load (improve with better wait conditions)
+        prof_name = driver.find_element(By.CLASS_NAME, "NameTitle__Name-dowf0z-0").text
+        rating = driver.find_element(By.CLASS_NAME, "RatingValue__Numerator-qw8sqy-2").text
+        print(f"Scraped: {prof_name} - Rating: {rating}")
+    except Exception as e:
+        print(f"Error scraping professor data: {e}")
+
+
+# Loop through professors
+for professor in professors:
+    if search_professor(professor):  # Search and navigate to RMP
+        scrape_professor_data()  # Scrape data
+    driver.back()  # Go back to DuckDuckGo for next search
+
+# Close browser
+driver.quit()
