@@ -1,4 +1,4 @@
-# scraper.py
+# Basic model, was used for testing
 
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service

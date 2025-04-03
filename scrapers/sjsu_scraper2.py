@@ -1,4 +1,4 @@
-# scraper.py
+# Advanced model, handles scraping entire SJSU db for all classes based on fast_list_clean.txt
 
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
