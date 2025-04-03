@@ -29,15 +29,27 @@ def scrape_professor_data():
         prof_name = driver.find_element(By.CLASS_NAME, "NameTitle__Name-dowf0z-0").text
 
         # Extract rating
-        rating = driver.find_element(By.CLASS_NAME, "RatingValue__Numerator-qw8sqy-2").text
+        try:
+            rating = driver.find_element(By.CLASS_NAME, "RatingValue__Numerator-qw8sqy-2").text
+            if rating == "N/A":  # Check if the rating is "N/A"
+                rating = "-1"  # Store -1 to show the teacher is not rated
+        except:
+            rating = ""  # Handle missing rating
 
         # Extract total ratings
-        total_ratings = driver.find_element(By.CSS_SELECTOR, "a[href='#ratingsList']").text.split()[0]
+        try:
+            total_ratings = driver.find_element(By.CSS_SELECTOR, "a[href='#ratingsList']").text.split()[0]
+        except:
+            total_ratings = "0"  # Handle missing total ratings
 
-        # Extract 'Would Take Again' percentage
-        feedback_numbers = driver.find_elements(By.CLASS_NAME, "FeedbackItem__FeedbackNumber-uof32n-1")
-        would_take_again = feedback_numbers[0].text if len(feedback_numbers) > 0 else "N/A"
-        difficulty = feedback_numbers[1].text if len(feedback_numbers) > 1 else "N/A"
+        # Extract 'Would Take Again' percentage and Difficulty
+        try:
+            feedback_numbers = driver.find_elements(By.CLASS_NAME, "FeedbackItem__FeedbackNumber-uof32n-1")
+            would_take_again = feedback_numbers[0].text if len(feedback_numbers) > 0 else ""
+            difficulty = feedback_numbers[1].text if len(feedback_numbers) > 1 else ""
+        except:
+            would_take_again = ""
+            difficulty = ""
 
         # Extract professor tags safely
         tags = []
@@ -49,7 +61,7 @@ def scrape_professor_data():
 
         # Extract comments (limit to first 3)
         comment_elements = driver.find_elements(By.CLASS_NAME, "Comments__StyledComments-dzzyvm-0")
-        comments = [comment.text for comment in comment_elements[:3]]  # Store first 3 comments
+        comments = [comment.text for comment in comment_elements[:10]]  # Store first 10 comments
 
         # Store in dictionary
         professor_data = {
@@ -159,7 +171,7 @@ def search_and_scrape(professors):
 
                         # Insert the professor data into the database
                         RMPProfessorInfoDAO.insert_professor(professor)
-                        print("did we reach this?")
+                        #print("Did we reach this?")
                         # Go back to DuckDuckGo for the next search
                         driver.back()
                         time.sleep(2)  # Small delay before next search
@@ -185,4 +197,25 @@ professors_list = load_professors_from_file("scraper_resources/teacher_name_only
 
 # # Testing
 # professors_list = ["Wendy Lee", "Rula Khayrallah", "Chao-Li Tarng"]
-search_and_scrape(professors_list)
+
+# ----- Full Scrape
+# start_time = time.time()
+# # Keep track of time
+# search_and_scrape(professors_list)
+# end_time = time.time()
+# elapsed_time = end_time - start_time
+# print(f"Scraping completed in {elapsed_time:.2f} seconds.")
+
+def resume_scraping(professors_list, start_name):
+    try:
+        # Find the index of the professor where we want to start scraping
+        start_index = next(i for i, name in enumerate(professors_list) if name == start_name)
+
+        # Slice the list to start from the professor after the specified one
+        professors_to_scrape = professors_list[start_index:]
+        search_and_scrape(professors_to_scrape)
+
+    except StopIteration:
+        print(f"Professor {start_name} not found in the list.")
+
+resume_scraping(professors_list, "Capri Burrows")

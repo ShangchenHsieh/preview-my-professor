@@ -20,8 +20,8 @@ class RMPProfessorInfoDAO:
             try:
                 # Convert lists to PostgreSQL array format
                 tags = "{" + ",".join([f'"{tag}"' for tag in professor.tags]) + "}" if professor.tags else "{}"
-                comments = "{" + ",".join(
-                    [f'"{comment}"' for comment in professor.comments]) + "}" if professor.comments else "{}"
+                comments = "{" + ",".join([f'"{comment.replace('"', '\\"')}"' for comment in
+                                           professor.comments]) + "}" if professor.comments else "{}"
 
                 # Execute the insert query with adapted arrays for tags and comments
                 cursor.execute(insert_query, (
