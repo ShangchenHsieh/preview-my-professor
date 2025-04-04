@@ -1,2025 +1,2025 @@
-A J Faas (aj.faas@sjsu.edu)
-Aaron Freitas (aaron.freitas@sjsu.edu)
-Aaron Fuentes (aaron.o.fuentes@sjsu.edu)
-Aaron Lington (aaron.lington@sjsu.edu)
-Aaron Miller (aaron.l.miller@sjsu.edu)
-Aaron Romanowsky (aaron.romanowsky@sjsu.edu)
-Abbas Moallem (abbas.moallem@sjsu.edu)
-Abdulmelik Mohammed (abdulmelik.mohammed@sjsu.edu)
-Abera Jiru (abera.jiru@sjsu.edu)
-Abhishek Golla (abhishek.golla@sjsu.edu)
-Abi Romero (abi.romero@sjsu.edu)
-Abisha Muzumder (abisha.muzumder@sjsu.edu)
-Ada Marquez (ada.marquez@sjsu.edu)
-Adam Bakr (adam.bakr@sjsu.edu)
-Adam Nilsen (adam.nilsen@sjsu.edu)
-Adam Romanik (adam.romanik@sjsu.edu)
-Adam Shiverdecker (adam.shiverdecker@sjsu.edu)
-Adelle Kearns (adelle.kearns@sjsu.edu)
-Adi Siva Prasad Reddy Korivi (adisivaprasadreddy.korivi@sjsu.edu)
-Aditi Rajan Shah (aditirajan.shah@sjsu.edu)
-Aditya Nagaraj Shanbhog (adityanagaraj.shanbhog@sjsu.edu)
-Adrian Gutierrez (adrian.gutierrez@sjsu.edu)
-Adrianna Hamzelue (adrianna.hamzelue@sjsu.edu)
-Adrianne Widaman (adrianne.widaman@sjsu.edu)
-Adrienne Eastwood (adrienne.eastwood@sjsu.edu)
-Aelin Lee (aelin.lee@sjsu.edu)
-Ahmad Shaar (ahmad.shaar@sjsu.edu)
-Ahmad Yazdankhah (ahmad.yazdankhah@sjsu.edu)
-Ahmed Banafa (ahmed.banafa@sjsu.edu)
-Ahmed Hambaba (ahmed.hambaba@sjsu.edu)
-Ahoura Zandiatashbar (ahoura.zandiatashbar@sjsu.edu)
-Aisha Elmeligi (aisha.elmeligi@gmail.com)
-Ajay Apodaca (ajay.apodaca@sjsu.edu)
-Ajay Singhal (ajaysinghal@yahoo.com)
-Akansha Bhatia (akansha.bhatia@sjsu.edu)
-Alaka Rao (alaka.rao@sjsu.edu)
-Alan Corral (alan.corral@sjsu.edu)
-Alayna Mills (alaynajmills@gmail.com)
-Albert Chang (albert.chang@sjsu.edu)
-Albert Schendan (AlSchendan@yahoo.com)
-Albert Wong (albert.wong@sjsu.edu)
-Alberto Garcia (alberto.garcia@sjsu.edu)
-Alberto Juarez (alberto.juarez@sjsu.edu)
-Alee Corsiglia (alee.corsiglia@sjsu.edu)
-Alejandra Campos (alejandra.campos@sjsu.edu)
-Alejandra Gonzalez-Zuniga (alejandra.gonzalez-zuniga@sjsu.edu)
-Alejandro Artiga-Purcell (alejandro.artiga-purcell@sjsu.edu)
-Alen Yaghoubi (alen.yaghoubi@sjsu.edu)
-Alessandro Bellofiore (alessandro.bellofiore@sjsu.edu)
-Alessandro De Giorgi (alessandro.degiorgi@sjsu.edu)
-Alesya Petty (alesya.petty@sjsu.edu)
-Alev Tug (alev.tug@sjsu.edu)
-Alex Davis (alex.davis@sjsu.edu)
-Alex May (alex.may@sjsu.edu)
-Alexa Pagonas (alexa.pagonas@sjsu.edu)
-Alexander Gvatua (alexander.gvatua01@sjsu.edu)
-Alexander Jorgensen (alexander.jorgensen@sjsu.edu)
-Alexander Payumo (alexander.payumo@sjsu.edu)
-Alexandra Krass (alexandra.ludovina@sjsu.edu)
-Alfredo Huante (alfredo.huante@sjsu.edu)
-Ali Guarneros Luna (ali.guarneros-luna@sjsu.edu)
-Ali Kashani (ali.kashani@sjsu.edu)
-Ali Mehran (ali.mehran@sjsu.edu)
-Alice Butzlaff (alice.butzlaff@sjsu.edu)
-Alicia Hedges (alicia.hedges@sjsu.edu)
-Alicia Henderson (alicia.henderson@sjsu.edu)
-Alicia Mullens (alicia.mullens@sjsu.edu)
-Alison Armstrong (foralarm@yahoo.com)
-Alison George (alison.george@sjsu.edu)
-Alison Johnson (alison.johnson@sjsu.edu)
-Alison Mckee (alison.mckee@sjsu.edu)
-Alissa Shaw (alissa.shaw@sjsu.edu)
-Alla Petrosyan (alla.petrosyan@sjsu.edu)
-Allison Briceno (allison.briceno@sjsu.edu)
-Allison Gregory (allison.gregory@sjsu.edu)
-Allison Harness (mary.harness@sjsu.edu)
-Allison Johnson (allison.johnson@sjsu.edu)
-Allison Katsev (allison.katsev@sjsu.edu)
-Allison Martin (allison.martin@sjsu.edu)
-Alvin Musgrave (bill.musgrave@gmail.com)
-Aman Grewal (aman.grewal@sjsu.edu)
-Amanda Feldman (amanda.feldman@sjsu.edu)
-Amanda Guevara (amguevara727@gmail.com)
-Amanda Kahn (amanda.kahn@sjsu.edu)
-Amanda Kight (amanda.kight@sjsu.edu)
-Amanda Smith (amanda.smith@sjsu.edu)
-Amanda Trippler (trippleramanda@gmail.com)
-Amaya Leyba-Guerra (amaya.leyba-guerra@sjsu.edu)
-Amelia Le (truc.le01@sjsu.edu)
-Amie Trinh (amie.trinh@sjsu.edu)
-Amin Ghafooripour (amin.ghafooripour@sjsu.edu)
-Amin Termeh Yousefi (amin.termehyousefi@sjsu.edu)
-Amir Armani (amir.armani@sjsu.edu)
-Amita Shah (amitaroyshah@gmail.com)
-Amith Kamath Belman (amith.kamathbelman@sjsu.edu)
-Amitoj Sandhu (amitoj.sandhu@sjsu.edu)
-Amna Jaffer (amna.jaffer@sjsu.edu)
-Amruta Adusumilli (amruta.adusumilli@sjsu.edu)
-Amy Caffrey (amy.caffrey@sjsu.edu)
-Amy Carlson (amy.carlson@sjsu.edu)
-Amy Glazer (amy.glazer@sjsu.edu)
-Amy Gurich (amy.gurich@sjsu.edu)
-Amy Nguyen (myngoc.nguyen@sjsu.edu)
-Amy Petersen (amy.petersen@sjsu.edu)
-Anand Ramasubramanian (anand.ramasubramanian@sjsu.edu)
-Ananda Mysore (mvananda@sbcglobal.net)
-Andre Li (andre.li01@sjsu.edu)
-Andrea Bechert (andrea.bechert@sjsu.edu)
-Andrea Cipriano (andrea.cipriano@sjsu.edu)
-Andrea English (abenglish300@gmail.com)
-Andrea Gottlieb (andrea.gottlieb@sjsu.edu)
-Andrea Neubauer (andrea.neubauer@sjsu.edu)
-Andrea Whitson (Andrea.Whitson@sjsu.edu)
-Andrew Blanton (andrew.blanton@sjsu.edu)
-Andrew Bond (abptlm@gmail.com)
-Andrew Carter (andrew.carter@sjsu.edu)
-Andrew Delunas (andrew.delunas@sjsu.edu)
-Andrew Hathaway (andrew.hathaway@sjsu.edu)
-Andrew James (andrew.james@sjsu.edu)
-Andrew Kinter (andrew.kinter@sjsu.edu)
-Andrew Perera (andrew.perera@sjsu.edu)
-Andrew Vela (andrew.vela@sjsu.edu)
-Andrew Ysasi (andrew.ysasi@sjsu.edu)
-Andro Rios (andro.rios@sjsu.edu)
-Angel Ruiz Blanco (angel.ruizblanco@sjsu.edu)
-Angela Castillo (angela.lavc@gmail.com)
-Angela Tran (angela.tran@sjsu.edu)
-Angela Wu (angela.wu@sjsu.edu)
-Angelina Loyola (angelina.loyola@sjsu.edu)
-Anh Nguyen (anh.nguyen@sjsu.edu)
-Anil Kumar (anil.kumar@sjsu.edu)
-Anita Schaack (anita.schaack@sjsu.edu)
-Anji Buckner (anji.buckner@sjsu.edu)
-Ann Kalinowski (ann.kalinowski@sjsu.edu)
-Anna Demarchi (anna.demarchi@sjsu.edu)
-Anna Jeong (anna.jeong@sjsu.edu)
-Annalise Van Wyngarden (Annalise.VanWyngarden@sjsu.edu)
-Anne Cheilek (anne.cheilek@sjsu.edu)
-Anne Raygoza (anne.raygoza@sjsu.edu)
-Anne Walker (anne.walker@sjsu.edu)
-Annette Stahlnecker (annette.stahlnecker@sjsu.edu)
-Annie Chase (annie.chase@sjsu.edu)
-Annya Artigas (annya.artigas@sjsu.edu)
-Anthony Andre (800usability@gmail.com)
-Anthony Bernier (anthony.bernier@sjsu.edu)
-Anthony Chow (a.chow@sjsu.edu)
-Anthony Ermio (anthony.ermio@sjsu.edu)
-Anthony Raynsford (anthony.raynsford@sjsu.edu)
-Anthony Rossetti (anthony.rossetti@sjsu.edu)
-Anuradha Basu (anu.basu@sjsu.edu)
-Anusha Yellamsetty (anusha.yellamsetty@sjsu.edu)
-Anya Iyengar (anya_iyengar@yahoo.com)
-April Phillips (april.phillips@sjsu.edu)
-April Wood (april.wood@sjsu.edu)
-Apryl Berney (AKBERNEY@gmail.com)
-Ara Acle (ara.acle@sjsu.edu)
-Areum Jensen (areum.jensen@sjsu.edu)
-Ari Cushner (ari.cushner@sjsu.edu)
-Ariel Schreiman (ariel.schreiman@sjsu.edu)
-Arjun Buxi (arjun.buxi@sjsu.edu)
-Arlene Asuncion (arlene.asuncion@sjsu.edu)
-Arman Medina (arman.medina@sjsu.edu)
-Armin Moghadam (Armin.moghadam@sjsu.edu)
-Arnold Danzig (arnold.danzig@sjsu.edu)
-Artem Meshcheryakov (artem.meshcheryakov@sjsu.edu)
-Arthur Casey (arthur.casey@sjsu.edu)
-Arthur Zarate (arthur.zarate@sjsu.edu)
-Arun Saha (arun.saha@sjsu.edu)
-Aruna Gomathinayagam (aruna.gomathinayagam@sjsu.edu)
-Asbjorn Osland (asbjorn.osland@sjsu.edu)
-Ash Padwal (ashit.padwal@sjsu.edu)
-Ash Rahmani (ashiyan.rahmani@sjsu.edu)
-Asha Weinstein Agrawal (asha.weinstein.agrawal@sjsu.edu)
-Ashkan Aryaei (ashkan.aryaei@gmail.com)
-Ashlee Gossard (ashlee.gossard@sjsu.edu)
-Ashley Reid (ashley.reid@sjsu.edu)
-Ashley Seering (ashley.seering@sjsu.edu)
-Ashly Vineyard (ashly.vineyard@sjsu.edu)
-Ashraf Shirani (ashraf.shirani@sjsu.edu)
-Ashwini Wagle (ashwini.wagle@sjsu.edu)
-Atefeh Aghaei (atefeh.aghaei@sjsu.edu)
-Athira Sarath (athira.sarath@sjsu.edu)
-Au-Co Tran (au-co.tran@sjsu.edu)
-Aubrey Uresti (aubrey.uresti@sjsu.edu)
-Audrey Paulson (audrey.paulson@sjsu.edu)
-Aurelio Dias Ferreira (aurelio.diasferreira@sjsu.edu)
-Austin Bullock (austin.bullock@sjsu.edu)
-Avantika Rohatgi (avrohatgi@gmail.com)
-Avizia Long (avizia.long@sjsu.edu)
-Azadeh Shahid Faylienejad (azadeh.fayli@SJSU.edu)
-Azriel Montalvo (azriel.montalvo@sjsu.edu)
-Babak Sarrafan (babak.sarrafan@sjsu.edu)
-Bahar Shahsavarani (bahar.shahsavarani@sjsu.edu)
-Bahram Parineh (Bahram.Parineh@sjsu.edu)
-Baixue Zhang (baixue.zhang@sjsu.edu)
-Bala Meghana Shivani Sripathi Panditharadhyula (balameghanashivani.sripathipanditharadhyula@sjsu.edu)
-Balaji Venkatraman (balaji.venkatraman@sjsu.edu)
-Barani Win (barani.win@sjsu.edu)
-Barbara Murphywesley (barbara.murphywesley@sjsu.edu)
-Barbara Ros (barbara.ros@sjsu.edu)
-Barnaby Dallas (barnaby.dallas@sjsu.edu)
-Bassam Kassab (bassam.kassab@sjsu.edu)
-Beatriz Alyssa Oamil (beatrizalyssa.oamil@sjsu.edu)
-Bee Leng Lee (beeleng.lee@sjsu.edu)
-Behin Elahi (behin.elahi@sjsu.edu)
-Belen Moreno (belen.moreno@sjsu.edu)
-Benjamin Anderson (benjamin.c.anderson@sjsu.edu)
-Benjamin Marsh (benjamin.marsh@sjsu.edu)
-Benoit Delaveau (benoit.delaveau@sjsu.edu)
-Berenice Barragan-Rocha (berenice.barragan-rocha@sjsu.edu)
-Bernardo Flores (bernardo.flores@sjsu.edu)
-Beth Dawson (mary.dawson@sjsu.edu)
-Beth Harberts (beth.harberts@sjsu.edu)
-Beth Mcmurray (elizabeth.mcmurray@sjsu.edu)
-Bhawandeep Singh Harsh (bhawandeepsingh.harsh@sjsu.edu)
-Bianca Hinojosa (bianca.hinojosa@sjsu.edu)
-Bill Saichek (bill.saichek@sjsu.edu)
-Billy Campsey Jr (billy.campsey@sjsu.edu)
-Binh Danh (binh.danh@sjsu.edu)
-Binh Le (binh.q.le@sjsu.edu)
-Birgitte Mcdonald (birgitte.mcdonald@sjsu.edu)
-Birsen Sirkeci (birsen.sirkeci@sjsu.edu)
-Blake Sachs (blake.sachs@sjsu.edu)
-Bo Mou (bo.mou@sjsu.edu)
-Bobbi Makani (bobbi.makani@sjsu.edu)
-Bobby Seals (bobby.m.seals@sjsu.edu)
-Bonnie Belshe (bonnie.belshe@sjsu.edu)
-Bonnie Hsia (bonnie.hsia@sjsu.edu)
-Brad Sanfilippo (brad.sanfilippo@sjsu.edu)
-Bradley Buerer (bradley.buerer@sjsu.edu)
-Brandon Barrios (brandon.barrios@sjsu.edu)
-Brandon Garcia (garcia.brandon@gmail.com)
-Brandon Ian Eroles (brandonian.eroles@sjsu.edu)
-Brandon Moore (brandon.wayne.moore@gmail.com)
-Bree Grillo-Hill (bree.grillo-hill@sjsu.edu)
-Brenda Garibay (brenda.garibay@sjsu.edu)
-Brenda Lopez Rodas (brenda.lopezrodas@sjsu.edu)
-Brenda Serrano (brenda.serrano@sjsu.edu)
-Brent Duckor (brent.duckor@sjsu.edu)
-Brian Andrade (brian.andrade@sjsu.edu)
-Brian Ciach (brian.ciach@sjsu.edu)
-Brian Jeung (brianjeung@comcast.net)
-Brian Lee (brian_ys_lee@yahoo.com)
-Brian Oliveira (brian.oliveira@sjsu.edu)
-Brian Trenchak (brian.trenchak@sjsu.edu)
-Brianne Gutmann (brianne.gutmann@sjsu.edu)
-Bronwyn Lamay (bronwyn.lamay@sjsu.edu)
-Brook Mc Clurg (brook.mcclurg@sjsu.edu)
-Brooke Bellinghausen (brooke.bellinghausen@sjsu.edu)
-Brooke Lustig (brooke.lustig@sjsu.edu)
-Brooke Sherry (brooke.sherry@sjsu.edu)
-Bruce Moyer (bruce.moyer@sjsu.edu)
-Bryan Lind (bryan.lind@sjsu.edu)
-Bryce Westlake (bryce.westlake@sjsu.edu)
-Bud Ayers Jr (bud.ayers@gmail.com)
-Burford Furman (burford.furman@sjsu.edu)
-Caitlin Jeffrey (caitlin.jeffrey@sjsu.edu)
-Callie Nguyen (callie.nguyen@sjsu.edu)
-Cameron Chun (cameron.chun@sjsu.edu)
-Capri Burrows (capri.burrows@sjsu.edu)
-Cara Maffini (cara.maffini@sjsu.edu)
-Carey Gil (carey.gil@sjsu.edu)
-Carin Kaltschmidt (carin.kaltschmidt@sjsu.edu)
-Carl Bugarin (carl.bugarin@sjsu.edu)
-Carla Fisher Schwartz (carla.fisherschwartz@sjsu.edu)
-Carlie Pietsch (carlie.pietsch@sjsu.edu)
-Carlo Jauregui (carlo.jauregui@sjsu.edu)
-Carlos Garcia (carlos.e.garcia@sjsu.edu)
-Carlos Rojas (carlos.rojas@sjsu.edu)
-Carlos Sanchez (carlos.sanchez@sjsu.edu)
-Carlos Singh (carlos.singh@sjsu.edu)
-Carmen Saleh (carmen.kennedy-saleh@sjsu.edu)
-Carol Reade (carol.reade@sjsu.edu)
-Carol Zepecki (carol.zepecki@sjsu.edu)
-Carol-Lynn Perez (carol-lynn.perez@sjsu.edu)
-Carolina Cacho (carolina.delacruz@sjsu.edu)
-Caroline Chen (caroline.chen@sjsu.edu)
-Caroline Haas (caroline.fee@sjsu.edu)
-Cary Feria (cary.feria@sjsu.edu)
-Caryn Collopy (caryn.collopy@sjsu.edu)
-Casey Smith (CaseyDotSmith@gmail.com)
-Cassandra Paul (cassandra.paul@sjsu.edu)
-Cassandra Straubing (cassandra.straubing@sjsu.edu)
-Cassie Boyd (cassandra.boyd@sjsu.edu)
-Catalina Barraza (catalina.barraza@sjsu.edu)
-Catherine Fung (catherine.fung@sjsu.edu)
-Catherine Lam (catherineyylam@gmail.com)
-Catherine Lycurgus (catherine.lycurgus@sjsu.edu)
-Catherine Theilen Burke (catherine.theilenburke@sjsu.edu)
-Cecilia Egidi (cecilia.egidi@sjsu.edu)
-Cesar Arada (cesar.arada@sjsu.edu)
-Chad Skorupka (chad.skorupka@sjsu.edu)
-Chafin Seymour (chafin.seymour@sjsu.edu)
-Chandrasekar Vuppalapati (chandrasekar.vuppalapati@sjsu.edu)
-Chang Choo (chang.choo@sjsu.edu)
-Chang Kim (chang.kim@sjsu.edu)
-Chao-Li Tarng (cltarng@gmail.com)
-Charan Bhaskar (charan.bhaskar@sjsu.edu)
-Charity Wei (chienchu.wei@sjsu.edu)
-Charles Park (charles.park@sjsu.edu)
-Charles Rivasplata (c_rivaplata@hotmail.com)
-Charles Ryan (charles.ryan@sjsu.edu)
-Charles Yao (charlescyao@yahoo.com)
-Charlize Kusuma (charlize.kusuma@sjsu.edu)
-Charlotte Sunseri (charlotte.sunseri@sjsu.edu)
-Chelsea Criez (chelsea.criez@comcast.net)
-Cheryl Chancellor-Freeland (cheryl.chancellor-freeland@sjsu.edu)
-Cheryl Nielsen (cheryl.nielsen@sjsu.edu)
-Cheryl Roddick (cheryl.roddick@sjsu.edu)
-Cheyla Samuelson (cheyla.samuelson@sjsu.edu)
-Chi Phan (chi.phan@sjsu.edu)
-Chi-Hsiu Weng (chi-hsiu.weng@sjsu.edu)
-Chiaki Nomoto (chiaki.nomoto@sjsu.edu)
-Chiaki Vanasupa (chiaki.vanasupa@sjsu.edu)
-Chiao Su (cheng.su@sjsu.edu)
-Chiao-Ju Fang (chiao-ju.fang@sjsu.edu)
-Ching Ching Tan (chingching.tan@sjsu.edu)
-Ching-Seh Wu (ching-seh.wu@sjsu.edu)
-Chinmayi Kagganagi (chinmayi.kagganagi@sjsu.edu)
-Chloe Tannous (chloe.tannous@sjsu.edu)
-Choi Chio (choi.chio@sjsu.edu)
-Chris Carranza (chris.carranza@sjsu.edu)
-Chris Cheleden (christopher_cheleden@yahoo.com)
-Chris Donlay (chris.donlay@sjsu.edu)
-Chris Van Dalen (chris.vandalen@sjsu.edu)
-Chris Whalen (chris.whalen@sjsu.edu)
-Chris Zollna (chris.zollna@sjsu.edu)
-Christian Alvarado (christian.alvarado@sjsu.edu)
-Christian Catano (christian.catano@sjsu.edu)
-Christian May (Christian.May@sjsu.edu)
-Christina Estrada (christina.estrada@sjsu.edu)
-Christina Perucci (christina.perucci@sjsu.edu)
-Christina Tzeng (christina.tzeng@sjsu.edu)
-Christina Wright (christina.m.wright01@sjsu.edu)
-Christine Disalvo (christine.disalvo@sjsu.edu)
-Christine Guzzetta (christine.guzzetta@sjsu.edu)
-Christine Haworth (christine.haworth@sjsu.edu)
-Christine Koontz (christine.koontz@sjsu.edu)
-Christine Ma (christine.ma-kellams@sjsu.edu)
-Christine Vega (christine.vega@sjsu.edu)
-Christine Weng (christine.weng@sjsu.edu)
-Christopher Alcala (christopher.alcala@sjsu.edu)
-Christopher Bankston (christopher.bankston@sjsu.edu)
-Christopher Bengochea (christopher.bengochea@sjsu.edu)
-Christopher Cox (christopher.cox@sjsu.edu)
-Christopher Dizon (christopher.j.dizon@sjsu.edu)
-Christopher Koelzer (christopher.koelzer@sjsu.edu)
-Christopher Lew (christopher.lew@sjsu.edu)
-Christopher Lim (christopher.lim@sjsu.edu)
-Christopher Luna-Mega (christopher.luna-mega@sjsu.edu)
-Christopher March (christopher.march@sjsu.edu)
-Christopher Pham (christopher.h.pham01@sjsu.edu)
-Christopher Smallwood (christopher.smallwood@sjsu.edu)
-Chung-Wen Tsao (chung-wen.tsao@sjsu.edu)
-Chunhui Peng (chunhui.peng@sjsu.edu)
-Chunlei Wang (chunlei.wang@sjsu.edu)
-Cindy Duong (cindy.duong01@sjsu.edu)
-Cindy Runnels (cindy.libr203@gmail.com)
-Cj Duh (cj.duh@sjsu.edu)
-Claire Komives (claire.komives@sjsu.edu)
-Clare Sandy (clare.sandy@sjsu.edu)
-Clarence Choi (clarence.choi@gmail.com)
-Claudine Buglisi (claudine.buglisi@sjsu.edu)
-Claudio Vera Sanchez (claudio.verasanchez@sjsu.edu)
-Cleber Ouverney (Cleber.Ouverney@sjsu.edu)
-Cole Armstrong (cole.armstrong@sjsu.edu)
-Colette Rabin (colettelucia@gmail.com)
-Colin Chamberlin (colin.chamberlin@sjsu.edu)
-Colin Onita (colin.onita@sjsu.edu)
-Colton Duke (colton.duke@sjsu.edu)
-Colton Saylor (colton.saylor@sjsu.edu)
-Connie Hwang (connie.hwang@sjsu.edu)
-Corie Brown (corie.brown@sjsu.edu)
-Cornelia Finkbeiner (cornelia.finkbeiner@sjsu.edu)
-Costanza Rampini (costanza.rampini@sjsu.edu)
-Courtney Boitano (courtney.boitano@sjsu.edu)
-Courtney Flores (courtney.flores@sjsu.edu)
-Craig Cisar (craig.cisar@sjsu.edu)
-Craig Clements (craig.clements@sjsu.edu)
-Craig England (craig.england@sjsu.edu)
-Craig Jones (craig.jones@sjsu.edu)
-Craig Kitzmann (craig.kitzmann@sjsu.edu)
-Crista Thomas (crista.thomas@sjsu.edu)
-Cristian Tanase (cristianmarian.tanase@sjsu.edu)
-Cristina Siegel (cristina.siegel@sjsu.edu)
-Cristina Tortora (cristina.tortora@sjsu.edu)
-Crystal Fausett (crystal.fausett@sjsu.edu)
-Crystal Garcia (crystal.garcia01@sjsu.edu)
-Crystal Han (crystal.m.han@sjsu.edu)
-Cuong Pham (kungfu97@hotmail.com)
-Curtis Asplund (curtis.asplund@sjsu.edu)
-Cynthia Gonzalez (cynthia.gonzalez01@sjsu.edu)
-Cynthia Rostankowski (cynthia.rostankowski@sjsu.edu)
-Cyrus Saatsaz (cyrus.saatsaz@sjsu.edu)
-Cyrus Zomorrodi (cyrus.zomorrodi@sjsu.edu)
-Dadbeh Rouhbakhsh (dadbeh.rouhbakhsh@sjsu.edu)
-Dahyun Oh (dahyun.oh@sjsu.edu)
-Dakota Nance (dakota.nance@sjsu.edu)
-Dallas Augustine (dallas.augustine@sjsu.edu)
-Damaris Guzman (damaris.guzman@sjsu.edu)
-Damian Bacich (damian.bacich@sjsu.edu)
-Damon Moon (damon.moon@sjsu.edu)
-Dan Harkey (dan.harkey@sjsu.edu)
-Dan Le (dan.le01@sjsu.edu)
-Dan Nathan-Roberts (dan.nathan-roberts@sjsu.edu)
-Dan Xiao (dan.xiao@sjsu.edu)
-Dana Dormann (dana.dormann@sjsu.edu)
-Dana Morella-Pozzi (dana.morella@sjsu.edu)
-Dana Ragouzeos (dana.ragouzeos@sjsu.edu)
-Daniel Bohigian (daniel.bohigian@sjsu.edu)
-Daniel Brinkman (daniel.brinkman@sjsu.edu)
-Daniel Chafey (daniel.chafey@sjsu.edu)
-Daniel Hendel De La O (dhdelao@gmail.com)
-Daniel Murphy (daniel.murphy@sjsu.edu)
-Daniel Neal (daniel.neal@sjsu.edu)
-Daniel Olson (daniel.olson@sjsu.edu)
-Daniel Rivers (daniel.rivers@sjsu.edu)
-Daniel Rosenberg (daniel.rosenberg@sjsu.edu)
-Daniel Valencia Jr (daniel.valencia@sjsu.edu)
-Danielle Lazerson (danielle.lazerson@sjsu.edu)
-Danielle Mead-Nytko (danielle.mead@sjsu.edu)
-Danielle Valdez (danielle.valdez@sjsu.edu)
-Danijela Dudley (danijela.dudley@sjsu.edu)
-Danny Stillion (danny.stillion@sjsu.edu)
-Daoping He (daoping.he@sjsu.edu)
-Daphne Chen (daphne.chen01@sjsu.edu)
-Darcy Cabral (darcy.cabral@sjsu.edu)
-Darrian Ellis-Hardin (darrian.ellis-hardin@sjsu.edu)
-Darrick Del Moral (darrick.delmoral@sjsu.edu)
-Daryl Miranda (daryl.miranda@sjsu.edu)
-Dashiell Fryer (dashiell.fryer@sjsu.edu)
-Dave Gustlin (dgustlin@gmail.com)
-Dave Ma (dave.ma@sjsu.edu)
-David Bayus (david.bayus@sjsu.edu)
-David Brook (david.brook@sjsu.edu)
-David Chai (david.chai@sjsu.edu)
-David Daum (david.daum@sjsu.edu)
-David De Lorenzo (david.delorenzo52@gmail.com)
-David Ensminger (david.ensminger@sjsu.edu)
-David Galan (david.galan@sjsu.edu)
-David Loertscher (reader.david@gmail.com)
-David Malinowski (david.malinowski@sjsu.edu)
-David Mcfeely (david.mcfeely@sjsu.edu)
-David Mcreynolds (David.McReynolds@sjsu.edu)
-David Meske (david.meske@sjsu.edu)
-David Ocampo (david.ocampo@sjsu.edu)
-David Parent (david.parent@sjsu.edu)
-David Ramos (david.a.ramos@sjsu.edu)
-David Schuster (david.schuster@sjsu.edu)
-David Shiver (david.shiver@sjsu.edu)
-David Stanton (Davidstanton523@gmail.com)
-David Taylor (david.taylor@sjsu.edu)
-David Vickerman (david.vickerman@sjsu.edu)
-David Von Bargen (david.vonbargen@sjsu.edu)
-David Williams (david.williams@sjsu.edu)
-David Yan (david.yan@sjsu.edu)
-Dawit Yerdea (dawit.yerdea@sjsu.edu)
-Deanna Fassett (deanna.fassett@sjsu.edu)
-Debbie Abbott (deborah.abbott@sjsu.edu)
-Deborah Clarke (deborah.clarke@sjsu.edu)
-Deborah Parker Wong (deborah.parkerwong@sjsu.edu)
-Debra Buenting (debra.buenting@sjsu.edu)
-Debra Law (debra.law@sjsu.edu)
-Deepa Singamsetti (deepa.singamsetti@sjsu.edu)
-Denise Dawkins (denise.dawkins@sjsu.edu)
-Denise Gip (denise.gip@sjsu.edu)
-Dennis Estrada (dennis.estrada@sjsu.edu)
-Dennis Romano (dennis.romano@sjsu.edu)
-Derek Lang (derek.lang@sjsu.edu)
-Derek Mena Godoy (derek.menagodoy@sjsu.edu)
-Derek Wang (derek.wang@sjsu.edu)
-Desia Bacon (desia.bacon@sjsu.edu)
-Desiree Ryan (desiree.ryan@sjsu.edu)
-Devam Sanjay Sheth (devamsanjay.sheth@sjsu.edu)
-Devina Martinez (devinamm98@gmail.com)
-Devon Hibbert (devon.hibbert@sjsu.edu)
-Dia Mundle (dia.mundle@sjsu.edu)
-Diana Hollinger (diana.hollinger@sjsu.edu)
-Diana Stover (diana.stover@sjsu.edu)
-Diana Traub (diana.traub@sjsu.edu)
-Diane Elabidi (diane.elabidi@sjsu.edu)
-Diane Kovacs (diane.kovacs@sjsu.edu)
-Dimple Mulchandani (dimplemahadev.mulchandani@sjsu.edu)
-Dina Cunha (dina.cunha@sjsu.edu)
-Dina Kameda (dina.kameda@sjsu.edu)
-Divesh Karamchandani (divesh.karamchandani@sjsu.edu)
-Dolores Mena (dolores.mena@sjsu.edu)
-Dominic Abucejo (dominic.abucejo@sjsu.edu)
-Don Crooks (don.crooks@sjsu.edu)
-Dona Nichols (dona.nichols@sjsu.edu)
-Donald Feasel (donald.feasel@sjsu.edu)
-Donald Westbrook (donald.westbrook@sjsu.edu)
-Donna Crane (donna.crane@sjsu.edu)
-Doug Case (doug.case@sjsu.edu)
-Douglas Muntz (douglas.muntz@sjsu.edu)
-Douglas Williams (douglas.williams@sjsu.edu)
-Dounya Moukhlis (dounya.moukhlis@sjsu.edu)
-Drew Todd (drew.todd@sjsu.edu)
-Duarte Manuel Carvalho Pinheiro (duarte.pinheiro@sjsu.edu)
-Dustin Mulvaney (dustin.mulvaney@sjsu.edu)
-Earl Gee (earl.gee@sjsu.edu)
-Earl Johnson (earl.johnson@sjsu.edu)
-Edgar Bering (edgar.bering@sjsu.edu)
-Edith Borbon (edith.borbon@sjsu.edu)
-Edith Kinney (edith.kinney@sjsu.edu)
-Edmund Tang (EBTang@gmail.com)
-Edoardo Rubino (edoardo.rubino@outlook.com)
-Edric Dabu (edric.dabu@sjsu.edu)
-Edric Yamamoto (edric.yamamoto@sjsu.edu)
-Eduardo Chan (eduardo.chan@sjsu.edu)
-Eduardo Europa (eduardo.europa@sjsu.edu)
-Eduardo Munoz-Munoz (eduardo.munoz-munoz@sjsu.edu)
-Edward Cohen (edward.cohen@sjsu.edu)
-Effie Chiu (effie.chiu@sjsu.edu)
-Egbe-Etu Etu (egbe-etu.etu@sjsu.edu)
-Ehsan Khatami (ehsan.khatami@sjsu.edu)
-Eileen Carroll (eileen.carroll@sjsu.edu)
-Eileen Mackusick (Eileen.MacKusick@sjsu.edu)
-Eileen Pena (eileen.pena@sjsu.edu)
-Eknoor Naurath (eknoor.naurath@sjsu.edu)
-Elaheh Sigari (elaheh.sigari@sjsu.edu)
-Elaine Ware (elaine.ware@sjsu.edu)
-Eleanor Marsh (eleanor.marsh@sjsu.edu)
-Eleanor Pries (eleanor.pries@sjsu.edu)
-Elena Klaw (elena.klaw@sjsu.edu)
-Eleni Duret (eleni.duret@sjsu.edu)
-Eliana Oropeza (eliana.oropeza@sjsu.edu)
-Elijah Reyes (elijah.reyes@sjsu.edu)
-Elisa Mattarelli (elisa.mattarelli@sjsu.edu)
-Elise Freche (elise.freche@sjsu.edu)
-Elise Knudson (elise.knudson@sjsu.edu)
-Elizabeth Carroll (elizabeth.carroll@sjsu.edu)
-Elizabeth Garcia (elizabeth.garcia@sjsu.edu)
-Elizabeth Grace (elizabeth.grace@sjsu.edu)
-Elizabeth Madden (elizabeth.madden@sjsu.edu)
-Elizabeth Migicovsky (elizabeth.migicovsky@sjsu.edu)
-Elizabeth Mullen (elizabeth.mullen@sjsu.edu)
-Elizabeth Skovran (elizabeth.skovran@sjsu.edu)
-Elizabeth Tejada (elizabeth.pacheco@sjsu.edu)
-Elizabeth Valenti (elizabeth.kroski@sjsu.edu)
-Ella Sugerman (ella.sugerman@sjsu.edu)
-Ellen Le (ellen.le@sjsu.edu)
-Ellen Middaugh (ellen.middaugh@sjsu.edu)
-Ellen Zheng (ellen.zheng@sjsu.edu)
-Ellie Murdoch (ellie.murdoch@sjsu.edu)
-Elly Walsh (elizabeth.walsh@sjsu.edu)
-Emanuela Sintamarian (emanuela.sintamarian@sjsu.edu)
-Emi Ishida (emi.ishida@sjsu.edu)
-Emile Tayag (emile.tayag@sjsu.edu)
-Emiliano Lopez Ruiz (emelopezr@gmail.com)
-Emily Bruce (Emily.Bruce@sjsu.edu)
-Emily Holmes (emily.holmes@sjsu.edu)
-Emily Slusser (emily.slusser@sjsu.edu)
-Emily Wughalter (emily.wughalter@sjsu.edu)
-Emma Carroll (emma.carroll@sjsu.edu)
-Emma Odisho (emodisho@gmail.com)
-Emmanuel Gabet (manny.gabet@sjsu.edu)
-Emmanuel Sequeira (emmanuel.sequeira@sjsu.edu)
-Emmanuel Watkins (emmanuel.watkins@sjsu.edu)
-Eric Kwong (eric.kwong@sjsu.edu)
-Eric Mead (emead@hotmail.com)
-Eric Narveson (eric.narveson@sjsu.edu)
-Eric Ramones (ejramones@gmail.com)
-Eric Vanuska (eric.vanuska@sjsu.edu)
-Erica Buurman (erica.buurman@sjsu.edu)
-Erica Colmenares (erica.colmenares@sjsu.edu)
-Ericka Adams (ericka.adams@sjsu.edu)
-Erik Friedman (EFriedman1968@gmail.com)
-Erik Johnson (erik.johnson@sjsu.edu)
-Erik Steidley (erik.steidley@sjsu.edu)
-Erik Wood (erik.wood@sjsu.edu)
-Erika Carrillo (erika.carrillo@sjsu.edu)
-Erika Zepeda (erika.zepeda@sjsu.edu)
-Erin Nokes (erin.nokes@gmail.com)
-Erin Osanna-Barba (emobarba@gmail.com)
-Erin Siebert (erin.siebert@sjsu.edu)
-Erin Woodhead (erin.woodhead@sjsu.edu)
-Ernest Thurlow (ernest.thurlow@sjsu.edu)
-Ernesto Martinez (ernesto.martinez01@sjsu.edu)
-Esperanza Huerta Espinosa (esperanza.huerta@sjsu.edu)
-Essam Marouf (essam.marouf@sjsu.edu)
-Esteban Garcia Bravo (esteban.garciabravo@sjsu.edu)
-Ethan Hasenauer (ethan.hasenauer@sjsu.edu)
-Ethel Tshukudu (ethel.tshukudu@sjsu.edu)
-Etienne Brown (etienne.brown@sjsu.edu)
-Eugene C Cordero (Eugene.Cordero@sjsu.edu)
-Eugene Hudson (eugene.hudson@sjsu.edu)
-Eugene Ionel (eugene.ionel@sjsu.edu)
-Eugenie Chan (eugenie.chan@sjsu.edu)
-Eva Campo Sahagun (eva.camposahagun@sjsu.edu)
-Eva Stephens (eva.stephens@sjsu.edu)
-Evan Palmer (evan.palmer@sjsu.edu)
-Eveline Bellegarda (eveline.bellegarda@sjsu.edu)
-Evelyn Tirumalai (evelyn.tirumalai@sjsu.edu)
-Everett Smith (everettsmith116@yahoo.com)
-Fabio Di Troia (fabio.ditroia@sjsu.edu)
-Fahmida Fakhruddin (fahmida.fakhruddin@sjsu.edu)
-Faith Kirk (faith.kirk@sjsu.edu)
-Fangjun Xiao (fangjun.xiao@sjsu.edu)
-Faramarz Mortezaie (faramarz.mortezaie@sjsu.edu)
-Faranak Abri (faranak.abri@sjsu.edu)
-Farzan Kazemifar (farzan.kazemifar@sjsu.edu)
-Farzaneh Ghiasvand (farzaneh.ghiasvand@sjsu.edu)
-Fatemeh Yarahmadi (fatemeh.yarahmadi@sjsu.edu)
-Faustina Ducros (faustina.ducros@sjsu.edu)
-Felicia Noonis (felicia.noonis@sjsu.edu)
-Felipe Gómez (felipe.gomez@sjsu.edu)
-Felipe Ponce (felipe.ponce@sjsu.edu)
-Ferdinand Rivera (ferdinand.rivera@sjsu.edu)
-Fern Alberts (fern.alberts@sjsu.edu)
-Fernando Mora (fernando.mora@sjsu.edu)
-Feruza Amirkulova (feruza.amirkulova@sjsu.edu)
-Folarin Erogbogbo (erogbogbo@gmail.com)
-Francesca Cipponeri (francesca.cipponeri@sjsu.edu)
-Francisca Martinez Garcia (francisca.martinezgarcia@sjsu.edu)
-Francisco Correia (franciscozick@gmail.com)
-Francisco De La Calle (francisco.delacalle@sjsu.edu)
-Francois Rongere (francois.rongere@sjsu.edu)
-Frank Butt (frank.butt@sjsu.edu)
-Frank Farshidi (frank.farshidi@sjsu.edu)
-Frank Levy (frank.levy@sjsu.edu)
-Frank Lin (frank.lin@sjsu.edu)
-Frank Ortega (frank.ortega@sjsu.edu)
-Frankie Frank (amanda.r.frank@sjsu.edu)
-Françoise Herrmann (francoise.herrmann@sjsu.edu)
-Fred Cohen (fred.cohen@sjsu.edu)
-Fredrick Larabee (fred.larabee@sjsu.edu)
-Freidoon Barez (fred.barez@sjsu.edu)
-Funie Hsu (funie.hsu@sjsu.edu)
-G.Craig Hobbs (gcraig.hobbs@sjsu.edu)
-Gabriel Negrete (gabriel.negrete@sjsu.edu)
-Gabriela Gonzalez (gabriela.gonzalez03@sjsu.edu)
-Gabriela John Swamy (gabrielajohn.swamy@sjsu.edu)
-Gabriela Sapp (gabriela.sapp@sjsu.edu)
-Gabrielle Bernal (gabrielle.bernal@sjsu.edu)
-Galia Stein Rosen (galia.steinrosen@sjsu.edu)
-Gaojian Huang (gaojian.huang@sjsu.edu)
-Garrett Wolfe (garrett.wolfe@sjsu.edu)
-Gary Castro (gary.castro@sjsu.edu)
-Gary Pereira (gary.pereira@sjsu.edu)
-Gary Radine (gary.radine@sjsu.edu)
-Gautam Krishna (gautam.krishna@sjsu.edu)
-Gautam Kumar (gautam.kumar@sjsu.edu)
-Geethika Vadlamudi (geethika.vadlamudi@sjsu.edu)
-Genevieve Nguyen (genevieve.nguyen@sjsu.edu)
-Genie Florczyk (genie.florczyk@sjsu.edu)
-Genya Ishigaki (genya.ishigaki@sjsu.edu)
-Geoffrey Liu (geoffrey.liu@sjsu.edu)
-George Mcintyre (george.mcintyre@sjsu.edu)
-George Tolosa (george.tolosa@sjsu.edu)
-Gerald Schwartz (gerald.schwartz@sjsu.edu)
-Gheorghi Guzun (gheorghi.guzun@sjsu.edu)
-Ghislaine Lang (gh.lang08@gmail.com)
-Giang Le (giang.le@sjsu.edu)
-Gianmarc Grazioli (gianmarc.grazioli@sjsu.edu)
-Gil Zamora (gil.zamora@sjsu.edu)
-Gilles Muller (gilles.muller@sjsu.edu)
-Gina Firenzi (gina.firenzi@sjsu.edu)
-Ginevra Scherini (ginevra.scherini@sjsu.edu)
-Gisele Bousquet (gisele.bousquet@sjsu.edu)
-Gita Mathur (gita.mathur@sjsu.edu)
-Glen Gendzel (glen.gendzel@sjsu.edu)
-Glenn Callaghan (glenn.callaghan@sjsu.edu)
-Glenn Friedman (glenn.friedman@sjsu.edu)
-Gokcen Altun (gokcen.altun@sjsu.edu)
-Gokul Sriram Guptha Maremalla (gokulsriramguptha.maremalla@sjsu.edu)
-Gong Chen (gong.chen@sjsu.edu)
-Gonzalo Mendoza (gonzalo.mendoza@sjsu.edu)
-Gopinath Vinodh (gopinath.vinodh@sjsu.edu)
-Gordon Douglas (gordon.douglas@sjsu.edu)
-Gordon Haramaki (gordon.haramaki@sjsu.edu)
-Grace Howard (grace.howard@sjsu.edu)
-Grace Poon Ghaffari (gpoon.ghaffari@sjsu.edu)
-Graham Teaford (Gteaford@gmail.com)
-Greg Labmeier (greg.labmeier@sjsu.edu)
-Greg Woods (greg.woods@sjsu.edu)
-Gregory Courand (gregory.courand@sjsu.edu)
-Gregory Feist (greg.feist@sjsu.edu)
-Gregory Hom (gregory.hom@sjsu.edu)
-Gregory Tomlinson (gregory.tomlinson@sjsu.edu)
-Gretchen Kelly (gretchen.kelly@sjsu.edu)
-Gretchen Lester (gretchen.lester@sjsu.edu)
-Gretchen Simms (gretchen.simms@sjsu.edu)
-Grey Crisanto (grace.crisanto@sjsu.edu)
-Grinell Smith (grinell@gmail.com)
-Guido Van Drunen (guido.vandrunen@sjsu.edu)
-Gurmeet Naroola (gurmeet.naroola@sjsu.edu)
-Gustavo Aldama (gustavo.aldama@sjsu.edu)
-Gustavo Flores (gustavo.flores@sjsu.edu)
-Gwendolyn Mok (gwendolyn.mok@sjsu.edu)
-H. Gilchrist (h.gilchrist@sjsu.edu)
-Hadley Debrine (hadley.debrine@sjsu.edu)
-Hahn Koo (hahn.koo@sjsu.edu)
-Hamed Mouseghy (hamed.mouseghy@sjsu.edu)
-Hao Thai (hao.thai@sjsu.edu)
-Haonan Wang (haonan.wang@sjsu.edu)
-Harit Agroia (Harit.Agroia@sjsu.edu)
-Harlan Mcghan (harlan.mcghan@sjsu.edu)
-Harold Peterson (harold.peterson@sjsu.edu)
-Harroop Kaur (harroop.kaur@sjsu.edu)
-Harry Mathias (harry.mathias@sjsu.edu)
-Hayley Hartstein (hayley.hartstein@sjsu.edu)
-Hazel Guillen (hazel.guillen@sjsu.edu)
-Heather Duplaisir (heather.duplaisir@sjsu.edu)
-Hector Rodriguez Casanova (hector.casanova@sjsu.edu)
-Hee Park (younghee.park@sjsu.edu)
-Helen Brubeck (financialaccounting@yahoo.com)
-Henry Bartholomew (henry.bartholomew@sjsu.edu)
-Hesam Rahmani (hesam.rahmani@sjsu.edu)
-Hien Do (hien.do@sjsu.edu)
-Hien Vo (hien.h.vo@sjsu.edu)
-Hiren Patel (hiren.s.patel@sjsu.edu)
-Hiu Yung Wong (hiuyung.wong@sjsu.edu)
-Hohyun Lee (hohyun.lee@sjsu.edu)
-Hojeong Lee (hojeong.lee@sjsu.edu)
-Hongrui Liu (hongrui.liu@sjsu.edu)
-Hossein Omidian (hossein.omidian@sjsu.edu)
-Howard Tokunaga (Howard.Tokunaga@sjsu.edu)
-Hui-Chi Lo (hui-chi.lo@sjsu.edu)
-Hussameddine Kabbani (hussameddine.kabbani@sjsu.edu)
-Huy Nguyen (huy.q.nguyen@sjsu.edu)
-Huyen Le (huyen.le@sjsu.edu)
-Hyeji Han (hyeji.han@sjsu.edu)
-Hyesang Chang (hyesang.chang@sjsu.edu)
-Hyo Jin Lee (hyojin.lee@sjsu.edu)
-Ian Edwards (ian.edwards@sjsu.edu)
-Ignacio Mosqueira (ignacio.mosqueira@sjsu.edu)
-Igor Tyukhov (igor.tyukhov@sjsu.edu)
-Iman Roohnavaz (iman.roohnavaz@sjsu.edu)
-Imee Almazan (imee.almazan@sjsu.edu)
-Indu Jegan (indu.jegan@sjsu.edu)
-Indumathi Jeyachandran (indumathi.jeyachandran@sjsu.edu)
-Inez Yuwanita (inez.yuwanita@sjsu.edu)
-Inga Poslitur (inga.poslitur@sjsu.edu)
-Iole Pecora (iole.pecora@sjsu.edu)
-Irene Carvajal (irene.carvajal@sjsu.edu)
-Irene Chou (irene.chou@sjsu.edu)
-Irina Slobodov (irina.slobodov@sjsu.edu)
-Iris Xiaohong Quan (xiaohong.quan@sjsu.edu)
-Isabella Garcia (isabellatrinidadgarcia@gmail.com)
-Isabelle Pafford (isabelle.pafford@sjsu.edu)
-Isarin Durongkadej (isarin.durongkadej@sjsu.edu)
-Ishie Eswar (ishie.eswar@sjsu.edu)
-Ishmael Hoover (ishmael.hoover@sjsu.edu)
-Ismaila Diallo (ismaila.diallo@sjsu.edu)
-Ivano Aiello (ivano.aiello@sjsu.edu)
-Izzie Brown (izzie.brown@sjsu.edu)
-J. Michael Martinez (jmichael.martinez@sjsu.edu)
-J. Todd Ormsbee (todd.ormsbee@sjsu.edu)
-Jack Wada (jack.wada@sjsu.edu)
-Jack Warecki (jack.warecki@sjsu.edu)
-Jackson Sargent (jackson.sargent@gmail.com)
-Jacob Garner (jacob.garner@sjsu.edu)
-Jacob Linetsky (jacob.linetsky@sjsu.edu)
-Jacob Mcmullen (jacob.mcmullen@sjsu.edu)
-Jacque Scharlach (jacque.scharlach@sjsu.edu)
-Jacqueline Bergman (jacqueline.bergman@sjsu.edu)
-Jacqueline Gamboa (jacqueline.gamboa@sjsu.edu)
-Jacquelyn Brady (jacquelyn.brady@sjsu.edu)
-Jacques Watkins (jacques.watkins@sjsu.edu)
-Jae Chung (jae.chung@sjsu.edu)
-Jae-Ho Pyeon (jae.pyeon@sjsu.edu)
-Jagruti Vedamati (jagruti.vedamati@sjsu.edu)
-Jahan Ghofraniha (jahan.ghofraniha@sjsu.edu)
-Jalal Sarabadani (jalal.sarabadani@sjsu.edu)
-Jalel Rejeb (jalel.rejeb@sjsu.edu)
-Jamael Smith (jamael.smith@sjsu.edu)
-James Brent (james.brent@sjsu.edu)
-James Capurso (james.capurso@sjsu.edu)
-James Casaletto (james.casaletto@gmail.com)
-James Fonda (james.fonda@sjsu.edu)
-James Long (james.long01@sjsu.edu)
-James Morgan (sjsu@factorynoir.com)
-James O'Brien (james.obrien@sjsu.edu)
-James Saslow (james.saslow@sjsu.edu)
-Jamie Kubota (jamiebakes@yahoo.com)
-Jamie Smith (She/Her) (jamie.smith@sjsu.edu)
-Jan English-Lueck (jan.english-lueck@sjsu.edu)
-Jane Brown (jane.e.brown@sjsu.edu)
-Jane Huynh (jane.huynh@sjsu.edu)
-Jane Narveson (janenarveson@gmail.com)
-Janene Perez (She/Her) (janene.perez@sjsu.edu)
-Janet Bang (She/Her) (janet.bang@sjsu.edu)
-Janet Giddings (janet.giddings@sjsu.edu)
-Janet Kitajima (janetkitajima@sbcglobal.net)
-Janet Oseguera-Valencia (Janet.osegueravalencia@sjsu.edu)
-Janet Tan (janet.tan@sjsu.edu)
-Jang Hyung Cho (jang-hyung.cho@sjsu.edu)
-Janin Guzman Morales (janin.guzmanmorales@sjsu.edu)
-Janine Berta (janine.berta@sjsu.edu)
-Jannike Allen (jannike.allen@sjsu.edu)
-Jasmine Lee (jasmine.lee@sjsu.edu)
-Jason Aleksander (jason.aleksander@sjsu.edu)
-Jason Hernandez (jason.hernandez01@sjsu.edu)
-Jason Laker (jlaker.sjsu@gmail.com)
-Jason Lewis (jason@jsklewis.com)
-Jason Ventura (jason.ventura@sjsu.edu)
-Jaudai Lopes (jaudai.lopes@sjsu.edu)
-Javier Cardoza-Kon (javier.cardoza-kon@sjsu.edu)
-Javier Valencia (javace1us@gmail.com)
-Jean Elvin (jean.elvin@sjsu.edu)
-Jean Koketsu (jean.koketsu@sjsu.edu)
-Jean-Benoit Levy (usa@and.ch)
-Jean-Luc Desalvo (jean-luc.desalvo@sjsu.edu)
-Jean-Pierre Lacrampe (jean-pierre.lacrampe@sjsu.edu)
-Jeanine Hunter (jeanine.hunter@sjsu.edu)
-Jeff Biancalana (jeff.biancalana@sjsu.edu)
-Jeff Jackson (sonjebasa@gmail.com)
-Jeffrey Beckstrand (jeffrey.beckstrand@sjsu.edu)
-Jeffrey Benson (jeffrey.s.benson@gmail.com)
-Jeffrey Fadiman (jeff@jefkata.com)
-Jeffrey Hare (jeffrey.hare@sjsu.edu)
-Jeffrey Lewis (jeffrey.lewis@sjsu.edu)
-Jehanzeb Khan (jehanzeb.khan@sjsu.edu)
-Jenni Hong (jenni.hong@sjsu.edu)
-Jennifer Barnett (jennifer.barnett@sjsu.edu)
-Jennifer Bean (jennifer.bean@sjsu.edu)
-Jennifer Bechkoff (jennifer.bechkoff@sjsu.edu)
-Jennifer Gregg (jennifer.gregg@sjsu.edu)
-Jennifer Hubbs (jennifer.hubbs@sjsu.edu)
-Jennifer Jackson (jennifer.l.jackson@sjsu.edu)
-Jennifer Johnson (jennifer.johnson@sjsu.edu)
-Jennifer Johnson (jennifer.p.johnson@sjsu.edu)
-Jennifer Maldonado (jennifer.maldonado01@sjsu.edu)
-Jennifer Morrison (jennifer.morrison@sjsu.edu)
-Jennifer Pearlman (jennifer.pearlman@sjsu.edu)
-Jennifer Quevedo (jennifer.m.vasquez@sjsu.edu)
-Jennifer Schachner (jennifer.schachner@sjsu.edu)
-Jennifer Schauer (jennifer.schauer@sjsu.edu)
-Jennifer Sweeney (jennifer.sweeney@sjsu.edu)
-Jenny Hundemer (jenny.hundemer@sjsu.edu)
-Jenny Kobiela-Mondor (jenny.kobiela-mondor@sjsu.edu)
-Jeong Kim (jeong.kim@sjsu.edu)
-Jeonghee Kim (jeonghee.kim@sjsu.edu)
-Jeremiah Garrido (jeremiah.garrido@sjsu.edu)
-Jeremy Abrams (jeremy.abrams@sjsu.edu)
-Jeremy Nguyen (jeremy.nguyen@sjsu.edu)
-Jesi Faust (jesi.faust@sjsu.edu)
-Jess Chong (jess.chong@sjsu.edu)
-Jesse Geneson (jesse.geneson@sjsu.edu)
-Jesse Lam (Jessetlam@aol.com)
-Jessica Bushey (jessica.bushey@sjsu.edu)
-Jessica Castillo Vardaro (jessica.castillo-vardaro@sjsu.edu)
-Jessica Chin (jessica.chin@sjsu.edu)
-Jessica Fraser (jessica.fraser@sjsu.edu)
-Jessica Rose (jessica.rose@sjsu.edu)
-Jessica Snow (jessica.snow@sjsu.edu)
-Jessica Westfall (jessica.westfall@sjsu.edu)
-Jesus Aguilar (jesus.aguilar@sjsu.edu)
-Jesus Covarrubias (jesus.covarrubias@sjsu.edu)
-Jesus Raygoza (jesus.raygoza@sjsu.edu)
-Ji Kim (ji.kim@sjsu.edu)
-Jia Ee Ooi (jiaee.ooi@sjsu.edu)
-Jian Zhang (jian.zhang@sjsu.edu)
-Jie Gao (jie.gao@sjsu.edu)
-Jihyun Lee (jihyun.lee@sjsu.edu)
-Jihyun Shin (jihyun.shin@sjsu.edu)
-Jila Maleksalehi (jila.maleksalehi@sjsu.edu)
-Jill Citron (jill.citron@sjsu.edu)
-Jill Logan (jill.logan@sjsu.edu)
-Jillian Murphy (jill.murphy3@gmail.com)
-Jimma Cortes-Smith (jimma.cortes@sjsu.edu)
-Jing Zhang (jing.zhang@sjsu.edu)
-Joanne Bowers (joanne.bowers@sjsu.edu)
-Joanne Rondilla (joanne.rondilla@sjsu.edu)
-Joao Santos (joao.santos@sjsu.edu)
-Jocelyn Emus (jocelyn.emus@sjsu.edu)
-Jodie Warren (jodie.warren@sjsu.edu)
-Jody Ulate (jody.ulate@sjsu.edu)
-Jody Winzelberg (jody.winzelberg@sjsu.edu)
-Joe Miller (joe.miller@sjsu.edu)
-Joe Neto (joe.neto@sjsu.edu)
-Joel Busch (joel.busch@sjsu.edu)
-Joey Noel (joey.noel@sjsu.edu)
-Johanna Blandino (johanna.blandino@sjsu.edu)
-John Clapp (john.clapp@sjsu.edu)
-John Delacruz (john.delacruz@sjsu.edu)
-John Diniz (john.diniz@sjsu.edu)
-John Felder (john.felder@sjsu.edu)
-John Freeman (john.freeman@sjsu.edu)
-John Gash (jgash3@yahoo.com)
-John Gieng (john.gieng@sjsu.edu)
-John Halushka (john.halushka@sjsu.edu)
-John Jabagchourian (john.jabagchourian@sjsu.edu)
-John Kennaday (john.kennaday@sjsu.edu)
-John Lee (sang-joon.lee@sjsu.edu)
-John Leih (john.leih@sjsu.edu)
-John Marlovits (john.marlovits@sjsu.edu)
-John Russo (john.v.russo@sjsu.edu)
-John Tang (jbtang@yahoo.com)
-John Wilhelmsson (john.wilhelmsson@sjsu.edu)
-John York (john.york@sjsu.edu)
-Johni Cheri Rocha (johnicheri.rocha@sjsu.edu)
-Johnny Damm (john.damm@sjsu.edu)
-Johnny Moreno (johnny.moreno@sjsu.edu)
-Jolanda Van Arnhem (jolandapieta.vanarnhem@gmail.com)
-Jolynn Asato (jolynn.asato@sjsu.edu)
-Jon Pearce (jon.pearce@sjsu.edu)
-Jon Rawski (jon.rawski@sjsu.edu)
-Jon Richey (jon.richey@sjsu.edu)
-Jon Sung (jon.sung@sjsu.edu)
-Jon Vales (jon.vales@sjsu.edu)
-Jon Yu (jon.yu@sjsu.edu)
-Jonathan Dryden (jonathan.dryden@sjsu.edu)
-Jonathan Fung (jonathan.fung@sjsu.edu)
-Jonathan Gomez (jonathan.d.gomez@sjsu.edu)
-Jonathan Lauffer (jonathan.lauffer@sjsu.edu)
-Jonathan Miller (jonathan.miller@sjsu.edu)
-Jonathan Smucker (jonathan.smucker@sjsu.edu)
-Jonathan Wu (jonathan.wu04@sjsu.edu)
-Joni Richards Bodart (joni.bodart@sjsu.edu)
-Jooyeon Ha (jooyeon.ha@sjsu.edu)
-Jordan Ellis (jordan.ellis@sjsu.edu)
-Jordan Liz (jordan.liz@sjsu.edu)
-Jordan Schettler (jordan.schettler@sjsu.edu)
-Jordan Walters (jordan.walters@sjsu.edu)
-Jordan Yamiguez (jordan.yamat@sjsu.edu)
-Jorge Gonzalez (jorge.m.gonzalez@sjsu.edu)
-Jorge Prado Brabata (jmqprado@gmail.com)
-Jorge Silva (silva.jorge0101@gmail.com)
-Jorjeta Jetcheva (jorjeta.jetcheva@sjsu.edu)
-Jose Aguinaga (jose.aguinaga@sjsu.edu)
-Jose Bautista (jose.bautista@sjsu.edu)
-Jose Esquivel Patricio (jose.esquivelpatricio@sjsu.edu)
-Jose Ramirez (jose.j.ramirez@sjsu.edu)
-Joseph Barjis (joseph.barjis@sjsu.edu)
-Joseph Bergee (joseph.bergee@sjsu.edu)
-Joseph Biagini (joseph.biagini@sjsu.edu)
-Joseph Coe (joseph.coe@sjsu.edu)
-Joseph Disalvo (joseph.disalvo@sjsu.edu)
-Joseph Dworak (joseph.dworak@berliner.com)
-Joseph Hasty (joseph.hasty@sjsu.edu)
-Joseph Navarro (joseph.navarro@sjsu.edu)
-Joseph Petsche (joseph.petsche@sjsu.edu)
-Josephine Njie (josephine.njie@sjsu.edu)
-Josh Watson (josh.watson@sjsu.edu)
-Josh Zinman (josh.zinman@sjsu.edu)
-Joshita Atmakuri (joshita.atmakuri@sjsu.edu)
-Joshua Baur (joshua.baur@sjsu.edu)
-Joshua Moreno (joshua.moreno@sjsu.edu)
-Joshua Nelson (joshua.nelson@sjsu.edu)
-Josine Smits (josine.smits@sjsu.edu)
-José Torres (jose.r.torres@sjsu.edu)
-Jovana Babic (jovana.babic@sjsu.edu)
-Joy Foster (joy.foster@sjsu.edu)
-Joy Wang (joy.wang@sjsu.edu)
-Ju-Mee Ryoo (ju-mee.ryoo@sjsu.edu)
-Juan Gamboa (juan.gamboa@sjsu.edu)
-Juan Gomez (juan.gomez@sjsu.edu)
-Juan Pablo Mercado (juanpablo.mercado@sjsu.edu)
-Juan Pena (juan.m.pena@sjsu.edu)
-Juan Serna (juan.serna@sjsu.edu)
-Judi Heher (judith.heher@sjsu.edu)
-Julia Airapetyan (julia.airapetyan@sjsu.edu)
-Julia Curry (julia.curry@sjsu.edu)
-Julia Gosart (ulia.gosart@sjsu.edu)
-Julia Swan (julia.swan@sjsu.edu)
-Julian Vogel (julian.vogel@sjsu.edu)
-Julianna Kim (julianna.kim@sjsu.edu)
-Julianna Youssef (julianna.youssef@sjsu.edu)
-Julianne Estrela (julianne.estrela@sjsu.edu)
-Julie Rangel Hernandez (julie.rangelhernandez@sjsu.edu)
-Julie Spitzer (julie.sliva@sjsu.edu)
-Julien Capers (julien.capers@sjsu.edu)
-Julio Martinez (julio.martinez@sjsu.edu)
-Julliet Loyola (julliet.loyola@sjsu.edu)
-Jun Liu (junliu@sjsu.edu)
-Jung Suh (jung.suh@sjsu.edu)
-Justin Rietz (justin.rietz@sjsu.edu)
-Justin Strong (justin.strong@sjsu.edu)
-Juzi Zhao (juzi.zhao@sjsu.edu)
-K Ghadiri (k.ghadiri@sjsu.edu)
-Kaikai Liu (kaikai.liu@sjsu.edu)
-Kaitlin Cannava (kaitlin.cannava@sjsu.edu)
-Kala Padmanabhan (kala.padmanabhan@sjsu.edu)
-Kali Akers Gifford (kali.akers@sjsu.edu)
-Kanak Somani (kanak.somani@sjsu.edu)
-Kanan Patel (kanan.patel@sjsu.edu)
-Kaoru Hollin (kaoru.hollin@sjsu.edu)
-Kara Davis (kara.davis@sjsu.edu)
-Karen Castaneda (karen.castaneda@sjsu.edu)
-Karen Harvey (karen.harvey@sjsu.edu)
-Karen Knoblaugh (karenv731@yahoo.com)
-Karen Moody (karen.moody@sjsu.edu)
-Karen Moreno (karen.moreno@sjsu.edu)
-Karen Pickett (karen.pickett@sjsu.edu)
-Karen Singmaster (karen.singmaster@sjsu.edu)
-Karen Yu (ya.yu@sjsu.edu)
-Karim Suleman (ikarim.suleman@gmail.com)
-Karin Brown (karin.brown@sjsu.edu)
-Karin Jeffery (karin.jeffery@sjsu.edu)
-Kassahun Betre (kassahun.betre@sjsu.edu)
-Kasuen Mauldin (kasuen.mauldin@sjsu.edu)
-Kate Ferguson (kate.ferguson@sjsu.edu)
-Kate Metcalf (kate.metcalf@sjsu.edu)
-Kate Wilkin (kate.wilkin@sjsu.edu)
-Katerina Potika (katerina.potika@sjsu.edu)
-Katerina Tadenev (katerina.tadenev@sjsu.edu)
-Katharine Olson (katharine.olson@sjsu.edu)
-Katharine Studer (studerk2011@hotmail.com)
-Katherine Chilton (katherine.chilton@sjsu.edu)
-Katherine Cushing (Katherine.Cushing@sjsu.edu)
-Katherine Wilkinson (katherine.wilkinson@sjsu.edu)
-Kathie Kratochvil (kathie.kratochvil@sjsu.edu)
-Kathleen Cahill (kathleen.cahill@sjsu.edu)
-Kathleen Castillo (kathleen.castillo@sjsu.edu)
-Kathleen Mcdonald (kathleen.mcdonald@sjsu.edu)
-Kathleen Mcsharry (kathleen.mcsharry@sjsu.edu)
-Kathleen Normington (Kathleen.Normington@sjsu.edu)
-Kathleen Raiff (kathleen.raiff@sjsu.edu)
-Kathrine Richardson (kathrine.richardson@sjsu.edu)
-Kathryn Wise (kathryn.wise@sjsu.edu)
-Kathy Haven (kathyhaven@gmail.com)
-Kathy Le (kathy.le@sjsu.edu)
-Kathy Lemon (kathylemon2013@gmail.com)
-Kathy Werking (kathy.werking@sjsu.edu)
-Katie Berkeland (katheryn.berkeland@sjsu.edu)
-Katrina Long (katrina.long@sjsu.edu)
-Katy Kao (katy.kao@sjsu.edu)
-Kaushik Patra (kaushik.patra@sjsu.edu)
-Kaye Sanders (kaye.sanders@sjsu.edu)
-Kayla Curto-Borden (kayla.curto-borden@sjsu.edu)
-Kayla Mitchell (kayla.mitchell@sjsu.edu)
-Kayla Rooney (kayla.rooney@sjsu.edu)
-Keenan Norris (keenan.norris@sjsu.edu)
-Keeyong Han (keeyong.han@sjsu.edu)
-Keith Pinto (keith.pinto@sjsu.edu)
-Keith Yi (keith.yi@sjsu.edu)
-Kelly Brennan (kelly.brennan@sjsu.edu)
-Kelly Snider (kelly.snider@sjsu.edu)
-Kelsea Rossow (kelsea.rossow@sjsu.edu)
-Kelsey Bogan (kelsey.bogan@sjsu.edu)
-Kendall Ward (kendall.ward@sjsu.edu)
-Kenneth Gehrt (kenneth.gehrt@sjsu.edu)
-Kenneth Peter (kenneth.peter@sjsu.edu)
-Kenneth Wharton (kenneth.wharton@sjsu.edu)
-Kerri Malloy (kerri.malloy@sjsu.edu)
-Kevin Bontenbal (kbontenbal@charter.net)
-Kevin Chiu (kevin.chiu01@sjsu.edu)
-Kevin Kellogg (kevin.kellogg@sjsu.edu)
-Kevin Lee (kevin.f.lee@sjsu.edu)
-Kevin Lo (kevin.lo01@sjsu.edu)
-Kevin Lynch (kevin.lynch@sjsu.edu)
-Kevin Maguire (kevin.maguire@sjsu.edu)
-Kevin Mannens (kevin.mannens@sjsu.edu)
-Kevin Moore (kevin.moore@sjsu.edu)
-Kevin Nguyen (kevin.l.nguyen@sjsu.edu)
-Kevin Roe (kevin.roe@sjsu.edu)
-Kevin Smith (kevin.smith@sjsu.edu)
-Kevin Soohoo (kevin.soohoo@sjsu.edu)
-Kevin Wing (kevin.s.wing@sjsu.edu)
-Kezban Yagci Sokat (kezban.yagcisokat@sjsu.edu)
-Khaled Mabrouk (kmabrouk@ReduceOR.com)
-Kidane Sengal (kidane.sengal@sjsu.edu)
-Kim Clark (kim.clark@sjsu.edu)
-Kim Knight (kim.knight@sjsu.edu)
-Kim Miranda (kim.miranda@sjsu.edu)
-Kim Tsai (kim.tsai@sjsu.edu)
-Kim Yee (kim.yee@sjsu.edu)
-Kimb Massey (kimb.massey@sjsu.edu)
-Kimberlee Golles (kimberlee.golles@sjsu.edu)
-Kimberli Buckley (kimberli.buckley@sjsu.edu)
-Kimberly Piet (piet.kimberly@gmail.com)
-Kirsten Schwartz (kirsten.schwartz@sjsu.edu)
-Kohar Scott (kohar.scott@sjsu.edu)
-Komal Sanjaykumar Joshi (komalsanjaykumar.joshi@sjsu.edu)
-Kourosh Amirkhani (kourosh.amirkhani@sjsu.edu)
-Kourosh Youssefi (kourosh.youssefi@sjsu.edu)
-Kris Borgen (kris.borgen@sjsu.edu)
-Krissy Hassett (krissy.hassett@sjsu.edu)
-Kristen Cole (kristen.cole@sjsu.edu)
-Kristen Krumanaker (kristen.krumanaker@sjsu.edu)
-Kristen Radsliff (kristen.radsliff@sjsu.edu)
-Kristian O'Hare (kristian.ohare@sjsu.edu)
-Kristin Fitzpatrick Ezell (kristin.fitzpatrickezell@sjsu.edu)
-Kristine Kirkendall (kristine.kirkendall@sjsu.edu)
-Kristy Kay (kristy.kay@sjsu.edu)
-Krupa Patel (krupa.patel@sjsu.edu)
-Krystal Boehlert (krystal.boehlert@sjsu.edu)
-Kumar Vishal (kumar.vishal@sjsu.edu)
-Kurt Mcmullin (kurt.mcmullin@sjsu.edu)
-Kyle Corbett (kyle.corbett@sjsu.edu)
-Kyle Hambrook (kyle.hambrook@sjsu.edu)
-Kyle Hertsch (kyle.hertsch@sjsu.edu)
-Kyle Johnson (kyle.johnson@sjsu.edu)
-Kyle Worley (kyle.worley@sjsu.edu)
-Kyle Yrigoyen (kyle.yrigoyen@sjsu.edu)
-Kyoung Mi Choi (kyoungmi.choi@sjsu.edu)
-Kyu Kim (kyu@acsarchitects.com)
-Lamont Williams (lamont.williams@sjsu.edu)
-Lan Nguyen (lhnguyen95@gmail.com)
-Lance Fung (lance.fung@sjsu.edu)
-Laree Huntsman (laree.huntsman@sjsu.edu)
-Larissa Chiriaeva (larissa.chiriaeva@sjsu.edu)
-Lark Alder (lark.alder@sjsu.edu)
-Larry Gerston (larry.gerston@sjsu.edu)
-Latisha Roberts (nicholeroberts24@gmail.com)
-Laura Chin (laura.chin@sjsu.edu)
-Laura Guardino (lauraguardino@yahoo.com)
-Laura Kapitzky (laura.kapitzky@sjsu.edu)
-Laura Miller Conrad (laura.miller.conrad@sjsu.edu)
-Laura Mugica Sanchez (laura.mugica@sjsu.edu)
-Laura Pirazzi (laura.pirazzi@sjsu.edu)
-Laureen Hom (laureen.hom@sjsu.edu)
-Laurence Pilot-Darier-Baziere (laurence.pilot-darier-baziere@sjsu.edu)
-Laurene Beto (laurene_beto@sccoe.org)
-Laurie Steinberg (laurie.steinberg@sjsu.edu)
-Lawrence Lan (lawrence.lan@sjsu.edu)
-Lawrence Nguyen (e.lawrence.nguyen@gmail.com)
-Lawrence Schapiro (lawrence.schapiro@sjsu.edu)
-Lea Endo (lea.le@sjsu.edu)
-Leah Gaines (leah.gaines@sjsu.edu)
-Leann Hill (leann.hill@sjsu.edu)
-Leanne Teruya (leanne.teruya@sjsu.edu)
-Lee Aarons (lee.aarons@comcast.net)
-Lee Chang (lee.chang@sjsu.edu)
-Lee Gilmore (lee.gilmore@sjsu.edu)
-Lee Pate (lee.pate@sjsu.edu)
-Lei Cai (lei.cai@sjsu.edu)
-Leif Rogers (leif.rogers@sjsu.edu)
-Leigh Via (leigh.via@sjsu.edu)
-Leighton Hinkley (leighton.hinkley@sjsu.edu)
-Leila Beverleigh (leila.beverleigh@sjsu.edu)
-Leila Ensaniat (leila.ensaniat@sjsu.edu)
-Leila Khatib (leila.khatib@sjsu.edu)
-Lenea Pollett (lenea.pollett@sjsu.edu)
-Leonard Wesley (leonard.wesley@sjsu.edu)
-Lesley Wiley (lesley.wiley@gmail.com)
-Leslie Albert (leslie.albert@sjsu.edu)
-Leslie Corona (leslie.corona@sjsu.edu)
-Leslie Roberts (leslie.roberts@sjsu.edu)
-Leslye Whitehead (leslye.whitehead@sjsu.edu)
-Lesther Papa (lesther.papa@sjsu.edu)
-Lexygius Calip (lexygius.calip@sjsu.edu)
-Li Jin (li.jin@sjsu.edu)
-Liam Stanton (liam.stanton@sjsu.edu)
-Liat Rosenfeld (liat.rosenfeld@sjsu.edu)
-Libra Hilde (libra.hilde@sjsu.edu)
-Lili He (lili.he@sjsu.edu)
-Lili Luo (Lili.Luo@sjsu.edu)
-Liliana Castrellon (liliana.castrellon@sjsu.edu)
-Lillian Hawthorne (lillian.hawthorne@sjsu.edu)
-Lilly Chen (lilly.chen@sjsu.edu)
-Lin Jiang (lin.jiang@sjsu.edu)
-Lin Zou (lin.zou@sjsu.edu)
-Linda Higgins (linda.higgins@sjsu.edu)
-Linda Main (Linda.Main@sjsu.edu)
-Linda Mitchell (linda.mitchell@sjsu.edu)
-Lindsay Walsh (lindsay.walsh@sjsu.edu)
-Lining Wang (lining.wang@sjsu.edu)
-Lisa Bernasconi (lisa.bernasconi@sjsu.edu)
-Lisa Chaudoin (lisa.chaudoin@sjsu.edu)
-Lisa Heikka-Huber (lisa.heikka-huber@sjsu.edu)
-Lisa Morgan (lisa.morgan@sjsu.edu)
-Lisa Rauch (lisa.rauch@sjsu.edu)
-Lisa Simpson (lisa.simpson@sjsu.edu)
-Lisa Walker-Vischer (lisa.walker-vischer@sjsu.edu)
-Lissette Moore-Guerra (lissette.moore-guerra@sjsu.edu)
-Liz Asborno (elizabeth.asborno@sjsu.edu)
-Liz Linden (liz.linden@sjsu.edu)
-Liz Roberts (liz.roberts@sjsu.edu)
-Lizeth Gonzalez (lizeth.gonzalez@sjsu.edu)
-Loc Lam (loc.lam@sjsu.edu)
-Logan Miller (logan.miller@sjsu.edu)
-Logan O'Brien (logan.obrien@sjsu.edu)
-Logan Walker (logan.walker@sjsu.edu)
-Lorri Capizzi (lorri.capizzi@sjsu.edu)
-Loubna Hafid (loubna.hafid@sjsu.edu)
-Louis Freund (louis.freund@sjsu.edu)
-Louise Bernbaum (louise.bernbaum@sjsu.edu)
-Lucas Hatton (lucas.hatton@sjsu.edu)
-Lucas Schwyter (youngkwang.schwyter@sjsu.edu)
-Lucinda Cabral (Lucinda.Cabral@sjsu.edu)
-Lucinda Robledo (lucinda.robledo@sjsu.edu)
-Lucy Headrick (lucy.headrick@sjsu.edu)
-Luis Arabit (luis.arabit@sjsu.edu)
-Luis Orozco (luis.a.orozco@sjsu.edu)
-Luis Poza (luis.poza@sjsu.edu)
-Luke Gardner (luke.gardner@sjsu.edu)
-Luz Arvizu (luz.arvizu@sjsu.edu)
-Lynn Dau (lynn.dau@sjsu.edu)
-Lynne Andonian (Lynne.Andonian@sjsu.edu)
-Lynne Trulio (lynne.trulio@sjsu.edu)
-Madalyn Radlauer (madalyn.radlauer@sjsu.edu)
-Madhu Thummaluru (madhu.thummaluru@sjsu.edu)
-Madison Sullivan (madison.sullivan@sjsu.edu)
-Magdalini Eirinaki (Magdalini.Eirinaki@sjsu.edu)
-Maggie Selzer (margaret.selzer@sjsu.edu)
-Mahboubeh Madadi (mahboubeh.madadi@sjsu.edu)
-Mahesh Rajan (mahesh.rajan@sjsu.edu)
-Mahima Agumbe Suresh (mahima.agumbesuresh@sjsu.edu)
-Mahima Prabhakaran (mahima.prabhakaran@sjsu.edu)
-Mahsa Modirzadeh (modirzadehmahsa@yahoo.com)
-Maipeng Wei (maipeng.wei@sjsu.edu)
-Maite Urcaregui (maite.urcaregui@sjsu.edu)
-Maleiyah Harris (maleiyah.harris@sjsu.edu)
-Manami Iwata (manami.iwata@sjsu.edu)
-Manel Palos Pons (manel.palos@sjsu.edu)
-Manoj Mistry (manoj.mistry@sjsu.edu)
-Manvendrasinh Sisodia (manvendrasinh.sisodia@sjsu.edu)
-Mara Skov (mara.skov@sjsu.edu)
-Marcella Cardoza Mccollum (She/Ella) (marcella.mccollum@sjsu.edu)
-Marci Harris (marci.harris@sjsu.edu)
-Marco Meniketti (marco.meniketti@sjsu.edu)
-Marcos Cepin (marcos.cepin@sjsu.edu)
-Marelyn Negrete (marelyn.negrete@sjsu.edu)
-Margaret Stevenson (margaret.stevenson@sjsu.edu)
-Maria Aziz (maria.aziz@sjsu.edu)
-Maria Basile (maria.basile@sjsu.edu)
-Maria Chierichetti (maria.chierichetti@sjsu.edu)
-Maria Cruz (maria.cruz@sjsu.edu)
-Maria Fusaro (maria.fusaro@sjsu.edu)
-Maria Ledesma (maria.ledesma@sjsu.edu)
-Maria Luisa Colmenarez (marialuisa.colmenarez@sjsu.edu)
-Marianne Delaporte Kabir (marianne.delaportekabir@sjsu.edu)
-Maribel Martinez (maribel.martinez@sjsu.edu)
-Marieka Drovin (mariekadrovin14@gmail.com)
-Mariella Morales (mariella.morales@sjsu.edu)
-Marilyn Easter (marilyn.easter@sjsu.edu)
-Marina Vaserman (marina.vaserman@sjsu.edu)
-Marion Beach (marion.schinn@sjsu.edu)
-Marion Campisi (marion.campisi@sjsu.edu)
-Marjan Khatibi (marjan.khatibi@sjsu.edu)
-Mark Ammar Rayes (arayes100@gmail.com)
-Mark Barash (mark.barash@sjsu.edu)
-Mark Brady (mark.brady@sjsu.edu)
-Mark Dowdy (mark.dowdy@sjsu.edu)
-Mark Greenough (mark.greenough@sjsu.edu)
-Mark Mckenna (mark.mckenna@sjsu.edu)
-Mark Pasion (markpasion@att.net)
-Mark Stamp (mark.stamp@sjsu.edu)
-Mark Thompson (mark.thompson@sjsu.edu)
-Mark Van Selst (mark.vanselst@sjsu.edu)
-Markle Addis (markle.addis@sjsu.edu)
-Marta Elliott (marta.elliott@sjsu.edu)
-Martha Behler (martha.behler@sjsu.edu)
-Martin Bilello (martin.bilello@sjsu.edu)
-Martina Bremer (martina.bremer@sjsu.edu)
-Mary Conroy (mary.conroy@sjsu.edu)
-Mary Currin-Percival (mary.currinpercival@sjsu.edu)
-Mary Evangeliste (mary.evangeliste@sjsu.edu)
-Mary Gloner (mary.gloner@sjsu.edu)
-Mary Hall (mary.hall@sjsu.edu)
-Mary Juno (mary.juno@sjsu.edu)
-Mary Morse (mary.morse@sjsu.edu)
-Mary Pickering (mary.pickering@sjsu.edu)
-Mary Poffenroth (mary.poffenroth@sjsu.edu)
-Mary Salzman (mary.salzman@sjsu.edu)
-Maryam Khazaei Pool (maryam.khazaeipool@sjsu.edu)
-Maryam Pirmoradi (m.pirmoradi20@gmail.com)
-Maryann Harlan (maryann.harlan@sjsu.edu)
-Maryanne Whitney (maryanne.whitney@sjsu.edu)
-Marziah Rajabzadeh (marziah.rajabzadeh@sjsu.edu)
-Mash (Michael) Ashley (michael.ashley@sjsu.edu)
-Matt Cabot (matt.cabot@sjsu.edu)
-Matt Crockett (matt.crockett@sjsu.edu)
-Matthew Bejar (matthew.bejar@sjsu.edu)
-Matthew Breaux (matthew.breaux@ssa.sccgov.org)
-Matthew Capriotti (matthew.capriotti@sjsu.edu)
-Matthew Faulkner (matthew.faulkner@sjsu.edu)
-Matthew Holian (matthew.holian@sjsu.edu)
-Matthew Leigh (matthew.leigh@sjsu.edu)
-Matthew Maguire (matthew.maguire@sjsu.edu)
-Matthew Moore (matthew.d.moore@sjsu.edu)
-Matthew Moore (matthew.moore@sjsu.edu)
-Matthew Moresco (mmoresco09@gmail.com)
-Maureen Kelley (maureen.kelley@sjsu.edu)
-Maureen Smith She/Her (maureen.smith@sjsu.edu)
-Max Yoshimoto (max.yoshimoto@sjsu.edu)
-Maxime Grand (maxime.grand@sjsu.edu)
-Maxine Shao (maxine.shao@sjsu.edu)
-Maya Devries (maya.devries@sjsu.edu)
-Mayra Cardenas Rojo (mayra.cardenas@sjsu.edu)
-Mayu Loffgren (mayu.loffgren@sjsu.edu)
-Medha Bodas (medha.bodas@sjsu.edu)
-Meekyung Han (meekyung.han@sjsu.edu)
-Meet Patel (meetbharatbhai.patel@sjsu.edu)
-Meg Quarton (meg.quarton@sjsu.edu)
-Megan Chang (megan.chang@sjsu.edu)
-Megan Price (megan.price@sjsu.edu)
-Megan Sales (megan.sales@sjsu.edu)
-Megan Thiele Strong (megan.thiele@sjsu.edu)
-Meghan Gorman-Darif (meghan.gorman-darif@sjsu.edu)
-Meghna Soni (meghna.soni@sjsu.edu)
-Mehrdad Khosravi (mehrdad.khosravi@sjsu.edu)
-Melanie Mcneil (melanie.mcneil@sjsu.edu)
-Melinda Jackson (melinda.jackson@sjsu.edu)
-Melinda Simon (melinda.simon@sjsu.edu)
-Melisa Kaye (melisa.kaye@sjsu.edu)
-Melissa Beresford (melissa.beresford@sjsu.edu)
-Melissa Meyers (melissaif@gmail.com)
-Melissa Puckett (mapuckett08@gmail.com)
-Melissa Tribble (melissa.tribble@sjsu.edu)
-Melody Barta (melody.barta@sjsu.edu)
-Melody Esfandiari (mn_esfandiari@yahoo.com)
-Melody Moh (melody.moh@sjsu.edu)
-Meredith Kondo (meredith.kondo@sjsu.edu)
-Mi Zhou (mi.zhou01@sjsu.edu)
-Michae Musick (leigh.musick@sjsu.edu)
-Michael Brito (britopian@gmail.com)
-Michael Cheers (michael.cheers@sjsu.edu)
-Michael Dao (michael.dao@sjsu.edu)
-Michael Edgerton (michael.edgerton@sjsu.edu)
-Michael Fong (michael.k.fong@sjsu.edu)
-Michael Ford (michael.n.ford@sjsu.edu)
-Michael Graham (MGRAHAM.KELPSTER@GMAIL.COM)
-Michael Hernandez (michael.n.hernandez@sjsu.edu)
-Michael Jordan (michael.jordan@sjsu.edu)
-Michael Klein (michael.klein@sjsu.edu)
-Michael Lam (michael.lam01@sjsu.edu)
-Michael Linnik (michael.linnik@sjsu.edu)
-Michael Llewellyn-Williams (michael.llewellyn-williams@sjsu.edu)
-Michael Mann Stock (michael.mann-stock@sjsu.edu)
-Michael Mathe (michael.mathe@sjsu.edu)
-Michael Merz (michael.merz@sjsu.edu)
-Michael Oye (michael.oye@sjsu.edu)
-Michael Randle (michael.randle@sjsu.edu)
-Michael Stephens (mstephens7@mac.com)
-Michael Sudduth (michael.sudduth01@sjsu.edu)
-Michael Swain (michael.swain@sjsu.edu)
-Michael Vallerga (michael.vallerga@sjsu.edu)
-Michael Vartanian (michael.vartanian@sjsu.edu)
-Michael Williams (michael.j.williams@sjsu.edu)
-Michele Bertolone (michele.bertolone@sjsu.edu)
-Michele Burns (michele.burns@sjsu.edu)
-Michele Santamaria (michele.santamaria@sjsu.edu)
-Michele Villagran (michele.villagran@sjsu.edu)
-Michelle Chen (hsuanwei.chen@sjsu.edu)
-Michelle Gentry (michelle.gentry@sjsu.edu)
-Michelle Hampton (michelle.hampton@sjsu.edu)
-Michelle Lee (michelle.j.lee@sjsu.edu)
-Michelle Tipton-Burton (michelle.tipton-burton@sjsu.edu)
-Michelle Tran (michelle.tran02@sjsu.edu)
-Michelle Wilson (michelle.wilson@sjsu.edu)
-Michiko Uryu (michiko.uryu@sjsu.edu)
-Midori Ishida (midoriishida@gmail.com)
-Miguel Figueroa (miguel.figueroa@sjsu.edu)
-Miguel Novelo (miguel.novelo@sjsu.edu)
-Mihwa Choi (mihwa.choi@sjsu.edu)
-Mike Benveniste (mike.benveniste@sjsu.edu)
-Mike Dillinger (mike.dillinger@sjsu.edu)
-Mike Hill (mike.hill@sjsu.edu)
-Mike Vardaro (michael.vardaro@sjsu.edu)
-Mike Wood (mike.wood@sjsu.edu)
-Miles Pascal-Gonzales (mileskpg@gmail.com)
-Ming Cheng (ming.cheng@sjsu.edu)
-Ming Zhou (ming.zhou@sjsu.edu)
-Minghui Diao (minghui.diao@sjsu.edu)
-Minh Duong (minh.d.duong@sjsu.edu)
-Minh Hoang Huynh (leonhuynh2401@gmail.com)
-Minh Vu (minh.n.vu@sjsu.edu)
-Minna Holopainen (minna.holopainen@sjsu.edu)
-Mira Jane (mira.jane@sjsu.edu)
-Miranda Nzoyem (miranda.nzoyem@sjsu.edu)
-Miranda Schmidt (miranda.schmidt@sjsu.edu)
-Miranda Worthen (miranda.worthen@sjsu.edu)
-Miri Vanhoven (mkvanhoven@gmail.com)
-Misako Van Der Poel (misako.vanderpoel@sjsu.edu)
-Misty Mcnay (mistymcnay@gmail.com)
-Mithila Guha (mithila.guha@sjsu.edu)
-Miwa Merz (miwa.merz@sjsu.edu)
-Mohamed Soliman (mohamed.soliman@sjsu.edu)
-Mohammad Masum (mohammad.masum@sjsu.edu)
-Mohammad Saleem (Mohammad.Saleem@sjsu.edu)
-Mohammed Saif Ulla Ameen Lnu (mohammedsaifullaameen@sjsu.edu)
-Mohammed Yahdi (mohammed.yahdi@sjsu.edu)
-Mohana Venkat Yarlagadda (mohanavenkatyarlagadda@gmail.com)
-Mohsen Marizad (mohsen.marizad@sjsu.edu)
-Mojgan Haririfar (mojgan.haririfar@sjsu.edu)
-Mojtaba Sharifi (mojtaba.sharifi@sjsu.edu)
-Molly Hankwitz (molly.hankwitz@sjsu.edu)
-Monica Gavino (monica.gavino@sjsu.edu)
-Monica Van Den Dool (monica.vandendool@sjsu.edu)
-Moninderjeet Agroia (meenu7@mac.com)
-Monique Duphily (monique.duphily@sjsu.edu)
-Monique Howe (monique.howe@sjsu.edu)
-Moorea Lippert (moorea.lippert@sjsu.edu)
-Morana Medved (morana@zagabria.net)
-Morgan Mcknight (morgan.mcknight@sjsu.edu)
-Morgan Sanchez (morgan.sanchez@sjsu.edu)
-Morris Jones (morris.jones@sjsu.edu)
-Mostafa Jalal (mostafa.jalal@sjsu.edu)
-Mostafa Mortezaie (mostafa.mortezaie@sjsu.edu)
-Mugdha Birari (mugdha.birari@sjsu.edu)
-Muhammad Saeed (muhammad.saeed@sjsu.edu)
-Mukesh Dokala (mukesh.dokala@sjsu.edu)
-Murat Okyar (murat.okyar@sjsu.edu)
-Nada Attar (nada.attar@sjsu.edu)
-Nader Mir (nader.mir@sjsu.edu)
-Nadia Sorkhabi (nadia.sorkhabi@sjsu.edu)
-Naga Vardhan Maddala (nagavardhan.maddala@sjsu.edu)
-Nagib Hakim (nagib.hakim@sjsu.edu)
-Naman Ghumman (naman.ghumman@sjsu.edu)
-Namiq Sultanov (namiq.sultanov@sjsu.edu)
-Nancy Carlin (nancy.carlin@sjsu.edu)
-Nancy Da Silva (nancy.dasilva@sjsu.edu)
-Nancy Dudley (nancy.dudley@sjsu.edu)
-Nancy Friedland (nancy.friedland@sjsu.edu)
-Nancy Long (nancy.long@sjsu.edu)
-Nancy Park (nancy.park@sjsu.edu)
-Nancy Smith (nancy.smith@sjsu.edu)
-Nancy Stork (nancy.stork@sjsu.edu)
-Nandana Jill (nandana.jill@sjsu.edu)
-Naoki Matsumura (naoki.matsumura@sjsu.edu)
-Naomi Wagner (psychprof1@yahoo.com)
-Naomi Williams (naomi.williams@sjsu.edu)
-Narayan Balasubramanian (narayan.balasubramanian@sjsu.edu)
-Nargis Adham (nargis.adham@sjsu.edu)
-Natalie Birthelmer (natalie.birthelmer@sjsu.edu)
-Nathan Osborne (nathan.osborne@sjsu.edu)
-Nathan Samarasena (nathan.samarasena@sjsu.edu)
-Nathaniel Bogie (nathaniel.bogie@sjsu.edu)
-Nathaniel Lupton (nathaniel.lupton@sjsu.edu)
-Nathapong Shugan (nathapong.shugan@sjsu.edu)
-Natsuko Tsuji (natsuko.aug1@gmail.com)
-Navrati Saxena (navrati.saxena@sjsu.edu)
-Nayoun Lee (nayoun.lee@sjsu.edu)
-Neel Desai (neel.u.desai@sjsu.edu)
-Neelam Rattan (neelam.rattan@sjsu.edu)
-Neeraj Sahejpal (neeraj.sahejpal@sjsu.edu)
-Neha Khodaskar Khapare (neha.khodaskarkhapare@sjsu.edu)
-Neil Switz (neil.switz@sjsu.edu)
-Netta Conyers-Haynes (netta.conyers-haynes@sjsu.edu)
-Neyram Hemati (neyram.hemati@sjsu.edu)
-Nharmadhaa Manickam (nharmadhaa.manickam@sjsu.edu)
-Ni Zhang (ni.zhang01@sjsu.edu)
-Niall Mccarthy (niall.mccarthy@sjsu.edu)
-Nica Tanaka (nicollette.tanaka@sjsu.edu)
-Nicholas Esker (nicholas.esker@sjsu.edu)
-Nicholas Hightower (nick.hightower@sjsu.edu)
-Nicholas Taylor (nicholas.taylor@sjsu.edu)
-Nick Bathurst (nicholas.bathurst@sjsu.edu)
-Nick Martinez (nick.martinez@sjsu.edu)
-Nicolas Fraire (nicolas.fraire@sjsu.edu)
-Nicole Dubus (nicole.dubus@sjsu.edu)
-Nicole Levine (nicole.levine@sjsu.edu)
-Nicole Zhang (nicole.zhang@sjsu.edu)
-Nik Tehrani (nik.tehrani@sjsu.edu)
-Nikhil Sunku (nikhil.sunku@sjsu.edu)
-Nikole Trainor (nikole.trainor@sjsu.edu)
-Nikos Mourtos (nikos.mourtos@sjsu.edu)
-Niloofar Salehi (niloofar.salehi@sjsu.edu)
-Ningkun Wang (ningkun.wang@sjsu.edu)
-Ninh Nguyen (ninh.nguyen@sjsu.edu)
-Ninos Malek (ninos.malek@sjsu.edu)
-Niranjani Patel (minnie.patel@sjsu.edu)
-Nisha Garud Patkar (nisha.garud@sjsu.edu)
-Nitin Aggarwal (nitin.aggarwal@sjsu.edu)
-Nivedita Nair (nivedita.nair@sjsu.edu)
-Noah Friedman-Biglin (noah.friedman-biglin@sjsu.edu)
-Noni Reis (noni.mendozareis@sjsu.edu)
-Nora Adadurova (nora.adadurova@sjsu.edu)
-Nora Balabanian (nora.balabanian@sjsu.edu)
-Noura Wedell (nura.wedell@sjsu.edu)
-Olenka Hubickyj (olenka.hubickyj@sjsu.edu)
-Olga Kovaleva (olga.kovaleva@sjsu.edu)
-Olinda Mar (olinda.mar@sjsu.edu)
-Olivia Yip (olivia.yip@sjsu.edu)
-Ossie Rashel (ossie.rashel@sjsu.edu)
-Owen Matthew Aurelio (omaha56@hotmail.com)
-Pablo Furman (Pablo.Furman@sjsu.edu)
-Padmavati Tanniru (padmatd@yahoo.com)
-Pamela Wells (pamela.wells@sjsu.edu)
-Param Saini (paramdeep.saini@sjsu.edu)
-Pascale Messa (pascale.messa@sjsu.edu)
-Patralekha Ukil (patralekha.ukil@sjsu.edu)
-Patricia Daley- Harms (patricia.daley-harms@sjsu.edu)
-Patrick Cravalho (patrick.cravalho@sjsu.edu)
-Patrick Hutchinson (patrick.hutchinson@sjsu.edu)
-Patrick Jurney (patrick.jurney@sjsu.edu)
-Patrick Murphy (patrick.a.murphy@sjsu.edu)
-Patrick Sweeney (patrick.sweeney@sjsu.edu)
-Patrick Tam (patrick.k.tam@sjsu.edu)
-Paul Cascella (paul.cascella@sjsu.edu)
-Paul Ellison (paul.ellison@sjsu.edu)
-Paul Houck (paul.houck@gmail.com)
-Paul Kutler (pkutler@comcast.net)
-Paul Mills (paul.mills@sjsu.edu)
-Paul Varun Guddeti (paulvarun.guddeti@sjsu.edu)
-Paul-Vincent Lombardi (paul.lombardi@sjsu.edu)
-Paula Bonander Oakes (paula.oakes@sjsu.edu)
-Paula Edwards (paula.edwards@sjsu.edu)
-Peg Hughes (peg.hughes@sjsu.edu)
-Peggy Plato (peggy.plato@sjsu.edu)
-Pei-Tzu Tsai (peitzu.tsai@sjsu.edu)
-Penny Peck (Pikly@aol.com)
-Periklis Papadopoulos (periklis.papadopoulos@sjsu.edu)
-Peter Beyersdorf (peter.beyersdorf@sjsu.edu)
-Peter Coronado (peter.coronado@sjsu.edu)
-Peter Gao (peter.gao@sjsu.edu)
-Peter Lee (peter.a.lee@sjsu.edu)
-Peter O'Sullivan (peter.o'sullivan@sjsu.edu)
-Peter Rodriquez (peterrodriquez@hotmail.com)
-Peter Schreiber (peter.schreiber@sjsu.edu)
-Philip Amo Agyapong (philipamo.agyapong@sjsu.edu)
-Philip Bair (philip.bair@sjsu.edu)
-Philip Dirlam (philip.dirlam@sjsu.edu)
-Philip Krayna (philip.krayna@sjsu.edu)
-Philip Mohseni (philipgmohseni@gmail.com)
-Philippa Kelly (philippa.kelly@sjsu.edu)
-Phillip Hawkins (phillip.hawkins@sjsu.edu)
-Phuong Phan (quynhphuong.phan@sjsu.edu)
-Phyliswest Johnson (phylis.west@sjsu.edu)
-Pietro Calogero (pietro.calogero@sjsu.edu)
-Plamen Koev (plamen.koev@sjsu.edu)
-Pouya Ostovari (pouya.ostovari@sjsu.edu)
-Prajakti Jayavant (prajakti.jayavant@sjsu.edu)
-Pranjali Sanghvi (pranjalihimanshu.sanghvi@sjsu.edu)
-Pranusha Cheemarla (pranusha.cheemarla@sjsu.edu)
-Prarthna Kashyap (prarthna.kashyap@sjsu.edu)
-Prateek Jain (prateek.jain@sjsu.edu)
-Pratik Korat (pratikkumardalsukhbhai.korat@sjsu.edu)
-Pree Kolari (pree.kolari@sjsu.edu)
-Preston Rudy (preston.rudy@sjsu.edu)
-Price Pettit (price.pettit@sjsu.edu)
-Puja Prasad (pprasad06@gmail.com)
-Qi Wang (qi.wang01@sjsu.edu)
-Qian Tan (qian.tan@sjsu.edu)
-Quang Duy Tran (quangduy.tran@sjsu.edu)
-Quincy Mccrary (qmccrary@gmail.com)
-Rachael French (rachael.french@sjsu.edu)
-Rachel Lazzeri-Aerts (rachel.lazzeriaerts@sjsu.edu)
-Rachel O'Malley (rachel.omalley@sjsu.edu)
-Rachel Peters (rachel.peters@sjsu.edu)
-Rachel Turner (rachel.turner@sjsu.edu)
-Radha Aravamudhan (radha.aravamudhan@sjsu.edu)
-Rafael Kaliski (rafael.kaliski@sjsu.edu)
-Raghu Agarwal (raghu.agarwal@sjsu.edu)
-Raha Shojaei (raha.shojaei@sjsu.edu)
-Rahmon Pashtunyar (rahmon.pashtunyar@sjsu.edu)
-Raina Levesque (raina.levesque@sjsu.edu)
-Rajorshi Ghosh (rajorshi.ghosh@sjsu.edu)
-Rakesh Ranjan (ranjanr@gmail.com)
-Ralph Mckay (ralph.mckay@sjsu.edu)
-Ralph Nichols (ralphnichols58@gmail.com)
-Ramachandran Varadharajan (ramachandran.varadharajan@sjsu.edu)
-Ramamurti Sridar (ramamurti.sridar@sjsu.edu)
-Ramen Bahuguna (ramendra.bahuguna@sjsu.edu)
-Ramesh Srinivasan (ramesh.srinivasan@sjsu.edu)
-Ramin Alizadeh (ramin.alizadeh@sjsu.edu)
-Ramin Moazeni (ramin.moazeni@sjsu.edu)
-Rana Mcreynolds (rana.mcreynolds@sjsu.edu)
-Ranjini Venkatraman (ranjini.venkatraman@sjsu.edu)
-Ranko Heindl (ranko.heindl@sjsu.edu)
-Raphael Boumaila (raphael.boumaila@sjsu.edu)
-Raphael Noz (raphael.noz@sjsu.edu)
-Raquel Coelho (raquel@raquelcoelho.com)
-Ravi Agarwal (ravi.agarwal@sjsu.edu)
-Ravindra Thadani (ravindra.thadani@sjsu.edu)
-Ravisha Mathur (ravisha.mathur@sjsu.edu)
-Ray Furuta (ray.furuta@sjsu.edu)
-Ray Mendoza Landa (raymundo.mendozalanda@sjsu.edu)
-Raymand Buyco (raymand.buyco@sjsu.edu)
-Raymond Combs (ray.combs@sjsu.edu)
-Raymond Kwok (raymond.kwok@sjsu.edu)
-Raymond Noriega (raymond.noriega@sjsu.edu)
-Raymond Yee (raymond.yee@sjsu.edu)
-Rebeca Burciaga (rebeca.burciaga@sjsu.edu)
-Rebecca Clark (rebecca.clark@sjsu.edu)
-Rebecca Kling (rebecca.kling@sjsu.edu)
-Regina Arnold (regina.arnold@sjsu.edu)
-Reiko Kataoka (reiko.kataoka@sjsu.edu)
-Ren (Karen) Williams (karen.williams@sjsu.edu)
-Renae Bhader (renaebhader@aol.com)
-Renee Billner-Garcia (renee63bsn@gmail.com)
-Renee Gorth (renee.gorth@sjsu.edu)
-Rex Tsou (rex.tsou@sjsu.edu)
-Rhonda Holberton (rhonda.holberton@sjsu.edu)
-Riana Betzler (riana.betzler@sjsu.edu)
-Ricardo Ballin (ricardo.ballin@sjsu.edu)
-Richard Craig (richard.craig@sjsu.edu)
-Richard Grotegut (richard.grotegut@sjsu.edu)
-Richard Kos (richard.kos@sjsu.edu)
-Richard Lee (richard.lee@sjsu.edu)
-Richard Low (richard.low@sjsu.edu)
-Richard Montgomery (richard.montgomery@sjsu.edu)
-Richard Sessions (richard.sessions@sjsu.edu)
-Richard Sinn (richardsinn@yahoo.com)
-Richard Vandivier (rickvandivier@comcast.net)
-Richie Tay (richie.tay@sjsu.edu)
-Ricky Koonming Chan (koon-ming.chan@sjsu.edu)
-Rita Zigas-Brown (rita.zigas-brown@sjsu.edu)
-Riti Gour (riti.gour@sjsu.edu)
-Rob Mayeda (rob.mayeda@sjsu.edu)
-Rob Salinas (rob.salinas@sjsu.edu)
-Robert Benzio (robert.benzio@sjsu.edu)
-Robert Chun (robert.chun@sjsu.edu)
-Robert Cirivilleri (robert.cirivilleri@sjsu.edu)
-Robert Morelos-Zaragoza (robert.morelos-zaragoza@sjsu.edu)
-Robert Ovetz (robert.ovetz@sjsu.edu)
-Robert Rinck (robert.rinck@sjsu.edu)
-Robert Sibley (Robert.Sibley@sjsu.edu)
-Robert Van Wagenen (robert.vanwagenen@sjsu.edu)
-Robert Werkman (robert.werkman@sjsu.edu)
-Roberto Gonzalez (roberto.gonzalez@sjsu.edu)
-Roberto Sandoval (roberto.sandoval@sjsu.edu)
-Robin Lasser (robin.lasser@sjsu.edu)
-Robin Love (robin.love@sjsu.edu)
-Robin Sacolick (robin.sacolick@sjsu.edu)
-Robin Schulte (robin.schulte@sjsu.edu)
-Robin Whitney (robin.whitney01@sjsu.edu)
-Rod Fatoohi (rod.fatoohi@sjsu.edu)
-Rodney Knox (knox117@outlook.com)
-Rodney Myatt (rodney.myatt@sjsu.edu)
-Rodrigo Chen (rodrigo.chen@sjsu.edu)
-Roger Coldiron (roger.coldiron@sjsu.edu)
-Roger Smith (roger.smith@sjsu.edu)
-Roger Terrill (roger.terrill@sjsu.edu)
-Rolanda Pollard (rolanda.pollard@sjsu.edu)
-Ron Mak (ron.mak@sjsu.edu)
-Ron Pasek (ron.pasek@sjsu.edu)
-Ron Roman (ronald.roman@sjsu.edu)
-Rona Halualani (rona.halualani@sjsu.edu)
-Rong Sha (ron.sha@sjsu.edu)
-Roni Abusaad (roni.abusaad@sjsu.edu)
-Roohi Vora (roohi.vora@sjsu.edu)
-Rosa Vega (vegarosa@saccounty.gov)
-Rosanna Alvarez (rosanna.alvarez@sjsu.edu)
-Rosanne Welch (rosanne.welch@sjsu.edu)
-Rosemary Hardin (rosemary.hardin@sjsu.edu)
-Roshni Shah (roshni.shah@sjsu.edu)
-Roxanne Cnudde (roxanne.cnudde@sjsu.edu)
-Roy Okuda (roy.okuda@sjsu.edu)
-Rui Liu (rui.liu@sjsu.edu)
-Rula Khayrallah (rula.khayrallah@sjsu.edu)
-Ruphina Ozoh (ruphinao@yahoo.com)
-Ruth Barefoot (ruth.barefoot@sjsu.edu)
-Ruth Rosenblum (ruth.rosenblum@sjsu.edu)
-Ryan Duffy (ryan.duffy@sjsu.edu)
-Ryan Eways (ryan.eways@sjsu.edu)
-Ryan Hess (m.hess@sjsu.edu)
-Ryan Kim (ryan.kim01@sjsu.edu)
-Ryan Luong (ryan.luong@sjsu.edu)
-Ryan Portner (ryan.portner@sjsu.edu)
-Ryan Smith (ryan.smith@sjsu.edu)
-S V S Siva Narayana Naga Sesha Kollepara (svssivanarayananagasesha.kollepara@sjsu.edu)
-S. Ayca Erdogan (ayca.erdogan@sjsu.edu)
-Sabina Giri (sabina.giri@sjsu.edu)
-Sabine Mooney (sabine.wessler@sjsu.edu)
-Sabine Rech (sabine.rech@sjsu.edu)
-Sabrina Pinnell (SLPinnell@gmail.com)
-Sadhna Diwan (sadhna.diwan@sjsu.edu)
-Sage Hopkins (sage.hopkins@sjsu.edu)
-Sahana Vasanth (sahana.vasanth@sjsu.edu)
-Sahika Vatan (sahika.vatan@sjsu.edu)
-Sai Anuraghav Savadam (saianuraghav.savadam@sjsu.edu)
-Saied Rafati (saied.rafati@sjsu.edu)
-Saili Kulkarni (saili.kulkarni@sjsu.edu)
-Saivikas Thota (saivikas.thota@sjsu.edu)
-Salman Ahsan (sahsan@gmail.com)
-Salman Tahsin (salman.tahsin@sjsu.edu)
-Sam Koosha (sam.koosha@sjsu.edu)
-Samantha Kaplan (samantha.kaplan@sjsu.edu)
-Samantha Peek (samantha.peek@sjsu.edu)
-Samantha Ramirez (samantha.ramirez02@sjsu.edu)
-Samantha Saldana (samantha.saldana@sjsu.edu)
-Samira Bagheri (samira.bagheri@sjsu.edu)
-Samuel Michael (samuel.michael@sjsu.edu)
-Samuel Petruescu (samuel.petruescu@sjsu.edu)
-San-Hui Chuang (san-hui.chuang@sjsu.edu)
-Sanchita Mukherjee (sanchita.mukherjee@sjsu.edu)
-Sandra Brown (sandra.l.brown@sjsu.edu)
-Sandra Trafalis (sandra.trafalis@sjsu.edu)
-Sandy Chen (sandy.t.chen@sjsu.edu)
-Sang E Lee (sang.lee@sjsu.edu)
-Sang-Soo Lee (sang-soo.lee@sjsu.edu)
-Sangjin Lee (sangjin.lee@sjsu.edu)
-Saptarshi Sengupta (saptarshi.sengupta@sjsu.edu)
-Sara Benson (sara.benson@sjsu.edu)
-Sara Caniglia Schulte (sara.canigliaschulte@sjsu.edu)
-Sara Cook (sara.cook@sjsu.edu)
-Sarah Accomazzo (sarah.accomazzo@sjsu.edu)
-Sarah Buckius (sarah.buckius@sjsu.edu)
-Sarah Ference (sarah.ference@sjsu.edu)
-Sarah Kate Anderson (sarahkate.anderson@sjsu.edu)
-Sarah Kaufman (sarah.kaufman@sjsu.edu)
-Sarah Mcgaffey (sarah.mcgaffey@sjsu.edu)
-Sarah Mcpeak (sarah.mcpeak@sjsu.edu)
-Sarah Mills (sarah.mills@sjsu.edu)
-Sarah Prasad (sarah.prasad@sjsu.edu)
-Sarah Smith (sarah.r.smith@sjsu.edu)
-Sargon Ishaya (sargon.ishaya@sjsu.edu)
-Sasha Reiisieh (sasha.reiisieh@sjsu.edu)
-Sathvika Mamidi (sathvikamamidi15@gmail.com)
-Saugher Nojan (saugher.nojan@sjsu.edu)
-Saul Villegas (saul.villegas@sjsu.edu)
-Sayma Akther (sayma.akther@sjsu.edu)
-Schantell Williams (schantell.williams@sjsu.edu)
-Scott Alkire (s_alkire@hotmail.com)
-Scott Cummins (scott.cummins@sjsu.edu)
-Scott Hamilton (shamilton@mlml.calstate.edu)
-Scott Jarvie (scott.jarvie@sjsu.edu)
-Scott Jensen (scott.jensen@sjsu.edu)
-Scott Miller (scott.j.miller@sjsu.edu)
-Scott Miller (scott.miller@sjsu.edu)
-Scott Phillabaum (scott.phillabaum@sjsu.edu)
-Scott Shaffer (scott.shaffer@sjsu.edu)
-Scott Shields (scott.shields@sjsu.edu)
-Scott Sublett (prof.sublett@gmail.com)
-Sean Gaffney (sean.gaffney@sjsu.edu)
-Sean Montgomery (sean.montgomery@sjsu.edu)
-Selena Anderson (selena.anderson@sjsu.edu)
-Serkan Saka (serkan.saka@sjsu.edu)
-Seshadri Paravastu (seshadri.paravastu@sjsu.edu)
-Seung Ho Chang (seungho.chang@sjsu.edu)
-Shaam Madhvani (shaam.madhvani@sjsu.edu)
-Shahrzad Khosrowpour (shahrzad.khosrowpour@sjsu.edu)
-Shaifali Singh (shaifali.singh@sjsu.edu)
-Shama Ball (shama.ball@sjsu.edu)
-Shannon Rose Riley (shannonrose.riley@sjsu.edu)
-Shannon Shimada (shannon.shimada@sjsu.edu)
-Shannon Webb (shannon.webb@sjsu.edu)
-Shannon Wright (shannon.wright@sjsu.edu)
-Shaonan Tian (shaonan.tian@sjsu.edu)
-Sharon Qi (sharon.qi@sjsu.edu)
-Shashi Agarwal (shashi.agarwal@sjsu.edu)
-Shaun Fletcher (shaun.fletcher@sjsu.edu)
-Shaun O'Dell (shaun.odell@sjsu.edu)
-Shawn Wilde (shawn.wilde@sjsu.edu)
-Shawna Bolton (shawna.bolton@sjsu.edu)
-Shelby Burnett (shelby.burnett@sjsu.edu)
-Sheree Martinek (sheree.martinek@sjsu.edu)
-Sherri Harvey (sherri.harvey@sjsu.edu)
-Sherry Yu Tsai (yu.tsai@sjsu.edu)
-Sherveen Riazati (sherveen.riazati@sjsu.edu)
-Shiela-Lyn Lim (shiela-lyn.lim@sjsu.edu)
-Shih Yu Chang (shihyu.chang@sjsu.edu)
-Shilpa Gupta (shilpa.gupta@sjsu.edu)
-Shireen Faraha Shaik (shireenfaraha.shaik@sjsu.edu)
-Shirley Reekie (shirley.reekie@sjsu.edu)
-Shishir Mathur (shishir.mathur@sjsu.edu)
-Shiz Kobara (shiz.kobara@sjsu.edu)
-Shreeyukta Singh (shreeyukta@hotmail.com)
-Shrikant Jadhav (shrikant.jadhav@sjsu.edu)
-Shu Zhou (Shu.Zhou@sjsu.edu)
-Shukura Umi (shukura.umi@sjsu.edu)
-Sian Sloan (sian.sloan@sjsu.edu)
-Sian Wittke (sian.wittke@sjsu.edu)
-Simmony Baran (simmony.baran@sjsu.edu)
-Simon Rodan (simon.rodan@sjsu.edu)
-Simon Seo (simon.seo@sjsu.edu)
-Simon Shim (simon.shim@sjsu.edu)
-Simon Tobin (simon.tobin@sjsu.edu)
-Simona Snitkovskaya (simona.snitkovskaya@sjsu.edu)
-Simone Lundquist (simone.lundquist@sjsu.edu)
-Sina Aboutorabi (sina.aboutorabi@sjsu.edu)
-Singmay Chou (singmay.chou@sjsu.edu)
-Siri Veland (siriveland@gmail.com)
-Sisi Dong (sisi.dong@sjsu.edu)
-Sk Krishnamurthy (krishdpi@gmail.com)
-Slobodan Simic (slobodan.simic@sjsu.edu)
-Smita Duorah (smita.duorah@sjsu.edu)
-Sneha Dutta Hazarika (sneha.duttahazarika@sjsu.edu)
-Sneha Odugoudar (sneha.odugoudar@sjsu.edu)
-Sogol Jahanbekam (sogol.jahanbekam@sjsu.edu)
-Soly Paterson (soly.paterson@sjsu.edu)
-Soma De Bourbon (soma.debourbon@sjsu.edu)
-Soma Sen (somasen@juno.com)
-Sonia Cuellar-Ortiz (sonia.cuellar-ortiz@sjsu.edu)
-Sonia Singhal (sonia.singhal@sjsu.edu)
-Sonja House (sonja.house@sjsu.edu)
-Soo Choi (soo.choi@sjsu.edu)
-Sophie Aust (sophia.aust@sjsu.edu)
-Sophie Kelmenson (sophie.kelmenson@sjsu.edu)
-Sotoudeh Hamedi-Hagh (sotoudeh.hamedi-hagh@sjsu.edu)
-Soumya De (soumya.de@sjsu.edu)
-Souvick Ghosh (souvick.ghosh@sjsu.edu)
-Spoorthy Ananthaiah (spoorthy.ananthaiah@sjsu.edu)
-Sravani Vadlamani (sravani.vadlamani@sjsu.edu)
-Sriram Rao (sriram.rao@sjsu.edu)
-Stanley Butler (stanley.butler@sjsu.edu)
-Stefan Frazier (stefan.frazier@sjsu.edu)
-Stefanie Harvey (stefanie.harvey@sjsu.edu)
-Stephanie Klee (stephaniejklee.klee@sjsu.edu)
-Stephanie Sherman (stephanie.sherman@sjsu.edu)
-Stephanie Spencer (stephanie.spencer@sjsu.edu)
-Stephanie Stepp (stephanie.stepp@sjsu.edu)
-Stephen Artim (stephen.artim@sjsu.edu)
-Stephen Morewitz (drstephenmorewitz@gmail.com)
-Steve Bennet (steven.bennet@sjsu.edu)
-Steve Davis (steven.davis@sjsu.edu)
-Steve Durie (steve.durie@sjsu.edu)
-Steve Mannshardt (steven.mannshardt@sjsu.edu)
-Steve Perry (steveperrymail@yahoo.com)
-Steve Sanchez (steve.sanchez@sjsu.edu)
-Steven Crunk (steven.crunk@sjsu.edu)
-Steven Del Chiaro (steven.delchiaro@sjsu.edu)
-Steven Lin (steven.lin@aya.yale.edu)
-Steven Macramalla (steven.macramalla@sjsu.edu)
-Steven Sepka (s.sepka@gmx.com)
-Steven Silver (steven.silver@sjsu.edu)
-Steven Vukazich (steven.vukazich@sjsu.edu)
-Stoyu Ivanov (stoyu.ivanov@sjsu.edu)
-Subhankar Dhar (subhankar.dhar@sjsu.edu)
-Sudha Krishnan (sudha.v.krishnan@sjsu.edu)
-Sukanya Chakrabarti (sukanya.chakrabarti@sjsu.edu)
-Suky Sangha (suky.sangha@sjsu.edu)
-Sulekha Anand (sulekha.anand@sjsu.edu)
-Sumita Raghuram (sumita.raghuram@sjsu.edu)
-Suneuy Kim (suneuy.kim@sjsu.edu)
-Sung Jay Ou (sungjay.ou@sjsu.edu)
-Supreeta Amin (supreeta.amin@sjsu.edu)
-Surya Teja Boganatham (suryateja.boganatham@sjsu.edu)
-Susan Chen (susan.chen@sjsu.edu)
-Susan Lambrecht (susan.lambrecht@sjsu.edu)
-Susan Mckenna (sabrineh3@yahoo.com)
-Susan Ross (susan.ross@sjsu.edu)
-Susan Snycerski (susan.snycerski@sjsu.edu)
-Susan Trimingham (susan.trimingham@sjsu.edu)
-Susan Verducci Sandford (She/Hers) (susan.verducci@sjsu.edu)
-Susana Gallardo (susana.gallardo@sjsu.edu)
-Susanna Khavul (susanna.khavul@sjsu.edu)
-Susie Rivera (susie.rivera@sjsu.edu)
-Suzanne Haley (suzanne.haley@sjsu.edu)
-Sydney Sun (sydney.sun@sjsu.edu)
-Syed Zaidi (syed.zaidi@sjsu.edu)
-Sylvia Branca (sylvia.branca@sjsu.edu)
-Tabitha Brookins (tabitha.brookins@sjsu.edu)
-Tabitha Hart (tabitha.hart@sjsu.edu)
-Taehee Jeong (taehee.jeong@sjsu.edu)
-Taehwan Lee (taehwan.lee@sjsu.edu)
-Tahereh Arabghalizi (tahereh.arabghalizi@sjsu.edu)
-Tahir Bachar Issa (tahirbachar.issa@sjsu.edu)
-Takoua Bejaoui (tbejaoui1@sbcglobal.net)
-Tamara Mckinnon (tamara.mckinnon@sjsu.edu)
-Tami Boroughf (tami.boroughf@sjsu.edu)
-Tami Turner (tami.turner@sjsu.edu)
-Tammie Visintainer (tammie.visintainer@sjsu.edu)
-Tammy Lohmann (tammy.lohmann@sjsu.edu)
-Tan Nguyen (tan.v.nguyen@sjsu.edu)
-Tanja Nathanael (tanja.nathanael@sjsu.edu)
-Tanvi Kothari (tanvi.kothari@sjsu.edu)
-Tanya Bakhru (tanya.bakhru@sjsu.edu)
-Tara Branham (tara.branham@sjsu.edu)
-Tara Duffy (tara.duffy@sjsu.edu)
-Taryn King (taryn.king@sjsu.edu)
-Tasha Reddy (tasha.reddy@sjsu.edu)
-Taylor Arhar (taylor.arhar@sjsu.edu)
-Taylor-Dawn Francis (taylor-dawn.francis@sjsu.edu)
-Ted Butryn (theodore.butryn@sjsu.edu)
-Tejinder Kaur (tejinder.kaur01@sjsu.edu)
-Telvin Zhong (telvin.zhong@sjsu.edu)
-Teng Moh (teng.moh@sjsu.edu)
-Teresa Chang (teresa.chang@sjsu.edu)
-Teresa Estrabao (teresa.estrabao@sjsu.edu)
-Teresa O'Donnell-Johnson (teresa.o'donnell-johnson@sjsu.edu)
-Teresa Veramendi (teresa.veramendi@sjsu.edu)
-Terrell Holmes (terrell.holmes@sjsu.edu)
-Terry Piper (terry.piper@sjsu.edu)
-Terry Thompson (tthompson360@yahoo.com)
-Tess Mcintyre (tess.mcintyre@sjsu.edu)
-Theresa Dinh (theresa.dinh@sjsu.edu)
-Theresa Yao (theresa.yao@sjsu.edu)
-Therese Louie (therese.louie@sjsu.edu)
-Thomas Austin (thomas.austin@sjsu.edu)
-Thomas Beggs (thomas.beggs@sjsu.edu)
-Thomas Connolly (thomas.p.connolly@sjsu.edu)
-Thomas Hornig (thtrombone@gmail.com)
-Thomas Langan (tpmlangan@yahoo.com)
-Thomas Lester (thomas.lester@sjsu.edu)
-Thomas Madura (thomas.madura@sjsu.edu)
-Thomas Mcnulty (thomas.mcnulty@sjsu.edu)
-Thomas Moriarty (thomas.moriarty@sjsu.edu)
-Thomas Shirley (thomas.shirley@sjsu.edu)
-Thomas Wrappe (thomas.wrappe@sjsu.edu)
-Thuy Le (thuy.le@sjsu.edu)
-Tiana Tameta-Arenas (tiana.tameta-arenas@sjsu.edu)
-Tianqin Shi (tianqin.shi@sjsu.edu)
-Tiffany Barry (tiffany.barry@sjsu.edu)
-Tiffany Nguyen (tiffany.t.nguyen@sjsu.edu)
-Tijana Rajkovic (tijana.rajkovic@sjsu.edu)
-Tim Miles (tim.miles@sjsu.edu)
-Timna Naim (timnanaim@gmail.com)
-Timothy Harris (timothy.harris@sjsu.edu)
-Timothy Hill (timothy.hill@sjsu.edu)
-Timothy Johnston (timothy.johnston@sjsu.edu)
-Tina Korani (tina.korani@sjsu.edu)
-Tina Lim (tina.lim@sjsu.edu)
-Titus Amza (titus.amza@sjsu.edu)
-Todd Engstrom (todd.engstrom@sjsu.edu)
-Todd Kress (todd.kress@sjsu.edu)
-Todd Levasseur (todd.levasseur@sjsu.edu)
-Todd Perreira (Todd.Perreira@sjsu.edu)
-Todd Robinson (todd.robinson@sjsu.edu)
-Tom Austin (tomcaustin@yahoo.com)
-Tom Pham (tom.pham@sjsu.edu)
-Toni Bloom (toni@tonibloom.com)
-Toni Toledo (tonitoledo1967@gmail.com)
-Tony Pan (tony.pan01@sjsu.edu)
-Tony Papanikolas (tony.papanikolas@sjsu.edu)
-Tonya Nilsson (tonya.nilsson@sjsu.edu)
-Travis Rappleye (travis@biotechbootcamp.com)
-Trent Polizzi (trent.polizzi@sjsu.edu)
-Trevor Gullion (trevor.gullion@sjsu.edu)
-Trevor Katzakian (trevor.katzakian@sjsu.edu)
-Tridha Chatterjee (tridha.chatterjee@sjsu.edu)
-Trisha Bergthold (trisha.bergthold@sjsu.edu)
-Trung Nguyen (trung.p.nguyen@sjsu.edu)
-Tsu-Hong Yen (tsu-hong.yen@sjsu.edu)
-Tuanh Nguyen (tuanh.nguyen@sjsu.edu)
-Tyler Morales (erika.morales@sjsu.edu)
-Tyler Ward (tyler.ward01@sjsu.edu)
-Uday Mandlekar (uday.mandlekar@sjsu.edu)
-Udeme Ndon (udeme.ndon@sjsu.edu)
-Ume Ali (ume.ali@sjsu.edu)
-Ursula Holzmann (ursula.holzmann@sjsu.edu)
-Usha Andra (usha.andra@sjsu.edu)
-Usiel Meraz Cerna (usiel.merazcerna@sjsu.edu)
-Uyen Nguyen (uyen.p.nguyen03@sjsu.edu)
-Vakini Santhanakrishnan (vakini.santhanakrishnan@sjsu.edu)
-Valerie Carr (valerie.carr@sjsu.edu)
-Valerie Chapman (valerie.chapman@sjsu.edu)
-Valerie Lo (valerie.lo@sjsu.edu)
-Valerie Mendoza (valerie.mendoza@sjsu.edu)
-Valerie Smith (valerie.smith@sjsu.edu)
-Vanessa Gregory (vanessa.gregory@sjsu.edu)
-Vasuda Bhatia (vasuda.bhatia@sjsu.edu)
-Vee Lawson (vee.lawson@sjsu.edu)
-Veneice Guillory-Lacy (veneice.guillory-lacy@sjsu.edu)
-Veneita Schult (veneita.schult@sjsu.edu)
-Verena Martinez (verena.martinez@sjsu.edu)
-Vickey Collins (vcol946074@aol.com)
-Victor De Loza (victor.deloza@sjsu.edu)
-Victor Maraschin (victor.maraschin@sjsu.edu)
-Victoria Harrison (victoria.harrison@sjsu.edu)
-Victoria Lington (victoria.lington@sjsu.edu)
-Victoria Thorp (victoria.thorp@sjsu.edu)
-Viet Nguyen (viet.nguyen@sjsu.edu)
-Vikhyath Shankargari (vikhyath.shankargari@sjsu.edu)
-Vimal Viswanathan (vimal.viswanathan@sjsu.edu)
-Virginia Montelongo (virginia.montelongo@sjsu.edu)
-Virginia San Fratello (VASFsf@gmail.com)
-Virginia Tucker (virginia.tucker@sjsu.edu)
-Virpi Outila (virpi.outila@sjsu.edu)
-Vishnu Pendyala (vishnu.pendyala@sjsu.edu)
-Vishwa Samirbhai Shah (vishwasamirbhai.shah@sjsu.edu)
-Viswanath Aditham (viswanath.aditham@sjsu.edu)
-Vivek Agarwal (vivek.agarwal01@sjsu.edu)
-Vivian Antonellis (vivian.antonellis@sjsu.edu)
-Viviana Sanchez-Chopitea (viviana.sanchezchopitea@sjsu.edu)
-Vlad Ionescu (vlad.ionescu@sjsu.edu)
-Vrushali Arute (vrushali.arute@sjsu.edu)
-Vuong Do (vuong.do@sjsu.edu)
-Wael Abdeljabbar (wael.abdeljabbar@sjsu.edu)
-Wahida Akter (wahida.akter@sjsu.edu)
-Walter Adams (walter.adams@sjsu.edu)
-Walter Easter (walter.easter@sjsu.edu)
-Walter Van Hooff (walter@qoesystems.com)
-Wasin So (wasin.so@sjsu.edu)
-Wayne Jopanda (wayne.jopanda@sjsu.edu)
-Wei-Chen Wang Tung (wei-chen.tung@sjsu.edu)
-Wenbin Wei (wenbin.wei@sjsu.edu)
-Wencen Wu (wencen.wu@sjsu.edu)
-Wendy Lee (wendy.lee@sjsu.edu)
-Wendy Mora (wendy.hales@sjsu.edu)
-Wendy Quach (She/Her) (wendy.quach@sjsu.edu)
-Wendy Rouse (wendy.rouse@sjsu.edu)
-Wil Doane (william.doane@sjsu.edu)
-Wil Quintero (wil.quintero01@sjsu.edu)
-Will Russell (will.russell@sjsu.edu)
-William Andreopoulos (william.andreopoulos@sjsu.edu)
-William Armaline (william.armaline@sjsu.edu)
-William Hong (william.hong@sjsu.edu)
-William Mccraw (william.mccraw@sjsu.edu)
-William Seneshen (william.seneshen@sjsu.edu)
-Winifred Schultz-Krohn (Winifred.Schultz-Krohn@sjsu.edu)
-Winncy Du (winncy.du@sjsu.edu)
-Winston Gregory (winston.gregory@sjsu.edu)
-Wint Mon Mon Kyaw (wintmonmon.kyaw@sjsu.edu)
-Wo-Tak Wu (wo-tak.wu@sjsu.edu)
-Xhavin Sinha (xhavin@gmail.com)
-Xi Feng (xi.feng@sjsu.edu)
-Xiangyu Ren (xiangyu.ren@sjsu.edu)
-Xiao Wang (xiao.wang@sjsu.edu)
-Xiao Wu (xiao.wu@sjsu.edu)
-Xiaojia Hou (xiaojia.hou@sjsu.edu)
-Xintong Chen (xintong.chen@sjsu.edu)
-Y Shimazu (y.shimazu@sjsu.edu)
-Yacoub Moussa (yacoub.moussa@sjsu.edu)
-Yalda Edalat (yalda.edalat@sjsu.edu)
-Yan Chen (yan.chen01@sjsu.edu)
-Yan Zhang (yan.x.zhang@sjsu.edu)
-Yanika Schneider (yanika.schneider@sjsu.edu)
-Yasin Ceran (yasin.ceran@sjsu.edu)
-Yasmeen Abdeljabbar (yasmeen.abdeljabbar@sjsu.edu)
-Yasser Dessouky (yasser.dessouky@sjsu.edu)
-Yasser Shahin (yasser.shahin@sjsu.edu)
-Yawo Ezunkpe (yawo.ezunkpe@sjsu.edu)
-Yazdan Pedram Razi (yazdan.pedramrazi@sjsu.edu)
-Ye Feng (ye.feng@sjsu.edu)
-Yen Fu (yen.fu@sjsu.edu)
-Yeonji No (yeonji.no@sjsu.edu)
-Yeonka Kim (yeonka.kim@sjsu.edu)
-Yi Lun Lee (yilun.lee@sjsu.edu)
-Yi Yuan (yi.yuan@sjsu.edu)
-Yilma Gezmu (yilma.gezmu@sjsu.edu)
-Yinghua Huang (yinghua.huang@sjsu.edu)
-Yining Nie (yining.nie@sjsu.edu)
-Yolanda Wiggins (yolanda.wiggins@sjsu.edu)
-Yoli Anyon (yolanda.anyon@sjsu.edu)
-Yoon Chung Han (yoonchung.han@sjsu.edu)
-Younes Shabany (younes.shabany@sjsu.edu)
-Yu Chen (yu.chen@sjsu.edu)
-Yuching Yang (yuchingjill@gmail.com)
-Yue Luo (yue.luo@sjsu.edu)
-Yue Sun (yue.sun@sjsu.edu)
-Yue Yuan (wilson.yuan@sjsu.edu)
-Yun Wang (yun.wang@sjsu.edu)
-Yunjian Qiu (yunjian.qiu@sjsu.edu)
-Yuwei He (yuwei.he01@sjsu.edu)
-Yvonne Escalante (yvonne.escalante@sjsu.edu)
-Yvonne Golembeski (yhgolembeski@gmail.com)
-Yvonne Kwan (yvonne.y.kwan@sjsu.edu)
-Yvonne Maxwell (yvonne@ujimaagency.org)
-Zachary Coustier (zachary.coustier@sjsu.edu)
-Zachary Mcniece (zachary.mcniece@sjsu.edu)
-Zack Lee (zack.lee@sjsu.edu)
-Zairac Smith (zairac.smith@sjsu.edu)
-Zaki Hasan (zaki.hasan@sjsu.edu)
-Zamir Zamir (md.zamir@sjsu.edu)
-Zehlia Babaci-Wilhite (zehlia.babaci-wilhite@sjsu.edu)
-Zeyu Gao (jerry.gao@sjsu.edu)
-Ziming Liu (ziming.liu@sjsu.edu)
-Zoey Liu (zoey.liu@sjsu.edu)
-Zongchao Li (zongchao.li@sjsu.edu)
+A J Faas |001 aj.faas@sjsu.edu
+Aaron Freitas |001 aaron.freitas@sjsu.edu
+Aaron Fuentes |001 aaron.o.fuentes@sjsu.edu
+Aaron Lington |001 aaron.lington@sjsu.edu
+Aaron Miller |001 aaron.l.miller@sjsu.edu
+Aaron Romanowsky |001 aaron.romanowsky@sjsu.edu
+Abbas Moallem |001 abbas.moallem@sjsu.edu
+Abdulmelik Mohammed |001 abdulmelik.mohammed@sjsu.edu
+Abera Jiru |001 abera.jiru@sjsu.edu
+Abhishek Golla |001 abhishek.golla@sjsu.edu
+Abi Romero |001 abi.romero@sjsu.edu
+Abisha Muzumder |001 abisha.muzumder@sjsu.edu
+Ada Marquez |001 ada.marquez@sjsu.edu
+Adam Bakr |001 adam.bakr@sjsu.edu
+Adam Nilsen |001 adam.nilsen@sjsu.edu
+Adam Romanik |001 adam.romanik@sjsu.edu
+Adam Shiverdecker |001 adam.shiverdecker@sjsu.edu
+Adelle Kearns |001 adelle.kearns@sjsu.edu
+Adi Siva Prasad Reddy Korivi |001 adisivaprasadreddy.korivi@sjsu.edu
+Aditi Rajan Shah |001 aditirajan.shah@sjsu.edu
+Aditya Nagaraj Shanbhog |001 adityanagaraj.shanbhog@sjsu.edu
+Adrian Gutierrez |001 adrian.gutierrez@sjsu.edu
+Adrianna Hamzelue |001 adrianna.hamzelue@sjsu.edu
+Adrianne Widaman |001 adrianne.widaman@sjsu.edu
+Adrienne Eastwood |001 adrienne.eastwood@sjsu.edu
+Aelin Lee |001 aelin.lee@sjsu.edu
+Ahmad Shaar |001 ahmad.shaar@sjsu.edu
+Ahmad Yazdankhah |001 ahmad.yazdankhah@sjsu.edu
+Ahmed Banafa |001 ahmed.banafa@sjsu.edu
+Ahmed Hambaba |001 ahmed.hambaba@sjsu.edu
+Ahoura Zandiatashbar |001 ahoura.zandiatashbar@sjsu.edu
+Aisha Elmeligi |001 aisha.elmeligi@gmail.com
+Ajay Apodaca |001 ajay.apodaca@sjsu.edu
+Ajay Singhal |001 ajaysinghal@yahoo.com
+Akansha Bhatia |001 akansha.bhatia@sjsu.edu
+Alaka Rao |001 alaka.rao@sjsu.edu
+Alan Corral |001 alan.corral@sjsu.edu
+Alayna Mills |001 alaynajmills@gmail.com
+Albert Chang |001 albert.chang@sjsu.edu
+Albert Schendan |001 AlSchendan@yahoo.com
+Albert Wong |001 albert.wong@sjsu.edu
+Alberto Garcia |001 alberto.garcia@sjsu.edu
+Alberto Juarez |001 alberto.juarez@sjsu.edu
+Alee Corsiglia |001 alee.corsiglia@sjsu.edu
+Alejandra Campos |001 alejandra.campos@sjsu.edu
+Alejandra Gonzalez-Zuniga |001 alejandra.gonzalez-zuniga@sjsu.edu
+Alejandro Artiga-Purcell |001 alejandro.artiga-purcell@sjsu.edu
+Alen Yaghoubi |001 alen.yaghoubi@sjsu.edu
+Alessandro Bellofiore |001 alessandro.bellofiore@sjsu.edu
+Alessandro De Giorgi |001 alessandro.degiorgi@sjsu.edu
+Alesya Petty |001 alesya.petty@sjsu.edu
+Alev Tug |001 alev.tug@sjsu.edu
+Alex Davis |001 alex.davis@sjsu.edu
+Alex May |001 alex.may@sjsu.edu
+Alexa Pagonas |001 alexa.pagonas@sjsu.edu
+Alexander Gvatua |001 alexander.gvatua01@sjsu.edu
+Alexander Jorgensen |001 alexander.jorgensen@sjsu.edu
+Alexander Payumo |001 alexander.payumo@sjsu.edu
+Alexandra Krass |001 alexandra.ludovina@sjsu.edu
+Alfredo Huante |001 alfredo.huante@sjsu.edu
+Ali Guarneros Luna |001 ali.guarneros-luna@sjsu.edu
+Ali Kashani |001 ali.kashani@sjsu.edu
+Ali Mehran |001 ali.mehran@sjsu.edu
+Alice Butzlaff |001 alice.butzlaff@sjsu.edu
+Alicia Hedges |001 alicia.hedges@sjsu.edu
+Alicia Henderson |001 alicia.henderson@sjsu.edu
+Alicia Mullens |001 alicia.mullens@sjsu.edu
+Alison Armstrong |001 foralarm@yahoo.com
+Alison George |001 alison.george@sjsu.edu
+Alison Johnson |001 alison.johnson@sjsu.edu
+Alison Mckee |001 alison.mckee@sjsu.edu
+Alissa Shaw |001 alissa.shaw@sjsu.edu
+Alla Petrosyan |001 alla.petrosyan@sjsu.edu
+Allison Briceno |001 allison.briceno@sjsu.edu
+Allison Gregory |001 allison.gregory@sjsu.edu
+Allison Harness |001 mary.harness@sjsu.edu
+Allison Johnson |001 allison.johnson@sjsu.edu
+Allison Katsev |001 allison.katsev@sjsu.edu
+Allison Martin |001 allison.martin@sjsu.edu
+Alvin Musgrave |001 bill.musgrave@gmail.com
+Aman Grewal |001 aman.grewal@sjsu.edu
+Amanda Feldman |001 amanda.feldman@sjsu.edu
+Amanda Guevara |001 amguevara727@gmail.com
+Amanda Kahn |001 amanda.kahn@sjsu.edu
+Amanda Kight |001 amanda.kight@sjsu.edu
+Amanda Smith |001 amanda.smith@sjsu.edu
+Amanda Trippler |001 trippleramanda@gmail.com
+Amaya Leyba-Guerra |001 amaya.leyba-guerra@sjsu.edu
+Amelia Le |001 truc.le01@sjsu.edu
+Amie Trinh |001 amie.trinh@sjsu.edu
+Amin Ghafooripour |001 amin.ghafooripour@sjsu.edu
+Amin Termeh Yousefi |001 amin.termehyousefi@sjsu.edu
+Amir Armani |001 amir.armani@sjsu.edu
+Amita Shah |001 amitaroyshah@gmail.com
+Amith Kamath Belman |001 amith.kamathbelman@sjsu.edu
+Amitoj Sandhu |001 amitoj.sandhu@sjsu.edu
+Amna Jaffer |001 amna.jaffer@sjsu.edu
+Amruta Adusumilli |001 amruta.adusumilli@sjsu.edu
+Amy Caffrey |001 amy.caffrey@sjsu.edu
+Amy Carlson |001 amy.carlson@sjsu.edu
+Amy Glazer |001 amy.glazer@sjsu.edu
+Amy Gurich |001 amy.gurich@sjsu.edu
+Amy Nguyen |001 myngoc.nguyen@sjsu.edu
+Amy Petersen |001 amy.petersen@sjsu.edu
+Anand Ramasubramanian |001 anand.ramasubramanian@sjsu.edu
+Ananda Mysore |001 mvananda@sbcglobal.net
+Andre Li |001 andre.li01@sjsu.edu
+Andrea Bechert |001 andrea.bechert@sjsu.edu
+Andrea Cipriano |001 andrea.cipriano@sjsu.edu
+Andrea English |001 abenglish300@gmail.com
+Andrea Gottlieb |001 andrea.gottlieb@sjsu.edu
+Andrea Neubauer |001 andrea.neubauer@sjsu.edu
+Andrea Whitson |001 Andrea.Whitson@sjsu.edu
+Andrew Blanton |001 andrew.blanton@sjsu.edu
+Andrew Bond |001 abptlm@gmail.com
+Andrew Carter |001 andrew.carter@sjsu.edu
+Andrew Delunas |001 andrew.delunas@sjsu.edu
+Andrew Hathaway |001 andrew.hathaway@sjsu.edu
+Andrew James |001 andrew.james@sjsu.edu
+Andrew Kinter |001 andrew.kinter@sjsu.edu
+Andrew Perera |001 andrew.perera@sjsu.edu
+Andrew Vela |001 andrew.vela@sjsu.edu
+Andrew Ysasi |001 andrew.ysasi@sjsu.edu
+Andro Rios |001 andro.rios@sjsu.edu
+Angel Ruiz Blanco |001 angel.ruizblanco@sjsu.edu
+Angela Castillo |001 angela.lavc@gmail.com
+Angela Tran |001 angela.tran@sjsu.edu
+Angela Wu |001 angela.wu@sjsu.edu
+Angelina Loyola |001 angelina.loyola@sjsu.edu
+Anh Nguyen |001 anh.nguyen@sjsu.edu
+Anil Kumar |001 anil.kumar@sjsu.edu
+Anita Schaack |001 anita.schaack@sjsu.edu
+Anji Buckner |001 anji.buckner@sjsu.edu
+Ann Kalinowski |001 ann.kalinowski@sjsu.edu
+Anna Demarchi |001 anna.demarchi@sjsu.edu
+Anna Jeong |001 anna.jeong@sjsu.edu
+Annalise Van Wyngarden |001 Annalise.VanWyngarden@sjsu.edu
+Anne Cheilek |001 anne.cheilek@sjsu.edu
+Anne Raygoza |001 anne.raygoza@sjsu.edu
+Anne Walker |001 anne.walker@sjsu.edu
+Annette Stahlnecker |001 annette.stahlnecker@sjsu.edu
+Annie Chase |001 annie.chase@sjsu.edu
+Annya Artigas |001 annya.artigas@sjsu.edu
+Anthony Andre |001 800usability@gmail.com
+Anthony Bernier |001 anthony.bernier@sjsu.edu
+Anthony Chow |001 a.chow@sjsu.edu
+Anthony Ermio |001 anthony.ermio@sjsu.edu
+Anthony Raynsford |001 anthony.raynsford@sjsu.edu
+Anthony Rossetti |001 anthony.rossetti@sjsu.edu
+Anuradha Basu |001 anu.basu@sjsu.edu
+Anusha Yellamsetty |001 anusha.yellamsetty@sjsu.edu
+Anya Iyengar |001 anya_iyengar@yahoo.com
+April Phillips |001 april.phillips@sjsu.edu
+April Wood |001 april.wood@sjsu.edu
+Apryl Berney |001 AKBERNEY@gmail.com
+Ara Acle |001 ara.acle@sjsu.edu
+Areum Jensen |001 areum.jensen@sjsu.edu
+Ari Cushner |001 ari.cushner@sjsu.edu
+Ariel Schreiman |001 ariel.schreiman@sjsu.edu
+Arjun Buxi |001 arjun.buxi@sjsu.edu
+Arlene Asuncion |001 arlene.asuncion@sjsu.edu
+Arman Medina |001 arman.medina@sjsu.edu
+Armin Moghadam |001 Armin.moghadam@sjsu.edu
+Arnold Danzig |001 arnold.danzig@sjsu.edu
+Artem Meshcheryakov |001 artem.meshcheryakov@sjsu.edu
+Arthur Casey |001 arthur.casey@sjsu.edu
+Arthur Zarate |001 arthur.zarate@sjsu.edu
+Arun Saha |001 arun.saha@sjsu.edu
+Aruna Gomathinayagam |001 aruna.gomathinayagam@sjsu.edu
+Asbjorn Osland |001 asbjorn.osland@sjsu.edu
+Ash Padwal |001 ashit.padwal@sjsu.edu
+Ash Rahmani |001 ashiyan.rahmani@sjsu.edu
+Asha Weinstein Agrawal |001 asha.weinstein.agrawal@sjsu.edu
+Ashkan Aryaei |001 ashkan.aryaei@gmail.com
+Ashlee Gossard |001 ashlee.gossard@sjsu.edu
+Ashley Reid |001 ashley.reid@sjsu.edu
+Ashley Seering |001 ashley.seering@sjsu.edu
+Ashly Vineyard |001 ashly.vineyard@sjsu.edu
+Ashraf Shirani |001 ashraf.shirani@sjsu.edu
+Ashwini Wagle |001 ashwini.wagle@sjsu.edu
+Atefeh Aghaei |001 atefeh.aghaei@sjsu.edu
+Athira Sarath |001 athira.sarath@sjsu.edu
+Au-Co Tran |001 au-co.tran@sjsu.edu
+Aubrey Uresti |001 aubrey.uresti@sjsu.edu
+Audrey Paulson |001 audrey.paulson@sjsu.edu
+Aurelio Dias Ferreira |001 aurelio.diasferreira@sjsu.edu
+Austin Bullock |001 austin.bullock@sjsu.edu
+Avantika Rohatgi |001 avrohatgi@gmail.com
+Avizia Long |001 avizia.long@sjsu.edu
+Azadeh Shahid Faylienejad |001 azadeh.fayli@SJSU.edu
+Azriel Montalvo |001 azriel.montalvo@sjsu.edu
+Babak Sarrafan |001 babak.sarrafan@sjsu.edu
+Bahar Shahsavarani |001 bahar.shahsavarani@sjsu.edu
+Bahram Parineh |001 Bahram.Parineh@sjsu.edu
+Baixue Zhang |001 baixue.zhang@sjsu.edu
+Bala Meghana Shivani Sripathi Panditharadhyula |001 balameghanashivani.sripathipanditharadhyula@sjsu.edu
+Balaji Venkatraman |001 balaji.venkatraman@sjsu.edu
+Barani Win |001 barani.win@sjsu.edu
+Barbara Murphywesley |001 barbara.murphywesley@sjsu.edu
+Barbara Ros |001 barbara.ros@sjsu.edu
+Barnaby Dallas |001 barnaby.dallas@sjsu.edu
+Bassam Kassab |001 bassam.kassab@sjsu.edu
+Beatriz Alyssa Oamil |001 beatrizalyssa.oamil@sjsu.edu
+Bee Leng Lee |001 beeleng.lee@sjsu.edu
+Behin Elahi |001 behin.elahi@sjsu.edu
+Belen Moreno |001 belen.moreno@sjsu.edu
+Benjamin Anderson |001 benjamin.c.anderson@sjsu.edu
+Benjamin Marsh |001 benjamin.marsh@sjsu.edu
+Benoit Delaveau |001 benoit.delaveau@sjsu.edu
+Berenice Barragan-Rocha |001 berenice.barragan-rocha@sjsu.edu
+Bernardo Flores |001 bernardo.flores@sjsu.edu
+Beth Dawson |001 mary.dawson@sjsu.edu
+Beth Harberts |001 beth.harberts@sjsu.edu
+Beth Mcmurray |001 elizabeth.mcmurray@sjsu.edu
+Bhawandeep Singh Harsh |001 bhawandeepsingh.harsh@sjsu.edu
+Bianca Hinojosa |001 bianca.hinojosa@sjsu.edu
+Bill Saichek |001 bill.saichek@sjsu.edu
+Billy Campsey Jr |001 billy.campsey@sjsu.edu
+Binh Danh |001 binh.danh@sjsu.edu
+Binh Le |001 binh.q.le@sjsu.edu
+Birgitte Mcdonald |001 birgitte.mcdonald@sjsu.edu
+Birsen Sirkeci |001 birsen.sirkeci@sjsu.edu
+Blake Sachs |001 blake.sachs@sjsu.edu
+Bo Mou |001 bo.mou@sjsu.edu
+Bobbi Makani |001 bobbi.makani@sjsu.edu
+Bobby Seals |001 bobby.m.seals@sjsu.edu
+Bonnie Belshe |001 bonnie.belshe@sjsu.edu
+Bonnie Hsia |001 bonnie.hsia@sjsu.edu
+Brad Sanfilippo |001 brad.sanfilippo@sjsu.edu
+Bradley Buerer |001 bradley.buerer@sjsu.edu
+Brandon Barrios |001 brandon.barrios@sjsu.edu
+Brandon Garcia |001 garcia.brandon@gmail.com
+Brandon Ian Eroles |001 brandonian.eroles@sjsu.edu
+Brandon Moore |001 brandon.wayne.moore@gmail.com
+Bree Grillo-Hill |001 bree.grillo-hill@sjsu.edu
+Brenda Garibay |001 brenda.garibay@sjsu.edu
+Brenda Lopez Rodas |001 brenda.lopezrodas@sjsu.edu
+Brenda Serrano |001 brenda.serrano@sjsu.edu
+Brent Duckor |001 brent.duckor@sjsu.edu
+Brian Andrade |001 brian.andrade@sjsu.edu
+Brian Ciach |001 brian.ciach@sjsu.edu
+Brian Jeung |001 brianjeung@comcast.net
+Brian Lee |001 brian_ys_lee@yahoo.com
+Brian Oliveira |001 brian.oliveira@sjsu.edu
+Brian Trenchak |001 brian.trenchak@sjsu.edu
+Brianne Gutmann |001 brianne.gutmann@sjsu.edu
+Bronwyn Lamay |001 bronwyn.lamay@sjsu.edu
+Brook Mc Clurg |001 brook.mcclurg@sjsu.edu
+Brooke Bellinghausen |001 brooke.bellinghausen@sjsu.edu
+Brooke Lustig |001 brooke.lustig@sjsu.edu
+Brooke Sherry |001 brooke.sherry@sjsu.edu
+Bruce Moyer |001 bruce.moyer@sjsu.edu
+Bryan Lind |001 bryan.lind@sjsu.edu
+Bryce Westlake |001 bryce.westlake@sjsu.edu
+Bud Ayers Jr |001 bud.ayers@gmail.com
+Burford Furman |001 burford.furman@sjsu.edu
+Caitlin Jeffrey |001 caitlin.jeffrey@sjsu.edu
+Callie Nguyen |001 callie.nguyen@sjsu.edu
+Cameron Chun |001 cameron.chun@sjsu.edu
+Capri Burrows |001 capri.burrows@sjsu.edu
+Cara Maffini |001 cara.maffini@sjsu.edu
+Carey Gil |001 carey.gil@sjsu.edu
+Carin Kaltschmidt |001 carin.kaltschmidt@sjsu.edu
+Carl Bugarin |001 carl.bugarin@sjsu.edu
+Carla Fisher Schwartz |001 carla.fisherschwartz@sjsu.edu
+Carlie Pietsch |001 carlie.pietsch@sjsu.edu
+Carlo Jauregui |001 carlo.jauregui@sjsu.edu
+Carlos Garcia |001 carlos.e.garcia@sjsu.edu
+Carlos Rojas |001 carlos.rojas@sjsu.edu
+Carlos Sanchez |001 carlos.sanchez@sjsu.edu
+Carlos Singh |001 carlos.singh@sjsu.edu
+Carmen Saleh |001 carmen.kennedy-saleh@sjsu.edu
+Carol Reade |001 carol.reade@sjsu.edu
+Carol Zepecki |001 carol.zepecki@sjsu.edu
+Carol-Lynn Perez |001 carol-lynn.perez@sjsu.edu
+Carolina Cacho |001 carolina.delacruz@sjsu.edu
+Caroline Chen |001 caroline.chen@sjsu.edu
+Caroline Haas |001 caroline.fee@sjsu.edu
+Cary Feria |001 cary.feria@sjsu.edu
+Caryn Collopy |001 caryn.collopy@sjsu.edu
+Casey Smith |001 CaseyDotSmith@gmail.com
+Cassandra Paul |001 cassandra.paul@sjsu.edu
+Cassandra Straubing |001 cassandra.straubing@sjsu.edu
+Cassie Boyd |001 cassandra.boyd@sjsu.edu
+Catalina Barraza |001 catalina.barraza@sjsu.edu
+Catherine Fung |001 catherine.fung@sjsu.edu
+Catherine Lam |001 catherineyylam@gmail.com
+Catherine Lycurgus |001 catherine.lycurgus@sjsu.edu
+Catherine Theilen Burke |001 catherine.theilenburke@sjsu.edu
+Cecilia Egidi |001 cecilia.egidi@sjsu.edu
+Cesar Arada |001 cesar.arada@sjsu.edu
+Chad Skorupka |001 chad.skorupka@sjsu.edu
+Chafin Seymour |001 chafin.seymour@sjsu.edu
+Chandrasekar Vuppalapati |001 chandrasekar.vuppalapati@sjsu.edu
+Chang Choo |001 chang.choo@sjsu.edu
+Chang Kim |001 chang.kim@sjsu.edu
+Chao-Li Tarng |001 cltarng@gmail.com
+Charan Bhaskar |001 charan.bhaskar@sjsu.edu
+Charity Wei |001 chienchu.wei@sjsu.edu
+Charles Park |001 charles.park@sjsu.edu
+Charles Rivasplata |001 c_rivaplata@hotmail.com
+Charles Ryan |001 charles.ryan@sjsu.edu
+Charles Yao |001 charlescyao@yahoo.com
+Charlize Kusuma |001 charlize.kusuma@sjsu.edu
+Charlotte Sunseri |001 charlotte.sunseri@sjsu.edu
+Chelsea Criez |001 chelsea.criez@comcast.net
+Cheryl Chancellor-Freeland |001 cheryl.chancellor-freeland@sjsu.edu
+Cheryl Nielsen |001 cheryl.nielsen@sjsu.edu
+Cheryl Roddick |001 cheryl.roddick@sjsu.edu
+Cheyla Samuelson |001 cheyla.samuelson@sjsu.edu
+Chi Phan |001 chi.phan@sjsu.edu
+Chi-Hsiu Weng |001 chi-hsiu.weng@sjsu.edu
+Chiaki Nomoto |001 chiaki.nomoto@sjsu.edu
+Chiaki Vanasupa |001 chiaki.vanasupa@sjsu.edu
+Chiao Su |001 cheng.su@sjsu.edu
+Chiao-Ju Fang |001 chiao-ju.fang@sjsu.edu
+Ching Ching Tan |001 chingching.tan@sjsu.edu
+Ching-Seh Wu |001 ching-seh.wu@sjsu.edu
+Chinmayi Kagganagi |001 chinmayi.kagganagi@sjsu.edu
+Chloe Tannous |001 chloe.tannous@sjsu.edu
+Choi Chio |001 choi.chio@sjsu.edu
+Chris Carranza |001 chris.carranza@sjsu.edu
+Chris Cheleden |001 christopher_cheleden@yahoo.com
+Chris Donlay |001 chris.donlay@sjsu.edu
+Chris Van Dalen |001 chris.vandalen@sjsu.edu
+Chris Whalen |001 chris.whalen@sjsu.edu
+Chris Zollna |001 chris.zollna@sjsu.edu
+Christian Alvarado |001 christian.alvarado@sjsu.edu
+Christian Catano |001 christian.catano@sjsu.edu
+Christian May |001 Christian.May@sjsu.edu
+Christina Estrada |001 christina.estrada@sjsu.edu
+Christina Perucci |001 christina.perucci@sjsu.edu
+Christina Tzeng |001 christina.tzeng@sjsu.edu
+Christina Wright |001 christina.m.wright01@sjsu.edu
+Christine Disalvo |001 christine.disalvo@sjsu.edu
+Christine Guzzetta |001 christine.guzzetta@sjsu.edu
+Christine Haworth |001 christine.haworth@sjsu.edu
+Christine Koontz |001 christine.koontz@sjsu.edu
+Christine Ma |001 christine.ma-kellams@sjsu.edu
+Christine Vega |001 christine.vega@sjsu.edu
+Christine Weng |001 christine.weng@sjsu.edu
+Christopher Alcala |001 christopher.alcala@sjsu.edu
+Christopher Bankston |001 christopher.bankston@sjsu.edu
+Christopher Bengochea |001 christopher.bengochea@sjsu.edu
+Christopher Cox |001 christopher.cox@sjsu.edu
+Christopher Dizon |001 christopher.j.dizon@sjsu.edu
+Christopher Koelzer |001 christopher.koelzer@sjsu.edu
+Christopher Lew |001 christopher.lew@sjsu.edu
+Christopher Lim |001 christopher.lim@sjsu.edu
+Christopher Luna-Mega |001 christopher.luna-mega@sjsu.edu
+Christopher March |001 christopher.march@sjsu.edu
+Christopher Pham |001 christopher.h.pham01@sjsu.edu
+Christopher Smallwood |001 christopher.smallwood@sjsu.edu
+Chung-Wen Tsao |001 chung-wen.tsao@sjsu.edu
+Chunhui Peng |001 chunhui.peng@sjsu.edu
+Chunlei Wang |001 chunlei.wang@sjsu.edu
+Cindy Duong |001 cindy.duong01@sjsu.edu
+Cindy Runnels |001 cindy.libr203@gmail.com
+Cj Duh |001 cj.duh@sjsu.edu
+Claire Komives |001 claire.komives@sjsu.edu
+Clare Sandy |001 clare.sandy@sjsu.edu
+Clarence Choi |001 clarence.choi@gmail.com
+Claudine Buglisi |001 claudine.buglisi@sjsu.edu
+Claudio Vera Sanchez |001 claudio.verasanchez@sjsu.edu
+Cleber Ouverney |001 Cleber.Ouverney@sjsu.edu
+Cole Armstrong |001 cole.armstrong@sjsu.edu
+Colette Rabin |001 colettelucia@gmail.com
+Colin Chamberlin |001 colin.chamberlin@sjsu.edu
+Colin Onita |001 colin.onita@sjsu.edu
+Colton Duke |001 colton.duke@sjsu.edu
+Colton Saylor |001 colton.saylor@sjsu.edu
+Connie Hwang |001 connie.hwang@sjsu.edu
+Corie Brown |001 corie.brown@sjsu.edu
+Cornelia Finkbeiner |001 cornelia.finkbeiner@sjsu.edu
+Costanza Rampini |001 costanza.rampini@sjsu.edu
+Courtney Boitano |001 courtney.boitano@sjsu.edu
+Courtney Flores |001 courtney.flores@sjsu.edu
+Craig Cisar |001 craig.cisar@sjsu.edu
+Craig Clements |001 craig.clements@sjsu.edu
+Craig England |001 craig.england@sjsu.edu
+Craig Jones |001 craig.jones@sjsu.edu
+Craig Kitzmann |001 craig.kitzmann@sjsu.edu
+Crista Thomas |001 crista.thomas@sjsu.edu
+Cristian Tanase |001 cristianmarian.tanase@sjsu.edu
+Cristina Siegel |001 cristina.siegel@sjsu.edu
+Cristina Tortora |001 cristina.tortora@sjsu.edu
+Crystal Fausett |001 crystal.fausett@sjsu.edu
+Crystal Garcia |001 crystal.garcia01@sjsu.edu
+Crystal Han |001 crystal.m.han@sjsu.edu
+Cuong Pham |001 kungfu97@hotmail.com
+Curtis Asplund |001 curtis.asplund@sjsu.edu
+Cynthia Gonzalez |001 cynthia.gonzalez01@sjsu.edu
+Cynthia Rostankowski |001 cynthia.rostankowski@sjsu.edu
+Cyrus Saatsaz |001 cyrus.saatsaz@sjsu.edu
+Cyrus Zomorrodi |001 cyrus.zomorrodi@sjsu.edu
+Dadbeh Rouhbakhsh |001 dadbeh.rouhbakhsh@sjsu.edu
+Dahyun Oh |001 dahyun.oh@sjsu.edu
+Dakota Nance |001 dakota.nance@sjsu.edu
+Dallas Augustine |001 dallas.augustine@sjsu.edu
+Damaris Guzman |001 damaris.guzman@sjsu.edu
+Damian Bacich |001 damian.bacich@sjsu.edu
+Damon Moon |001 damon.moon@sjsu.edu
+Dan Harkey |001 dan.harkey@sjsu.edu
+Dan Le |001 dan.le01@sjsu.edu
+Dan Nathan-Roberts |001 dan.nathan-roberts@sjsu.edu
+Dan Xiao |001 dan.xiao@sjsu.edu
+Dana Dormann |001 dana.dormann@sjsu.edu
+Dana Morella-Pozzi |001 dana.morella@sjsu.edu
+Dana Ragouzeos |001 dana.ragouzeos@sjsu.edu
+Daniel Bohigian |001 daniel.bohigian@sjsu.edu
+Daniel Brinkman |001 daniel.brinkman@sjsu.edu
+Daniel Chafey |001 daniel.chafey@sjsu.edu
+Daniel Hendel De La O |001 dhdelao@gmail.com
+Daniel Murphy |001 daniel.murphy@sjsu.edu
+Daniel Neal |001 daniel.neal@sjsu.edu
+Daniel Olson |001 daniel.olson@sjsu.edu
+Daniel Rivers |001 daniel.rivers@sjsu.edu
+Daniel Rosenberg |001 daniel.rosenberg@sjsu.edu
+Daniel Valencia Jr |001 daniel.valencia@sjsu.edu
+Danielle Lazerson |001 danielle.lazerson@sjsu.edu
+Danielle Mead-Nytko |001 danielle.mead@sjsu.edu
+Danielle Valdez |001 danielle.valdez@sjsu.edu
+Danijela Dudley |001 danijela.dudley@sjsu.edu
+Danny Stillion |001 danny.stillion@sjsu.edu
+Daoping He |001 daoping.he@sjsu.edu
+Daphne Chen |001 daphne.chen01@sjsu.edu
+Darcy Cabral |001 darcy.cabral@sjsu.edu
+Darrian Ellis-Hardin |001 darrian.ellis-hardin@sjsu.edu
+Darrick Del Moral |001 darrick.delmoral@sjsu.edu
+Daryl Miranda |001 daryl.miranda@sjsu.edu
+Dashiell Fryer |001 dashiell.fryer@sjsu.edu
+Dave Gustlin |001 dgustlin@gmail.com
+Dave Ma |001 dave.ma@sjsu.edu
+David Bayus |001 david.bayus@sjsu.edu
+David Brook |001 david.brook@sjsu.edu
+David Chai |001 david.chai@sjsu.edu
+David Daum |001 david.daum@sjsu.edu
+David De Lorenzo |001 david.delorenzo52@gmail.com
+David Ensminger |001 david.ensminger@sjsu.edu
+David Galan |001 david.galan@sjsu.edu
+David Loertscher |001 reader.david@gmail.com
+David Malinowski |001 david.malinowski@sjsu.edu
+David Mcfeely |001 david.mcfeely@sjsu.edu
+David Mcreynolds |001 David.McReynolds@sjsu.edu
+David Meske |001 david.meske@sjsu.edu
+David Ocampo |001 david.ocampo@sjsu.edu
+David Parent |001 david.parent@sjsu.edu
+David Ramos |001 david.a.ramos@sjsu.edu
+David Schuster |001 david.schuster@sjsu.edu
+David Shiver |001 david.shiver@sjsu.edu
+David Stanton |001 Davidstanton523@gmail.com
+David Taylor |001 david.taylor@sjsu.edu
+David Vickerman |001 david.vickerman@sjsu.edu
+David Von Bargen |001 david.vonbargen@sjsu.edu
+David Williams |001 david.williams@sjsu.edu
+David Yan |001 david.yan@sjsu.edu
+Dawit Yerdea |001 dawit.yerdea@sjsu.edu
+Deanna Fassett |001 deanna.fassett@sjsu.edu
+Debbie Abbott |001 deborah.abbott@sjsu.edu
+Deborah Clarke |001 deborah.clarke@sjsu.edu
+Deborah Parker Wong |001 deborah.parkerwong@sjsu.edu
+Debra Buenting |001 debra.buenting@sjsu.edu
+Debra Law |001 debra.law@sjsu.edu
+Deepa Singamsetti |001 deepa.singamsetti@sjsu.edu
+Denise Dawkins |001 denise.dawkins@sjsu.edu
+Denise Gip |001 denise.gip@sjsu.edu
+Dennis Estrada |001 dennis.estrada@sjsu.edu
+Dennis Romano |001 dennis.romano@sjsu.edu
+Derek Lang |001 derek.lang@sjsu.edu
+Derek Mena Godoy |001 derek.menagodoy@sjsu.edu
+Derek Wang |001 derek.wang@sjsu.edu
+Desia Bacon |001 desia.bacon@sjsu.edu
+Desiree Ryan |001 desiree.ryan@sjsu.edu
+Devam Sanjay Sheth |001 devamsanjay.sheth@sjsu.edu
+Devina Martinez |001 devinamm98@gmail.com
+Devon Hibbert |001 devon.hibbert@sjsu.edu
+Dia Mundle |001 dia.mundle@sjsu.edu
+Diana Hollinger |001 diana.hollinger@sjsu.edu
+Diana Stover |001 diana.stover@sjsu.edu
+Diana Traub |001 diana.traub@sjsu.edu
+Diane Elabidi |001 diane.elabidi@sjsu.edu
+Diane Kovacs |001 diane.kovacs@sjsu.edu
+Dimple Mulchandani |001 dimplemahadev.mulchandani@sjsu.edu
+Dina Cunha |001 dina.cunha@sjsu.edu
+Dina Kameda |001 dina.kameda@sjsu.edu
+Divesh Karamchandani |001 divesh.karamchandani@sjsu.edu
+Dolores Mena |001 dolores.mena@sjsu.edu
+Dominic Abucejo |001 dominic.abucejo@sjsu.edu
+Don Crooks |001 don.crooks@sjsu.edu
+Dona Nichols |001 dona.nichols@sjsu.edu
+Donald Feasel |001 donald.feasel@sjsu.edu
+Donald Westbrook |001 donald.westbrook@sjsu.edu
+Donna Crane |001 donna.crane@sjsu.edu
+Doug Case |001 doug.case@sjsu.edu
+Douglas Muntz |001 douglas.muntz@sjsu.edu
+Douglas Williams |001 douglas.williams@sjsu.edu
+Dounya Moukhlis |001 dounya.moukhlis@sjsu.edu
+Drew Todd |001 drew.todd@sjsu.edu
+Duarte Manuel Carvalho Pinheiro |001 duarte.pinheiro@sjsu.edu
+Dustin Mulvaney |001 dustin.mulvaney@sjsu.edu
+Earl Gee |001 earl.gee@sjsu.edu
+Earl Johnson |001 earl.johnson@sjsu.edu
+Edgar Bering |001 edgar.bering@sjsu.edu
+Edith Borbon |001 edith.borbon@sjsu.edu
+Edith Kinney |001 edith.kinney@sjsu.edu
+Edmund Tang |001 EBTang@gmail.com
+Edoardo Rubino |001 edoardo.rubino@outlook.com
+Edric Dabu |001 edric.dabu@sjsu.edu
+Edric Yamamoto |001 edric.yamamoto@sjsu.edu
+Eduardo Chan |001 eduardo.chan@sjsu.edu
+Eduardo Europa |001 eduardo.europa@sjsu.edu
+Eduardo Munoz-Munoz |001 eduardo.munoz-munoz@sjsu.edu
+Edward Cohen |001 edward.cohen@sjsu.edu
+Effie Chiu |001 effie.chiu@sjsu.edu
+Egbe-Etu Etu |001 egbe-etu.etu@sjsu.edu
+Ehsan Khatami |001 ehsan.khatami@sjsu.edu
+Eileen Carroll |001 eileen.carroll@sjsu.edu
+Eileen Mackusick |001 Eileen.MacKusick@sjsu.edu
+Eileen Pena |001 eileen.pena@sjsu.edu
+Eknoor Naurath |001 eknoor.naurath@sjsu.edu
+Elaheh Sigari |001 elaheh.sigari@sjsu.edu
+Elaine Ware |001 elaine.ware@sjsu.edu
+Eleanor Marsh |001 eleanor.marsh@sjsu.edu
+Eleanor Pries |001 eleanor.pries@sjsu.edu
+Elena Klaw |001 elena.klaw@sjsu.edu
+Eleni Duret |001 eleni.duret@sjsu.edu
+Eliana Oropeza |001 eliana.oropeza@sjsu.edu
+Elijah Reyes |001 elijah.reyes@sjsu.edu
+Elisa Mattarelli |001 elisa.mattarelli@sjsu.edu
+Elise Freche |001 elise.freche@sjsu.edu
+Elise Knudson |001 elise.knudson@sjsu.edu
+Elizabeth Carroll |001 elizabeth.carroll@sjsu.edu
+Elizabeth Garcia |001 elizabeth.garcia@sjsu.edu
+Elizabeth Grace |001 elizabeth.grace@sjsu.edu
+Elizabeth Madden |001 elizabeth.madden@sjsu.edu
+Elizabeth Migicovsky |001 elizabeth.migicovsky@sjsu.edu
+Elizabeth Mullen |001 elizabeth.mullen@sjsu.edu
+Elizabeth Skovran |001 elizabeth.skovran@sjsu.edu
+Elizabeth Tejada |001 elizabeth.pacheco@sjsu.edu
+Elizabeth Valenti |001 elizabeth.kroski@sjsu.edu
+Ella Sugerman |001 ella.sugerman@sjsu.edu
+Ellen Le |001 ellen.le@sjsu.edu
+Ellen Middaugh |001 ellen.middaugh@sjsu.edu
+Ellen Zheng |001 ellen.zheng@sjsu.edu
+Ellie Murdoch |001 ellie.murdoch@sjsu.edu
+Elly Walsh |001 elizabeth.walsh@sjsu.edu
+Emanuela Sintamarian |001 emanuela.sintamarian@sjsu.edu
+Emi Ishida |001 emi.ishida@sjsu.edu
+Emile Tayag |001 emile.tayag@sjsu.edu
+Emiliano Lopez Ruiz |001 emelopezr@gmail.com
+Emily Bruce |001 Emily.Bruce@sjsu.edu
+Emily Holmes |001 emily.holmes@sjsu.edu
+Emily Slusser |001 emily.slusser@sjsu.edu
+Emily Wughalter |001 emily.wughalter@sjsu.edu
+Emma Carroll |001 emma.carroll@sjsu.edu
+Emma Odisho |001 emodisho@gmail.com
+Emmanuel Gabet |001 manny.gabet@sjsu.edu
+Emmanuel Sequeira |001 emmanuel.sequeira@sjsu.edu
+Emmanuel Watkins |001 emmanuel.watkins@sjsu.edu
+Eric Kwong |001 eric.kwong@sjsu.edu
+Eric Mead |001 emead@hotmail.com
+Eric Narveson |001 eric.narveson@sjsu.edu
+Eric Ramones |001 ejramones@gmail.com
+Eric Vanuska |001 eric.vanuska@sjsu.edu
+Erica Buurman |001 erica.buurman@sjsu.edu
+Erica Colmenares |001 erica.colmenares@sjsu.edu
+Ericka Adams |001 ericka.adams@sjsu.edu
+Erik Friedman |001 EFriedman1968@gmail.com
+Erik Johnson |001 erik.johnson@sjsu.edu
+Erik Steidley |001 erik.steidley@sjsu.edu
+Erik Wood |001 erik.wood@sjsu.edu
+Erika Carrillo |001 erika.carrillo@sjsu.edu
+Erika Zepeda |001 erika.zepeda@sjsu.edu
+Erin Nokes |001 erin.nokes@gmail.com
+Erin Osanna-Barba |001 emobarba@gmail.com
+Erin Siebert |001 erin.siebert@sjsu.edu
+Erin Woodhead |001 erin.woodhead@sjsu.edu
+Ernest Thurlow |001 ernest.thurlow@sjsu.edu
+Ernesto Martinez |001 ernesto.martinez01@sjsu.edu
+Esperanza Huerta Espinosa |001 esperanza.huerta@sjsu.edu
+Essam Marouf |001 essam.marouf@sjsu.edu
+Esteban Garcia Bravo |001 esteban.garciabravo@sjsu.edu
+Ethan Hasenauer |001 ethan.hasenauer@sjsu.edu
+Ethel Tshukudu |001 ethel.tshukudu@sjsu.edu
+Etienne Brown |001 etienne.brown@sjsu.edu
+Eugene C Cordero |001 Eugene.Cordero@sjsu.edu
+Eugene Hudson |001 eugene.hudson@sjsu.edu
+Eugene Ionel |001 eugene.ionel@sjsu.edu
+Eugenie Chan |001 eugenie.chan@sjsu.edu
+Eva Campo Sahagun |001 eva.camposahagun@sjsu.edu
+Eva Stephens |001 eva.stephens@sjsu.edu
+Evan Palmer |001 evan.palmer@sjsu.edu
+Eveline Bellegarda |001 eveline.bellegarda@sjsu.edu
+Evelyn Tirumalai |001 evelyn.tirumalai@sjsu.edu
+Everett Smith |001 everettsmith116@yahoo.com
+Fabio Di Troia |001 fabio.ditroia@sjsu.edu
+Fahmida Fakhruddin |001 fahmida.fakhruddin@sjsu.edu
+Faith Kirk |001 faith.kirk@sjsu.edu
+Fangjun Xiao |001 fangjun.xiao@sjsu.edu
+Faramarz Mortezaie |001 faramarz.mortezaie@sjsu.edu
+Faranak Abri |001 faranak.abri@sjsu.edu
+Farzan Kazemifar |001 farzan.kazemifar@sjsu.edu
+Farzaneh Ghiasvand |001 farzaneh.ghiasvand@sjsu.edu
+Fatemeh Yarahmadi |001 fatemeh.yarahmadi@sjsu.edu
+Faustina Ducros |001 faustina.ducros@sjsu.edu
+Felicia Noonis |001 felicia.noonis@sjsu.edu
+Felipe Gómez |001 felipe.gomez@sjsu.edu
+Felipe Ponce |001 felipe.ponce@sjsu.edu
+Ferdinand Rivera |001 ferdinand.rivera@sjsu.edu
+Fern Alberts |001 fern.alberts@sjsu.edu
+Fernando Mora |001 fernando.mora@sjsu.edu
+Feruza Amirkulova |001 feruza.amirkulova@sjsu.edu
+Folarin Erogbogbo |001 erogbogbo@gmail.com
+Francesca Cipponeri |001 francesca.cipponeri@sjsu.edu
+Francisca Martinez Garcia |001 francisca.martinezgarcia@sjsu.edu
+Francisco Correia |001 franciscozick@gmail.com
+Francisco De La Calle |001 francisco.delacalle@sjsu.edu
+Francois Rongere |001 francois.rongere@sjsu.edu
+Frank Butt |001 frank.butt@sjsu.edu
+Frank Farshidi |001 frank.farshidi@sjsu.edu
+Frank Levy |001 frank.levy@sjsu.edu
+Frank Lin |001 frank.lin@sjsu.edu
+Frank Ortega |001 frank.ortega@sjsu.edu
+Frankie Frank |001 amanda.r.frank@sjsu.edu
+Françoise Herrmann |001 francoise.herrmann@sjsu.edu
+Fred Cohen |001 fred.cohen@sjsu.edu
+Fredrick Larabee |001 fred.larabee@sjsu.edu
+Freidoon Barez |001 fred.barez@sjsu.edu
+Funie Hsu |001 funie.hsu@sjsu.edu
+G.Craig Hobbs |001 gcraig.hobbs@sjsu.edu
+Gabriel Negrete |001 gabriel.negrete@sjsu.edu
+Gabriela Gonzalez |001 gabriela.gonzalez03@sjsu.edu
+Gabriela John Swamy |001 gabrielajohn.swamy@sjsu.edu
+Gabriela Sapp |001 gabriela.sapp@sjsu.edu
+Gabrielle Bernal |001 gabrielle.bernal@sjsu.edu
+Galia Stein Rosen |001 galia.steinrosen@sjsu.edu
+Gaojian Huang |001 gaojian.huang@sjsu.edu
+Garrett Wolfe |001 garrett.wolfe@sjsu.edu
+Gary Castro |001 gary.castro@sjsu.edu
+Gary Pereira |001 gary.pereira@sjsu.edu
+Gary Radine |001 gary.radine@sjsu.edu
+Gautam Krishna |001 gautam.krishna@sjsu.edu
+Gautam Kumar |001 gautam.kumar@sjsu.edu
+Geethika Vadlamudi |001 geethika.vadlamudi@sjsu.edu
+Genevieve Nguyen |001 genevieve.nguyen@sjsu.edu
+Genie Florczyk |001 genie.florczyk@sjsu.edu
+Genya Ishigaki |001 genya.ishigaki@sjsu.edu
+Geoffrey Liu |001 geoffrey.liu@sjsu.edu
+George Mcintyre |001 george.mcintyre@sjsu.edu
+George Tolosa |001 george.tolosa@sjsu.edu
+Gerald Schwartz |001 gerald.schwartz@sjsu.edu
+Gheorghi Guzun |001 gheorghi.guzun@sjsu.edu
+Ghislaine Lang |001 gh.lang08@gmail.com
+Giang Le |001 giang.le@sjsu.edu
+Gianmarc Grazioli |001 gianmarc.grazioli@sjsu.edu
+Gil Zamora |001 gil.zamora@sjsu.edu
+Gilles Muller |001 gilles.muller@sjsu.edu
+Gina Firenzi |001 gina.firenzi@sjsu.edu
+Ginevra Scherini |001 ginevra.scherini@sjsu.edu
+Gisele Bousquet |001 gisele.bousquet@sjsu.edu
+Gita Mathur |001 gita.mathur@sjsu.edu
+Glen Gendzel |001 glen.gendzel@sjsu.edu
+Glenn Callaghan |001 glenn.callaghan@sjsu.edu
+Glenn Friedman |001 glenn.friedman@sjsu.edu
+Gokcen Altun |001 gokcen.altun@sjsu.edu
+Gokul Sriram Guptha Maremalla |001 gokulsriramguptha.maremalla@sjsu.edu
+Gong Chen |001 gong.chen@sjsu.edu
+Gonzalo Mendoza |001 gonzalo.mendoza@sjsu.edu
+Gopinath Vinodh |001 gopinath.vinodh@sjsu.edu
+Gordon Douglas |001 gordon.douglas@sjsu.edu
+Gordon Haramaki |001 gordon.haramaki@sjsu.edu
+Grace Howard |001 grace.howard@sjsu.edu
+Grace Poon Ghaffari |001 gpoon.ghaffari@sjsu.edu
+Graham Teaford |001 Gteaford@gmail.com
+Greg Labmeier |001 greg.labmeier@sjsu.edu
+Greg Woods |001 greg.woods@sjsu.edu
+Gregory Courand |001 gregory.courand@sjsu.edu
+Gregory Feist |001 greg.feist@sjsu.edu
+Gregory Hom |001 gregory.hom@sjsu.edu
+Gregory Tomlinson |001 gregory.tomlinson@sjsu.edu
+Gretchen Kelly |001 gretchen.kelly@sjsu.edu
+Gretchen Lester |001 gretchen.lester@sjsu.edu
+Gretchen Simms |001 gretchen.simms@sjsu.edu
+Grey Crisanto |001 grace.crisanto@sjsu.edu
+Grinell Smith |001 grinell@gmail.com
+Guido Van Drunen |001 guido.vandrunen@sjsu.edu
+Gurmeet Naroola |001 gurmeet.naroola@sjsu.edu
+Gustavo Aldama |001 gustavo.aldama@sjsu.edu
+Gustavo Flores |001 gustavo.flores@sjsu.edu
+Gwendolyn Mok |001 gwendolyn.mok@sjsu.edu
+H. Gilchrist |001 h.gilchrist@sjsu.edu
+Hadley Debrine |001 hadley.debrine@sjsu.edu
+Hahn Koo |001 hahn.koo@sjsu.edu
+Hamed Mouseghy |001 hamed.mouseghy@sjsu.edu
+Hao Thai |001 hao.thai@sjsu.edu
+Haonan Wang |001 haonan.wang@sjsu.edu
+Harit Agroia |001 Harit.Agroia@sjsu.edu
+Harlan Mcghan |001 harlan.mcghan@sjsu.edu
+Harold Peterson |001 harold.peterson@sjsu.edu
+Harroop Kaur |001 harroop.kaur@sjsu.edu
+Harry Mathias |001 harry.mathias@sjsu.edu
+Hayley Hartstein |001 hayley.hartstein@sjsu.edu
+Hazel Guillen |001 hazel.guillen@sjsu.edu
+Heather Duplaisir |001 heather.duplaisir@sjsu.edu
+Hector Rodriguez Casanova |001 hector.casanova@sjsu.edu
+Hee Park |001 younghee.park@sjsu.edu
+Helen Brubeck |001 financialaccounting@yahoo.com
+Henry Bartholomew |001 henry.bartholomew@sjsu.edu
+Hesam Rahmani |001 hesam.rahmani@sjsu.edu
+Hien Do |001 hien.do@sjsu.edu
+Hien Vo |001 hien.h.vo@sjsu.edu
+Hiren Patel |001 hiren.s.patel@sjsu.edu
+Hiu Yung Wong |001 hiuyung.wong@sjsu.edu
+Hohyun Lee |001 hohyun.lee@sjsu.edu
+Hojeong Lee |001 hojeong.lee@sjsu.edu
+Hongrui Liu |001 hongrui.liu@sjsu.edu
+Hossein Omidian |001 hossein.omidian@sjsu.edu
+Howard Tokunaga |001 Howard.Tokunaga@sjsu.edu
+Hui-Chi Lo |001 hui-chi.lo@sjsu.edu
+Hussameddine Kabbani |001 hussameddine.kabbani@sjsu.edu
+Huy Nguyen |001 huy.q.nguyen@sjsu.edu
+Huyen Le |001 huyen.le@sjsu.edu
+Hyeji Han |001 hyeji.han@sjsu.edu
+Hyesang Chang |001 hyesang.chang@sjsu.edu
+Hyo Jin Lee |001 hyojin.lee@sjsu.edu
+Ian Edwards |001 ian.edwards@sjsu.edu
+Ignacio Mosqueira |001 ignacio.mosqueira@sjsu.edu
+Igor Tyukhov |001 igor.tyukhov@sjsu.edu
+Iman Roohnavaz |001 iman.roohnavaz@sjsu.edu
+Imee Almazan |001 imee.almazan@sjsu.edu
+Indu Jegan |001 indu.jegan@sjsu.edu
+Indumathi Jeyachandran |001 indumathi.jeyachandran@sjsu.edu
+Inez Yuwanita |001 inez.yuwanita@sjsu.edu
+Inga Poslitur |001 inga.poslitur@sjsu.edu
+Iole Pecora |001 iole.pecora@sjsu.edu
+Irene Carvajal |001 irene.carvajal@sjsu.edu
+Irene Chou |001 irene.chou@sjsu.edu
+Irina Slobodov |001 irina.slobodov@sjsu.edu
+Iris Xiaohong Quan |001 xiaohong.quan@sjsu.edu
+Isabella Garcia |001 isabellatrinidadgarcia@gmail.com
+Isabelle Pafford |001 isabelle.pafford@sjsu.edu
+Isarin Durongkadej |001 isarin.durongkadej@sjsu.edu
+Ishie Eswar |001 ishie.eswar@sjsu.edu
+Ishmael Hoover |001 ishmael.hoover@sjsu.edu
+Ismaila Diallo |001 ismaila.diallo@sjsu.edu
+Ivano Aiello |001 ivano.aiello@sjsu.edu
+Izzie Brown |001 izzie.brown@sjsu.edu
+J. Michael Martinez |001 jmichael.martinez@sjsu.edu
+J. Todd Ormsbee |001 todd.ormsbee@sjsu.edu
+Jack Wada |001 jack.wada@sjsu.edu
+Jack Warecki |001 jack.warecki@sjsu.edu
+Jackson Sargent |001 jackson.sargent@gmail.com
+Jacob Garner |001 jacob.garner@sjsu.edu
+Jacob Linetsky |001 jacob.linetsky@sjsu.edu
+Jacob Mcmullen |001 jacob.mcmullen@sjsu.edu
+Jacque Scharlach |001 jacque.scharlach@sjsu.edu
+Jacqueline Bergman |001 jacqueline.bergman@sjsu.edu
+Jacqueline Gamboa |001 jacqueline.gamboa@sjsu.edu
+Jacquelyn Brady |001 jacquelyn.brady@sjsu.edu
+Jacques Watkins |001 jacques.watkins@sjsu.edu
+Jae Chung |001 jae.chung@sjsu.edu
+Jae-Ho Pyeon |001 jae.pyeon@sjsu.edu
+Jagruti Vedamati |001 jagruti.vedamati@sjsu.edu
+Jahan Ghofraniha |001 jahan.ghofraniha@sjsu.edu
+Jalal Sarabadani |001 jalal.sarabadani@sjsu.edu
+Jalel Rejeb |001 jalel.rejeb@sjsu.edu
+Jamael Smith |001 jamael.smith@sjsu.edu
+James Brent |001 james.brent@sjsu.edu
+James Capurso |001 james.capurso@sjsu.edu
+James Casaletto |001 james.casaletto@gmail.com
+James Fonda |001 james.fonda@sjsu.edu
+James Long |001 james.long01@sjsu.edu
+James Morgan |001 sjsu@factorynoir.com
+James O'Brien |001 james.obrien@sjsu.edu
+James Saslow |001 james.saslow@sjsu.edu
+Jamie Kubota |001 jamiebakes@yahoo.com
+Jamie Smith (She/Her) |001 jamie.smith@sjsu.edu
+Jan English-Lueck |001 jan.english-lueck@sjsu.edu
+Jane Brown |001 jane.e.brown@sjsu.edu
+Jane Huynh |001 jane.huynh@sjsu.edu
+Jane Narveson |001 janenarveson@gmail.com
+Janene Perez (She/Her) |001 janene.perez@sjsu.edu
+Janet Bang (She/Her) |001 janet.bang@sjsu.edu
+Janet Giddings |001 janet.giddings@sjsu.edu
+Janet Kitajima |001 janetkitajima@sbcglobal.net
+Janet Oseguera-Valencia |001 Janet.osegueravalencia@sjsu.edu
+Janet Tan |001 janet.tan@sjsu.edu
+Jang Hyung Cho |001 jang-hyung.cho@sjsu.edu
+Janin Guzman Morales |001 janin.guzmanmorales@sjsu.edu
+Janine Berta |001 janine.berta@sjsu.edu
+Jannike Allen |001 jannike.allen@sjsu.edu
+Jasmine Lee |001 jasmine.lee@sjsu.edu
+Jason Aleksander |001 jason.aleksander@sjsu.edu
+Jason Hernandez |001 jason.hernandez01@sjsu.edu
+Jason Laker |001 jlaker.sjsu@gmail.com
+Jason Lewis |001 jason@jsklewis.com
+Jason Ventura |001 jason.ventura@sjsu.edu
+Jaudai Lopes |001 jaudai.lopes@sjsu.edu
+Javier Cardoza-Kon |001 javier.cardoza-kon@sjsu.edu
+Javier Valencia |001 javace1us@gmail.com
+Jean Elvin |001 jean.elvin@sjsu.edu
+Jean Koketsu |001 jean.koketsu@sjsu.edu
+Jean-Benoit Levy |001 usa@and.ch
+Jean-Luc Desalvo |001 jean-luc.desalvo@sjsu.edu
+Jean-Pierre Lacrampe |001 jean-pierre.lacrampe@sjsu.edu
+Jeanine Hunter |001 jeanine.hunter@sjsu.edu
+Jeff Biancalana |001 jeff.biancalana@sjsu.edu
+Jeff Jackson |001 sonjebasa@gmail.com
+Jeffrey Beckstrand |001 jeffrey.beckstrand@sjsu.edu
+Jeffrey Benson |001 jeffrey.s.benson@gmail.com
+Jeffrey Fadiman |001 jeff@jefkata.com
+Jeffrey Hare |001 jeffrey.hare@sjsu.edu
+Jeffrey Lewis |001 jeffrey.lewis@sjsu.edu
+Jehanzeb Khan |001 jehanzeb.khan@sjsu.edu
+Jenni Hong |001 jenni.hong@sjsu.edu
+Jennifer Barnett |001 jennifer.barnett@sjsu.edu
+Jennifer Bean |001 jennifer.bean@sjsu.edu
+Jennifer Bechkoff |001 jennifer.bechkoff@sjsu.edu
+Jennifer Gregg |001 jennifer.gregg@sjsu.edu
+Jennifer Hubbs |001 jennifer.hubbs@sjsu.edu
+Jennifer Jackson |001 jennifer.l.jackson@sjsu.edu
+Jennifer Johnson |001 jennifer.johnson@sjsu.edu
+Jennifer Johnson |001 jennifer.p.johnson@sjsu.edu
+Jennifer Maldonado |001 jennifer.maldonado01@sjsu.edu
+Jennifer Morrison |001 jennifer.morrison@sjsu.edu
+Jennifer Pearlman |001 jennifer.pearlman@sjsu.edu
+Jennifer Quevedo |001 jennifer.m.vasquez@sjsu.edu
+Jennifer Schachner |001 jennifer.schachner@sjsu.edu
+Jennifer Schauer |001 jennifer.schauer@sjsu.edu
+Jennifer Sweeney |001 jennifer.sweeney@sjsu.edu
+Jenny Hundemer |001 jenny.hundemer@sjsu.edu
+Jenny Kobiela-Mondor |001 jenny.kobiela-mondor@sjsu.edu
+Jeong Kim |001 jeong.kim@sjsu.edu
+Jeonghee Kim |001 jeonghee.kim@sjsu.edu
+Jeremiah Garrido |001 jeremiah.garrido@sjsu.edu
+Jeremy Abrams |001 jeremy.abrams@sjsu.edu
+Jeremy Nguyen |001 jeremy.nguyen@sjsu.edu
+Jesi Faust |001 jesi.faust@sjsu.edu
+Jess Chong |001 jess.chong@sjsu.edu
+Jesse Geneson |001 jesse.geneson@sjsu.edu
+Jesse Lam |001 Jessetlam@aol.com
+Jessica Bushey |001 jessica.bushey@sjsu.edu
+Jessica Castillo Vardaro |001 jessica.castillo-vardaro@sjsu.edu
+Jessica Chin |001 jessica.chin@sjsu.edu
+Jessica Fraser |001 jessica.fraser@sjsu.edu
+Jessica Rose |001 jessica.rose@sjsu.edu
+Jessica Snow |001 jessica.snow@sjsu.edu
+Jessica Westfall |001 jessica.westfall@sjsu.edu
+Jesus Aguilar |001 jesus.aguilar@sjsu.edu
+Jesus Covarrubias |001 jesus.covarrubias@sjsu.edu
+Jesus Raygoza |001 jesus.raygoza@sjsu.edu
+Ji Kim |001 ji.kim@sjsu.edu
+Jia Ee Ooi |001 jiaee.ooi@sjsu.edu
+Jian Zhang |001 jian.zhang@sjsu.edu
+Jie Gao |001 jie.gao@sjsu.edu
+Jihyun Lee |001 jihyun.lee@sjsu.edu
+Jihyun Shin |001 jihyun.shin@sjsu.edu
+Jila Maleksalehi |001 jila.maleksalehi@sjsu.edu
+Jill Citron |001 jill.citron@sjsu.edu
+Jill Logan |001 jill.logan@sjsu.edu
+Jillian Murphy |001 jill.murphy3@gmail.com
+Jimma Cortes-Smith |001 jimma.cortes@sjsu.edu
+Jing Zhang |001 jing.zhang@sjsu.edu
+Joanne Bowers |001 joanne.bowers@sjsu.edu
+Joanne Rondilla |001 joanne.rondilla@sjsu.edu
+Joao Santos |001 joao.santos@sjsu.edu
+Jocelyn Emus |001 jocelyn.emus@sjsu.edu
+Jodie Warren |001 jodie.warren@sjsu.edu
+Jody Ulate |001 jody.ulate@sjsu.edu
+Jody Winzelberg |001 jody.winzelberg@sjsu.edu
+Joe Miller |001 joe.miller@sjsu.edu
+Joe Neto |001 joe.neto@sjsu.edu
+Joel Busch |001 joel.busch@sjsu.edu
+Joey Noel |001 joey.noel@sjsu.edu
+Johanna Blandino |001 johanna.blandino@sjsu.edu
+John Clapp |001 john.clapp@sjsu.edu
+John Delacruz |001 john.delacruz@sjsu.edu
+John Diniz |001 john.diniz@sjsu.edu
+John Felder |001 john.felder@sjsu.edu
+John Freeman |001 john.freeman@sjsu.edu
+John Gash |001 jgash3@yahoo.com
+John Gieng |001 john.gieng@sjsu.edu
+John Halushka |001 john.halushka@sjsu.edu
+John Jabagchourian |001 john.jabagchourian@sjsu.edu
+John Kennaday |001 john.kennaday@sjsu.edu
+John Lee |001 sang-joon.lee@sjsu.edu
+John Leih |001 john.leih@sjsu.edu
+John Marlovits |001 john.marlovits@sjsu.edu
+John Russo |001 john.v.russo@sjsu.edu
+John Tang |001 jbtang@yahoo.com
+John Wilhelmsson |001 john.wilhelmsson@sjsu.edu
+John York |001 john.york@sjsu.edu
+Johni Cheri Rocha |001 johnicheri.rocha@sjsu.edu
+Johnny Damm |001 john.damm@sjsu.edu
+Johnny Moreno |001 johnny.moreno@sjsu.edu
+Jolanda Van Arnhem |001 jolandapieta.vanarnhem@gmail.com
+Jolynn Asato |001 jolynn.asato@sjsu.edu
+Jon Pearce |001 jon.pearce@sjsu.edu
+Jon Rawski |001 jon.rawski@sjsu.edu
+Jon Richey |001 jon.richey@sjsu.edu
+Jon Sung |001 jon.sung@sjsu.edu
+Jon Vales |001 jon.vales@sjsu.edu
+Jon Yu |001 jon.yu@sjsu.edu
+Jonathan Dryden |001 jonathan.dryden@sjsu.edu
+Jonathan Fung |001 jonathan.fung@sjsu.edu
+Jonathan Gomez |001 jonathan.d.gomez@sjsu.edu
+Jonathan Lauffer |001 jonathan.lauffer@sjsu.edu
+Jonathan Miller |001 jonathan.miller@sjsu.edu
+Jonathan Smucker |001 jonathan.smucker@sjsu.edu
+Jonathan Wu |001 jonathan.wu04@sjsu.edu
+Joni Richards Bodart |001 joni.bodart@sjsu.edu
+Jooyeon Ha |001 jooyeon.ha@sjsu.edu
+Jordan Ellis |001 jordan.ellis@sjsu.edu
+Jordan Liz |001 jordan.liz@sjsu.edu
+Jordan Schettler |001 jordan.schettler@sjsu.edu
+Jordan Walters |001 jordan.walters@sjsu.edu
+Jordan Yamiguez |001 jordan.yamat@sjsu.edu
+Jorge Gonzalez |001 jorge.m.gonzalez@sjsu.edu
+Jorge Prado Brabata |001 jmqprado@gmail.com
+Jorge Silva |001 silva.jorge0101@gmail.com
+Jorjeta Jetcheva |001 jorjeta.jetcheva@sjsu.edu
+Jose Aguinaga |001 jose.aguinaga@sjsu.edu
+Jose Bautista |001 jose.bautista@sjsu.edu
+Jose Esquivel Patricio |001 jose.esquivelpatricio@sjsu.edu
+Jose Ramirez |001 jose.j.ramirez@sjsu.edu
+Joseph Barjis |001 joseph.barjis@sjsu.edu
+Joseph Bergee |001 joseph.bergee@sjsu.edu
+Joseph Biagini |001 joseph.biagini@sjsu.edu
+Joseph Coe |001 joseph.coe@sjsu.edu
+Joseph Disalvo |001 joseph.disalvo@sjsu.edu
+Joseph Dworak |001 joseph.dworak@berliner.com
+Joseph Hasty |001 joseph.hasty@sjsu.edu
+Joseph Navarro |001 joseph.navarro@sjsu.edu
+Joseph Petsche |001 joseph.petsche@sjsu.edu
+Josephine Njie |001 josephine.njie@sjsu.edu
+Josh Watson |001 josh.watson@sjsu.edu
+Josh Zinman |001 josh.zinman@sjsu.edu
+Joshita Atmakuri |001 joshita.atmakuri@sjsu.edu
+Joshua Baur |001 joshua.baur@sjsu.edu
+Joshua Moreno |001 joshua.moreno@sjsu.edu
+Joshua Nelson |001 joshua.nelson@sjsu.edu
+Josine Smits |001 josine.smits@sjsu.edu
+José Torres |001 jose.r.torres@sjsu.edu
+Jovana Babic |001 jovana.babic@sjsu.edu
+Joy Foster |001 joy.foster@sjsu.edu
+Joy Wang |001 joy.wang@sjsu.edu
+Ju-Mee Ryoo |001 ju-mee.ryoo@sjsu.edu
+Juan Gamboa |001 juan.gamboa@sjsu.edu
+Juan Gomez |001 juan.gomez@sjsu.edu
+Juan Pablo Mercado |001 juanpablo.mercado@sjsu.edu
+Juan Pena |001 juan.m.pena@sjsu.edu
+Juan Serna |001 juan.serna@sjsu.edu
+Judi Heher |001 judith.heher@sjsu.edu
+Julia Airapetyan |001 julia.airapetyan@sjsu.edu
+Julia Curry |001 julia.curry@sjsu.edu
+Julia Gosart |001 ulia.gosart@sjsu.edu
+Julia Swan |001 julia.swan@sjsu.edu
+Julian Vogel |001 julian.vogel@sjsu.edu
+Julianna Kim |001 julianna.kim@sjsu.edu
+Julianna Youssef |001 julianna.youssef@sjsu.edu
+Julianne Estrela |001 julianne.estrela@sjsu.edu
+Julie Rangel Hernandez |001 julie.rangelhernandez@sjsu.edu
+Julie Spitzer |001 julie.sliva@sjsu.edu
+Julien Capers |001 julien.capers@sjsu.edu
+Julio Martinez |001 julio.martinez@sjsu.edu
+Julliet Loyola |001 julliet.loyola@sjsu.edu
+Jun Liu |001 junliu@sjsu.edu
+Jung Suh |001 jung.suh@sjsu.edu
+Justin Rietz |001 justin.rietz@sjsu.edu
+Justin Strong |001 justin.strong@sjsu.edu
+Juzi Zhao |001 juzi.zhao@sjsu.edu
+K Ghadiri |001 k.ghadiri@sjsu.edu
+Kaikai Liu |001 kaikai.liu@sjsu.edu
+Kaitlin Cannava |001 kaitlin.cannava@sjsu.edu
+Kala Padmanabhan |001 kala.padmanabhan@sjsu.edu
+Kali Akers Gifford |001 kali.akers@sjsu.edu
+Kanak Somani |001 kanak.somani@sjsu.edu
+Kanan Patel |001 kanan.patel@sjsu.edu
+Kaoru Hollin |001 kaoru.hollin@sjsu.edu
+Kara Davis |001 kara.davis@sjsu.edu
+Karen Castaneda |001 karen.castaneda@sjsu.edu
+Karen Harvey |001 karen.harvey@sjsu.edu
+Karen Knoblaugh |001 karenv731@yahoo.com
+Karen Moody |001 karen.moody@sjsu.edu
+Karen Moreno |001 karen.moreno@sjsu.edu
+Karen Pickett |001 karen.pickett@sjsu.edu
+Karen Singmaster |001 karen.singmaster@sjsu.edu
+Karen Yu |001 ya.yu@sjsu.edu
+Karim Suleman |001 ikarim.suleman@gmail.com
+Karin Brown |001 karin.brown@sjsu.edu
+Karin Jeffery |001 karin.jeffery@sjsu.edu
+Kassahun Betre |001 kassahun.betre@sjsu.edu
+Kasuen Mauldin |001 kasuen.mauldin@sjsu.edu
+Kate Ferguson |001 kate.ferguson@sjsu.edu
+Kate Metcalf |001 kate.metcalf@sjsu.edu
+Kate Wilkin |001 kate.wilkin@sjsu.edu
+Katerina Potika |001 katerina.potika@sjsu.edu
+Katerina Tadenev |001 katerina.tadenev@sjsu.edu
+Katharine Olson |001 katharine.olson@sjsu.edu
+Katharine Studer |001 studerk2011@hotmail.com
+Katherine Chilton |001 katherine.chilton@sjsu.edu
+Katherine Cushing |001 Katherine.Cushing@sjsu.edu
+Katherine Wilkinson |001 katherine.wilkinson@sjsu.edu
+Kathie Kratochvil |001 kathie.kratochvil@sjsu.edu
+Kathleen Cahill |001 kathleen.cahill@sjsu.edu
+Kathleen Castillo |001 kathleen.castillo@sjsu.edu
+Kathleen Mcdonald |001 kathleen.mcdonald@sjsu.edu
+Kathleen Mcsharry |001 kathleen.mcsharry@sjsu.edu
+Kathleen Normington |001 Kathleen.Normington@sjsu.edu
+Kathleen Raiff |001 kathleen.raiff@sjsu.edu
+Kathrine Richardson |001 kathrine.richardson@sjsu.edu
+Kathryn Wise |001 kathryn.wise@sjsu.edu
+Kathy Haven |001 kathyhaven@gmail.com
+Kathy Le |001 kathy.le@sjsu.edu
+Kathy Lemon |001 kathylemon2013@gmail.com
+Kathy Werking |001 kathy.werking@sjsu.edu
+Katie Berkeland |001 katheryn.berkeland@sjsu.edu
+Katrina Long |001 katrina.long@sjsu.edu
+Katy Kao |001 katy.kao@sjsu.edu
+Kaushik Patra |001 kaushik.patra@sjsu.edu
+Kaye Sanders |001 kaye.sanders@sjsu.edu
+Kayla Curto-Borden |001 kayla.curto-borden@sjsu.edu
+Kayla Mitchell |001 kayla.mitchell@sjsu.edu
+Kayla Rooney |001 kayla.rooney@sjsu.edu
+Keenan Norris |001 keenan.norris@sjsu.edu
+Keeyong Han |001 keeyong.han@sjsu.edu
+Keith Pinto |001 keith.pinto@sjsu.edu
+Keith Yi |001 keith.yi@sjsu.edu
+Kelly Brennan |001 kelly.brennan@sjsu.edu
+Kelly Snider |001 kelly.snider@sjsu.edu
+Kelsea Rossow |001 kelsea.rossow@sjsu.edu
+Kelsey Bogan |001 kelsey.bogan@sjsu.edu
+Kendall Ward |001 kendall.ward@sjsu.edu
+Kenneth Gehrt |001 kenneth.gehrt@sjsu.edu
+Kenneth Peter |001 kenneth.peter@sjsu.edu
+Kenneth Wharton |001 kenneth.wharton@sjsu.edu
+Kerri Malloy |001 kerri.malloy@sjsu.edu
+Kevin Bontenbal |001 kbontenbal@charter.net
+Kevin Chiu |001 kevin.chiu01@sjsu.edu
+Kevin Kellogg |001 kevin.kellogg@sjsu.edu
+Kevin Lee |001 kevin.f.lee@sjsu.edu
+Kevin Lo |001 kevin.lo01@sjsu.edu
+Kevin Lynch |001 kevin.lynch@sjsu.edu
+Kevin Maguire |001 kevin.maguire@sjsu.edu
+Kevin Mannens |001 kevin.mannens@sjsu.edu
+Kevin Moore |001 kevin.moore@sjsu.edu
+Kevin Nguyen |001 kevin.l.nguyen@sjsu.edu
+Kevin Roe |001 kevin.roe@sjsu.edu
+Kevin Smith |001 kevin.smith@sjsu.edu
+Kevin Soohoo |001 kevin.soohoo@sjsu.edu
+Kevin Wing |001 kevin.s.wing@sjsu.edu
+Kezban Yagci Sokat |001 kezban.yagcisokat@sjsu.edu
+Khaled Mabrouk |001 kmabrouk@ReduceOR.com
+Kidane Sengal |001 kidane.sengal@sjsu.edu
+Kim Clark |001 kim.clark@sjsu.edu
+Kim Knight |001 kim.knight@sjsu.edu
+Kim Miranda |001 kim.miranda@sjsu.edu
+Kim Tsai |001 kim.tsai@sjsu.edu
+Kim Yee |001 kim.yee@sjsu.edu
+Kimb Massey |001 kimb.massey@sjsu.edu
+Kimberlee Golles |001 kimberlee.golles@sjsu.edu
+Kimberli Buckley |001 kimberli.buckley@sjsu.edu
+Kimberly Piet |001 piet.kimberly@gmail.com
+Kirsten Schwartz |001 kirsten.schwartz@sjsu.edu
+Kohar Scott |001 kohar.scott@sjsu.edu
+Komal Sanjaykumar Joshi |001 komalsanjaykumar.joshi@sjsu.edu
+Kourosh Amirkhani |001 kourosh.amirkhani@sjsu.edu
+Kourosh Youssefi |001 kourosh.youssefi@sjsu.edu
+Kris Borgen |001 kris.borgen@sjsu.edu
+Krissy Hassett |001 krissy.hassett@sjsu.edu
+Kristen Cole |001 kristen.cole@sjsu.edu
+Kristen Krumanaker |001 kristen.krumanaker@sjsu.edu
+Kristen Radsliff |001 kristen.radsliff@sjsu.edu
+Kristian O'Hare |001 kristian.ohare@sjsu.edu
+Kristin Fitzpatrick Ezell |001 kristin.fitzpatrickezell@sjsu.edu
+Kristine Kirkendall |001 kristine.kirkendall@sjsu.edu
+Kristy Kay |001 kristy.kay@sjsu.edu
+Krupa Patel |001 krupa.patel@sjsu.edu
+Krystal Boehlert |001 krystal.boehlert@sjsu.edu
+Kumar Vishal |001 kumar.vishal@sjsu.edu
+Kurt Mcmullin |001 kurt.mcmullin@sjsu.edu
+Kyle Corbett |001 kyle.corbett@sjsu.edu
+Kyle Hambrook |001 kyle.hambrook@sjsu.edu
+Kyle Hertsch |001 kyle.hertsch@sjsu.edu
+Kyle Johnson |001 kyle.johnson@sjsu.edu
+Kyle Worley |001 kyle.worley@sjsu.edu
+Kyle Yrigoyen |001 kyle.yrigoyen@sjsu.edu
+Kyoung Mi Choi |001 kyoungmi.choi@sjsu.edu
+Kyu Kim |001 kyu@acsarchitects.com
+Lamont Williams |001 lamont.williams@sjsu.edu
+Lan Nguyen |001 lhnguyen95@gmail.com
+Lance Fung |001 lance.fung@sjsu.edu
+Laree Huntsman |001 laree.huntsman@sjsu.edu
+Larissa Chiriaeva |001 larissa.chiriaeva@sjsu.edu
+Lark Alder |001 lark.alder@sjsu.edu
+Larry Gerston |001 larry.gerston@sjsu.edu
+Latisha Roberts |001 nicholeroberts24@gmail.com
+Laura Chin |001 laura.chin@sjsu.edu
+Laura Guardino |001 lauraguardino@yahoo.com
+Laura Kapitzky |001 laura.kapitzky@sjsu.edu
+Laura Miller Conrad |001 laura.miller.conrad@sjsu.edu
+Laura Mugica Sanchez |001 laura.mugica@sjsu.edu
+Laura Pirazzi |001 laura.pirazzi@sjsu.edu
+Laureen Hom |001 laureen.hom@sjsu.edu
+Laurence Pilot-Darier-Baziere |001 laurence.pilot-darier-baziere@sjsu.edu
+Laurene Beto |001 laurene_beto@sccoe.org
+Laurie Steinberg |001 laurie.steinberg@sjsu.edu
+Lawrence Lan |001 lawrence.lan@sjsu.edu
+Lawrence Nguyen |001 e.lawrence.nguyen@gmail.com
+Lawrence Schapiro |001 lawrence.schapiro@sjsu.edu
+Lea Endo |001 lea.le@sjsu.edu
+Leah Gaines |001 leah.gaines@sjsu.edu
+Leann Hill |001 leann.hill@sjsu.edu
+Leanne Teruya |001 leanne.teruya@sjsu.edu
+Lee Aarons |001 lee.aarons@comcast.net
+Lee Chang |001 lee.chang@sjsu.edu
+Lee Gilmore |001 lee.gilmore@sjsu.edu
+Lee Pate |001 lee.pate@sjsu.edu
+Lei Cai |001 lei.cai@sjsu.edu
+Leif Rogers |001 leif.rogers@sjsu.edu
+Leigh Via |001 leigh.via@sjsu.edu
+Leighton Hinkley |001 leighton.hinkley@sjsu.edu
+Leila Beverleigh |001 leila.beverleigh@sjsu.edu
+Leila Ensaniat |001 leila.ensaniat@sjsu.edu
+Leila Khatib |001 leila.khatib@sjsu.edu
+Lenea Pollett |001 lenea.pollett@sjsu.edu
+Leonard Wesley |001 leonard.wesley@sjsu.edu
+Lesley Wiley |001 lesley.wiley@gmail.com
+Leslie Albert |001 leslie.albert@sjsu.edu
+Leslie Corona |001 leslie.corona@sjsu.edu
+Leslie Roberts |001 leslie.roberts@sjsu.edu
+Leslye Whitehead |001 leslye.whitehead@sjsu.edu
+Lesther Papa |001 lesther.papa@sjsu.edu
+Lexygius Calip |001 lexygius.calip@sjsu.edu
+Li Jin |001 li.jin@sjsu.edu
+Liam Stanton |001 liam.stanton@sjsu.edu
+Liat Rosenfeld |001 liat.rosenfeld@sjsu.edu
+Libra Hilde |001 libra.hilde@sjsu.edu
+Lili He |001 lili.he@sjsu.edu
+Lili Luo |001 Lili.Luo@sjsu.edu
+Liliana Castrellon |001 liliana.castrellon@sjsu.edu
+Lillian Hawthorne |001 lillian.hawthorne@sjsu.edu
+Lilly Chen |001 lilly.chen@sjsu.edu
+Lin Jiang |001 lin.jiang@sjsu.edu
+Lin Zou |001 lin.zou@sjsu.edu
+Linda Higgins |001 linda.higgins@sjsu.edu
+Linda Main |001 Linda.Main@sjsu.edu
+Linda Mitchell |001 linda.mitchell@sjsu.edu
+Lindsay Walsh |001 lindsay.walsh@sjsu.edu
+Lining Wang |001 lining.wang@sjsu.edu
+Lisa Bernasconi |001 lisa.bernasconi@sjsu.edu
+Lisa Chaudoin |001 lisa.chaudoin@sjsu.edu
+Lisa Heikka-Huber |001 lisa.heikka-huber@sjsu.edu
+Lisa Morgan |001 lisa.morgan@sjsu.edu
+Lisa Rauch |001 lisa.rauch@sjsu.edu
+Lisa Simpson |001 lisa.simpson@sjsu.edu
+Lisa Walker-Vischer |001 lisa.walker-vischer@sjsu.edu
+Lissette Moore-Guerra |001 lissette.moore-guerra@sjsu.edu
+Liz Asborno |001 elizabeth.asborno@sjsu.edu
+Liz Linden |001 liz.linden@sjsu.edu
+Liz Roberts |001 liz.roberts@sjsu.edu
+Lizeth Gonzalez |001 lizeth.gonzalez@sjsu.edu
+Loc Lam |001 loc.lam@sjsu.edu
+Logan Miller |001 logan.miller@sjsu.edu
+Logan O'Brien |001 logan.obrien@sjsu.edu
+Logan Walker |001 logan.walker@sjsu.edu
+Lorri Capizzi |001 lorri.capizzi@sjsu.edu
+Loubna Hafid |001 loubna.hafid@sjsu.edu
+Louis Freund |001 louis.freund@sjsu.edu
+Louise Bernbaum |001 louise.bernbaum@sjsu.edu
+Lucas Hatton |001 lucas.hatton@sjsu.edu
+Lucas Schwyter |001 youngkwang.schwyter@sjsu.edu
+Lucinda Cabral |001 Lucinda.Cabral@sjsu.edu
+Lucinda Robledo |001 lucinda.robledo@sjsu.edu
+Lucy Headrick |001 lucy.headrick@sjsu.edu
+Luis Arabit |001 luis.arabit@sjsu.edu
+Luis Orozco |001 luis.a.orozco@sjsu.edu
+Luis Poza |001 luis.poza@sjsu.edu
+Luke Gardner |001 luke.gardner@sjsu.edu
+Luz Arvizu |001 luz.arvizu@sjsu.edu
+Lynn Dau |001 lynn.dau@sjsu.edu
+Lynne Andonian |001 Lynne.Andonian@sjsu.edu
+Lynne Trulio |001 lynne.trulio@sjsu.edu
+Madalyn Radlauer |001 madalyn.radlauer@sjsu.edu
+Madhu Thummaluru |001 madhu.thummaluru@sjsu.edu
+Madison Sullivan |001 madison.sullivan@sjsu.edu
+Magdalini Eirinaki |001 Magdalini.Eirinaki@sjsu.edu
+Maggie Selzer |001 margaret.selzer@sjsu.edu
+Mahboubeh Madadi |001 mahboubeh.madadi@sjsu.edu
+Mahesh Rajan |001 mahesh.rajan@sjsu.edu
+Mahima Agumbe Suresh |001 mahima.agumbesuresh@sjsu.edu
+Mahima Prabhakaran |001 mahima.prabhakaran@sjsu.edu
+Mahsa Modirzadeh |001 modirzadehmahsa@yahoo.com
+Maipeng Wei |001 maipeng.wei@sjsu.edu
+Maite Urcaregui |001 maite.urcaregui@sjsu.edu
+Maleiyah Harris |001 maleiyah.harris@sjsu.edu
+Manami Iwata |001 manami.iwata@sjsu.edu
+Manel Palos Pons |001 manel.palos@sjsu.edu
+Manoj Mistry |001 manoj.mistry@sjsu.edu
+Manvendrasinh Sisodia |001 manvendrasinh.sisodia@sjsu.edu
+Mara Skov |001 mara.skov@sjsu.edu
+Marcella Cardoza Mccollum (She/Ella) |001 marcella.mccollum@sjsu.edu
+Marci Harris |001 marci.harris@sjsu.edu
+Marco Meniketti |001 marco.meniketti@sjsu.edu
+Marcos Cepin |001 marcos.cepin@sjsu.edu
+Marelyn Negrete |001 marelyn.negrete@sjsu.edu
+Margaret Stevenson |001 margaret.stevenson@sjsu.edu
+Maria Aziz |001 maria.aziz@sjsu.edu
+Maria Basile |001 maria.basile@sjsu.edu
+Maria Chierichetti |001 maria.chierichetti@sjsu.edu
+Maria Cruz |001 maria.cruz@sjsu.edu
+Maria Fusaro |001 maria.fusaro@sjsu.edu
+Maria Ledesma |001 maria.ledesma@sjsu.edu
+Maria Luisa Colmenarez |001 marialuisa.colmenarez@sjsu.edu
+Marianne Delaporte Kabir |001 marianne.delaportekabir@sjsu.edu
+Maribel Martinez |001 maribel.martinez@sjsu.edu
+Marieka Drovin |001 mariekadrovin14@gmail.com
+Mariella Morales |001 mariella.morales@sjsu.edu
+Marilyn Easter |001 marilyn.easter@sjsu.edu
+Marina Vaserman |001 marina.vaserman@sjsu.edu
+Marion Beach |001 marion.schinn@sjsu.edu
+Marion Campisi |001 marion.campisi@sjsu.edu
+Marjan Khatibi |001 marjan.khatibi@sjsu.edu
+Mark Ammar Rayes |001 arayes100@gmail.com
+Mark Barash |001 mark.barash@sjsu.edu
+Mark Brady |001 mark.brady@sjsu.edu
+Mark Dowdy |001 mark.dowdy@sjsu.edu
+Mark Greenough |001 mark.greenough@sjsu.edu
+Mark Mckenna |001 mark.mckenna@sjsu.edu
+Mark Pasion |001 markpasion@att.net
+Mark Stamp |001 mark.stamp@sjsu.edu
+Mark Thompson |001 mark.thompson@sjsu.edu
+Mark Van Selst |001 mark.vanselst@sjsu.edu
+Markle Addis |001 markle.addis@sjsu.edu
+Marta Elliott |001 marta.elliott@sjsu.edu
+Martha Behler |001 martha.behler@sjsu.edu
+Martin Bilello |001 martin.bilello@sjsu.edu
+Martina Bremer |001 martina.bremer@sjsu.edu
+Mary Conroy |001 mary.conroy@sjsu.edu
+Mary Currin-Percival |001 mary.currinpercival@sjsu.edu
+Mary Evangeliste |001 mary.evangeliste@sjsu.edu
+Mary Gloner |001 mary.gloner@sjsu.edu
+Mary Hall |001 mary.hall@sjsu.edu
+Mary Juno |001 mary.juno@sjsu.edu
+Mary Morse |001 mary.morse@sjsu.edu
+Mary Pickering |001 mary.pickering@sjsu.edu
+Mary Poffenroth |001 mary.poffenroth@sjsu.edu
+Mary Salzman |001 mary.salzman@sjsu.edu
+Maryam Khazaei Pool |001 maryam.khazaeipool@sjsu.edu
+Maryam Pirmoradi |001 m.pirmoradi20@gmail.com
+Maryann Harlan |001 maryann.harlan@sjsu.edu
+Maryanne Whitney |001 maryanne.whitney@sjsu.edu
+Marziah Rajabzadeh |001 marziah.rajabzadeh@sjsu.edu
+Mash (Michael) Ashley |001 michael.ashley@sjsu.edu
+Matt Cabot |001 matt.cabot@sjsu.edu
+Matt Crockett |001 matt.crockett@sjsu.edu
+Matthew Bejar |001 matthew.bejar@sjsu.edu
+Matthew Breaux |001 matthew.breaux@ssa.sccgov.org
+Matthew Capriotti |001 matthew.capriotti@sjsu.edu
+Matthew Faulkner |001 matthew.faulkner@sjsu.edu
+Matthew Holian |001 matthew.holian@sjsu.edu
+Matthew Leigh |001 matthew.leigh@sjsu.edu
+Matthew Maguire |001 matthew.maguire@sjsu.edu
+Matthew Moore |001 matthew.d.moore@sjsu.edu
+Matthew Moore |001 matthew.moore@sjsu.edu
+Matthew Moresco |001 mmoresco09@gmail.com
+Maureen Kelley |001 maureen.kelley@sjsu.edu
+Maureen Smith She/Her |001 maureen.smith@sjsu.edu
+Max Yoshimoto |001 max.yoshimoto@sjsu.edu
+Maxime Grand |001 maxime.grand@sjsu.edu
+Maxine Shao |001 maxine.shao@sjsu.edu
+Maya Devries |001 maya.devries@sjsu.edu
+Mayra Cardenas Rojo |001 mayra.cardenas@sjsu.edu
+Mayu Loffgren |001 mayu.loffgren@sjsu.edu
+Medha Bodas |001 medha.bodas@sjsu.edu
+Meekyung Han |001 meekyung.han@sjsu.edu
+Meet Patel |001 meetbharatbhai.patel@sjsu.edu
+Meg Quarton |001 meg.quarton@sjsu.edu
+Megan Chang |001 megan.chang@sjsu.edu
+Megan Price |001 megan.price@sjsu.edu
+Megan Sales |001 megan.sales@sjsu.edu
+Megan Thiele Strong |001 megan.thiele@sjsu.edu
+Meghan Gorman-Darif |001 meghan.gorman-darif@sjsu.edu
+Meghna Soni |001 meghna.soni@sjsu.edu
+Mehrdad Khosravi |001 mehrdad.khosravi@sjsu.edu
+Melanie Mcneil |001 melanie.mcneil@sjsu.edu
+Melinda Jackson |001 melinda.jackson@sjsu.edu
+Melinda Simon |001 melinda.simon@sjsu.edu
+Melisa Kaye |001 melisa.kaye@sjsu.edu
+Melissa Beresford |001 melissa.beresford@sjsu.edu
+Melissa Meyers |001 melissaif@gmail.com
+Melissa Puckett |001 mapuckett08@gmail.com
+Melissa Tribble |001 melissa.tribble@sjsu.edu
+Melody Barta |001 melody.barta@sjsu.edu
+Melody Esfandiari |001 mn_esfandiari@yahoo.com
+Melody Moh |001 melody.moh@sjsu.edu
+Meredith Kondo |001 meredith.kondo@sjsu.edu
+Mi Zhou |001 mi.zhou01@sjsu.edu
+Michae Musick |001 leigh.musick@sjsu.edu
+Michael Brito |001 britopian@gmail.com
+Michael Cheers |001 michael.cheers@sjsu.edu
+Michael Dao |001 michael.dao@sjsu.edu
+Michael Edgerton |001 michael.edgerton@sjsu.edu
+Michael Fong |001 michael.k.fong@sjsu.edu
+Michael Ford |001 michael.n.ford@sjsu.edu
+Michael Graham |001 MGRAHAM.KELPSTER@GMAIL.COM
+Michael Hernandez |001 michael.n.hernandez@sjsu.edu
+Michael Jordan |001 michael.jordan@sjsu.edu
+Michael Klein |001 michael.klein@sjsu.edu
+Michael Lam |001 michael.lam01@sjsu.edu
+Michael Linnik |001 michael.linnik@sjsu.edu
+Michael Llewellyn-Williams |001 michael.llewellyn-williams@sjsu.edu
+Michael Mann Stock |001 michael.mann-stock@sjsu.edu
+Michael Mathe |001 michael.mathe@sjsu.edu
+Michael Merz |001 michael.merz@sjsu.edu
+Michael Oye |001 michael.oye@sjsu.edu
+Michael Randle |001 michael.randle@sjsu.edu
+Michael Stephens |001 mstephens7@mac.com
+Michael Sudduth |001 michael.sudduth01@sjsu.edu
+Michael Swain |001 michael.swain@sjsu.edu
+Michael Vallerga |001 michael.vallerga@sjsu.edu
+Michael Vartanian |001 michael.vartanian@sjsu.edu
+Michael Williams |001 michael.j.williams@sjsu.edu
+Michele Bertolone |001 michele.bertolone@sjsu.edu
+Michele Burns |001 michele.burns@sjsu.edu
+Michele Santamaria |001 michele.santamaria@sjsu.edu
+Michele Villagran |001 michele.villagran@sjsu.edu
+Michelle Chen |001 hsuanwei.chen@sjsu.edu
+Michelle Gentry |001 michelle.gentry@sjsu.edu
+Michelle Hampton |001 michelle.hampton@sjsu.edu
+Michelle Lee |001 michelle.j.lee@sjsu.edu
+Michelle Tipton-Burton |001 michelle.tipton-burton@sjsu.edu
+Michelle Tran |001 michelle.tran02@sjsu.edu
+Michelle Wilson |001 michelle.wilson@sjsu.edu
+Michiko Uryu |001 michiko.uryu@sjsu.edu
+Midori Ishida |001 midoriishida@gmail.com
+Miguel Figueroa |001 miguel.figueroa@sjsu.edu
+Miguel Novelo |001 miguel.novelo@sjsu.edu
+Mihwa Choi |001 mihwa.choi@sjsu.edu
+Mike Benveniste |001 mike.benveniste@sjsu.edu
+Mike Dillinger |001 mike.dillinger@sjsu.edu
+Mike Hill |001 mike.hill@sjsu.edu
+Mike Vardaro |001 michael.vardaro@sjsu.edu
+Mike Wood |001 mike.wood@sjsu.edu
+Miles Pascal-Gonzales |001 mileskpg@gmail.com
+Ming Cheng |001 ming.cheng@sjsu.edu
+Ming Zhou |001 ming.zhou@sjsu.edu
+Minghui Diao |001 minghui.diao@sjsu.edu
+Minh Duong |001 minh.d.duong@sjsu.edu
+Minh Hoang Huynh |001 leonhuynh2401@gmail.com
+Minh Vu |001 minh.n.vu@sjsu.edu
+Minna Holopainen |001 minna.holopainen@sjsu.edu
+Mira Jane |001 mira.jane@sjsu.edu
+Miranda Nzoyem |001 miranda.nzoyem@sjsu.edu
+Miranda Schmidt |001 miranda.schmidt@sjsu.edu
+Miranda Worthen |001 miranda.worthen@sjsu.edu
+Miri Vanhoven |001 mkvanhoven@gmail.com
+Misako Van Der Poel |001 misako.vanderpoel@sjsu.edu
+Misty Mcnay |001 mistymcnay@gmail.com
+Mithila Guha |001 mithila.guha@sjsu.edu
+Miwa Merz |001 miwa.merz@sjsu.edu
+Mohamed Soliman |001 mohamed.soliman@sjsu.edu
+Mohammad Masum |001 mohammad.masum@sjsu.edu
+Mohammad Saleem |001 Mohammad.Saleem@sjsu.edu
+Mohammed Saif Ulla Ameen Lnu |001 mohammedsaifullaameen@sjsu.edu
+Mohammed Yahdi |001 mohammed.yahdi@sjsu.edu
+Mohana Venkat Yarlagadda |001 mohanavenkatyarlagadda@gmail.com
+Mohsen Marizad |001 mohsen.marizad@sjsu.edu
+Mojgan Haririfar |001 mojgan.haririfar@sjsu.edu
+Mojtaba Sharifi |001 mojtaba.sharifi@sjsu.edu
+Molly Hankwitz |001 molly.hankwitz@sjsu.edu
+Monica Gavino |001 monica.gavino@sjsu.edu
+Monica Van Den Dool |001 monica.vandendool@sjsu.edu
+Moninderjeet Agroia |001 meenu7@mac.com
+Monique Duphily |001 monique.duphily@sjsu.edu
+Monique Howe |001 monique.howe@sjsu.edu
+Moorea Lippert |001 moorea.lippert@sjsu.edu
+Morana Medved |001 morana@zagabria.net
+Morgan Mcknight |001 morgan.mcknight@sjsu.edu
+Morgan Sanchez |001 morgan.sanchez@sjsu.edu
+Morris Jones |001 morris.jones@sjsu.edu
+Mostafa Jalal |001 mostafa.jalal@sjsu.edu
+Mostafa Mortezaie |001 mostafa.mortezaie@sjsu.edu
+Mugdha Birari |001 mugdha.birari@sjsu.edu
+Muhammad Saeed |001 muhammad.saeed@sjsu.edu
+Mukesh Dokala |001 mukesh.dokala@sjsu.edu
+Murat Okyar |001 murat.okyar@sjsu.edu
+Nada Attar |001 nada.attar@sjsu.edu
+Nader Mir |001 nader.mir@sjsu.edu
+Nadia Sorkhabi |001 nadia.sorkhabi@sjsu.edu
+Naga Vardhan Maddala |001 nagavardhan.maddala@sjsu.edu
+Nagib Hakim |001 nagib.hakim@sjsu.edu
+Naman Ghumman |001 naman.ghumman@sjsu.edu
+Namiq Sultanov |001 namiq.sultanov@sjsu.edu
+Nancy Carlin |001 nancy.carlin@sjsu.edu
+Nancy Da Silva |001 nancy.dasilva@sjsu.edu
+Nancy Dudley |001 nancy.dudley@sjsu.edu
+Nancy Friedland |001 nancy.friedland@sjsu.edu
+Nancy Long |001 nancy.long@sjsu.edu
+Nancy Park |001 nancy.park@sjsu.edu
+Nancy Smith |001 nancy.smith@sjsu.edu
+Nancy Stork |001 nancy.stork@sjsu.edu
+Nandana Jill |001 nandana.jill@sjsu.edu
+Naoki Matsumura |001 naoki.matsumura@sjsu.edu
+Naomi Wagner |001 psychprof1@yahoo.com
+Naomi Williams |001 naomi.williams@sjsu.edu
+Narayan Balasubramanian |001 narayan.balasubramanian@sjsu.edu
+Nargis Adham |001 nargis.adham@sjsu.edu
+Natalie Birthelmer |001 natalie.birthelmer@sjsu.edu
+Nathan Osborne |001 nathan.osborne@sjsu.edu
+Nathan Samarasena |001 nathan.samarasena@sjsu.edu
+Nathaniel Bogie |001 nathaniel.bogie@sjsu.edu
+Nathaniel Lupton |001 nathaniel.lupton@sjsu.edu
+Nathapong Shugan |001 nathapong.shugan@sjsu.edu
+Natsuko Tsuji |001 natsuko.aug1@gmail.com
+Navrati Saxena |001 navrati.saxena@sjsu.edu
+Nayoun Lee |001 nayoun.lee@sjsu.edu
+Neel Desai |001 neel.u.desai@sjsu.edu
+Neelam Rattan |001 neelam.rattan@sjsu.edu
+Neeraj Sahejpal |001 neeraj.sahejpal@sjsu.edu
+Neha Khodaskar Khapare |001 neha.khodaskarkhapare@sjsu.edu
+Neil Switz |001 neil.switz@sjsu.edu
+Netta Conyers-Haynes |001 netta.conyers-haynes@sjsu.edu
+Neyram Hemati |001 neyram.hemati@sjsu.edu
+Nharmadhaa Manickam |001 nharmadhaa.manickam@sjsu.edu
+Ni Zhang |001 ni.zhang01@sjsu.edu
+Niall Mccarthy |001 niall.mccarthy@sjsu.edu
+Nica Tanaka |001 nicollette.tanaka@sjsu.edu
+Nicholas Esker |001 nicholas.esker@sjsu.edu
+Nicholas Hightower |001 nick.hightower@sjsu.edu
+Nicholas Taylor |001 nicholas.taylor@sjsu.edu
+Nick Bathurst |001 nicholas.bathurst@sjsu.edu
+Nick Martinez |001 nick.martinez@sjsu.edu
+Nicolas Fraire |001 nicolas.fraire@sjsu.edu
+Nicole Dubus |001 nicole.dubus@sjsu.edu
+Nicole Levine |001 nicole.levine@sjsu.edu
+Nicole Zhang |001 nicole.zhang@sjsu.edu
+Nik Tehrani |001 nik.tehrani@sjsu.edu
+Nikhil Sunku |001 nikhil.sunku@sjsu.edu
+Nikole Trainor |001 nikole.trainor@sjsu.edu
+Nikos Mourtos |001 nikos.mourtos@sjsu.edu
+Niloofar Salehi |001 niloofar.salehi@sjsu.edu
+Ningkun Wang |001 ningkun.wang@sjsu.edu
+Ninh Nguyen |001 ninh.nguyen@sjsu.edu
+Ninos Malek |001 ninos.malek@sjsu.edu
+Niranjani Patel |001 minnie.patel@sjsu.edu
+Nisha Garud Patkar |001 nisha.garud@sjsu.edu
+Nitin Aggarwal |001 nitin.aggarwal@sjsu.edu
+Nivedita Nair |001 nivedita.nair@sjsu.edu
+Noah Friedman-Biglin |001 noah.friedman-biglin@sjsu.edu
+Noni Reis |001 noni.mendozareis@sjsu.edu
+Nora Adadurova |001 nora.adadurova@sjsu.edu
+Nora Balabanian |001 nora.balabanian@sjsu.edu
+Noura Wedell |001 nura.wedell@sjsu.edu
+Olenka Hubickyj |001 olenka.hubickyj@sjsu.edu
+Olga Kovaleva |001 olga.kovaleva@sjsu.edu
+Olinda Mar |001 olinda.mar@sjsu.edu
+Olivia Yip |001 olivia.yip@sjsu.edu
+Ossie Rashel |001 ossie.rashel@sjsu.edu
+Owen Matthew Aurelio |001 omaha56@hotmail.com
+Pablo Furman |001 Pablo.Furman@sjsu.edu
+Padmavati Tanniru |001 padmatd@yahoo.com
+Pamela Wells |001 pamela.wells@sjsu.edu
+Param Saini |001 paramdeep.saini@sjsu.edu
+Pascale Messa |001 pascale.messa@sjsu.edu
+Patralekha Ukil |001 patralekha.ukil@sjsu.edu
+Patricia Daley- Harms |001 patricia.daley-harms@sjsu.edu
+Patrick Cravalho |001 patrick.cravalho@sjsu.edu
+Patrick Hutchinson |001 patrick.hutchinson@sjsu.edu
+Patrick Jurney |001 patrick.jurney@sjsu.edu
+Patrick Murphy |001 patrick.a.murphy@sjsu.edu
+Patrick Sweeney |001 patrick.sweeney@sjsu.edu
+Patrick Tam |001 patrick.k.tam@sjsu.edu
+Paul Cascella |001 paul.cascella@sjsu.edu
+Paul Ellison |001 paul.ellison@sjsu.edu
+Paul Houck |001 paul.houck@gmail.com
+Paul Kutler |001 pkutler@comcast.net
+Paul Mills |001 paul.mills@sjsu.edu
+Paul Varun Guddeti |001 paulvarun.guddeti@sjsu.edu
+Paul-Vincent Lombardi |001 paul.lombardi@sjsu.edu
+Paula Bonander Oakes |001 paula.oakes@sjsu.edu
+Paula Edwards |001 paula.edwards@sjsu.edu
+Peg Hughes |001 peg.hughes@sjsu.edu
+Peggy Plato |001 peggy.plato@sjsu.edu
+Pei-Tzu Tsai |001 peitzu.tsai@sjsu.edu
+Penny Peck |001 Pikly@aol.com
+Periklis Papadopoulos |001 periklis.papadopoulos@sjsu.edu
+Peter Beyersdorf |001 peter.beyersdorf@sjsu.edu
+Peter Coronado |001 peter.coronado@sjsu.edu
+Peter Gao |001 peter.gao@sjsu.edu
+Peter Lee |001 peter.a.lee@sjsu.edu
+Peter O'Sullivan |001 peter.o'sullivan@sjsu.edu
+Peter Rodriquez |001 peterrodriquez@hotmail.com
+Peter Schreiber |001 peter.schreiber@sjsu.edu
+Philip Amo Agyapong |001 philipamo.agyapong@sjsu.edu
+Philip Bair |001 philip.bair@sjsu.edu
+Philip Dirlam |001 philip.dirlam@sjsu.edu
+Philip Krayna |001 philip.krayna@sjsu.edu
+Philip Mohseni |001 philipgmohseni@gmail.com
+Philippa Kelly |001 philippa.kelly@sjsu.edu
+Phillip Hawkins |001 phillip.hawkins@sjsu.edu
+Phuong Phan |001 quynhphuong.phan@sjsu.edu
+Phyliswest Johnson |001 phylis.west@sjsu.edu
+Pietro Calogero |001 pietro.calogero@sjsu.edu
+Plamen Koev |001 plamen.koev@sjsu.edu
+Pouya Ostovari |001 pouya.ostovari@sjsu.edu
+Prajakti Jayavant |001 prajakti.jayavant@sjsu.edu
+Pranjali Sanghvi |001 pranjalihimanshu.sanghvi@sjsu.edu
+Pranusha Cheemarla |001 pranusha.cheemarla@sjsu.edu
+Prarthna Kashyap |001 prarthna.kashyap@sjsu.edu
+Prateek Jain |001 prateek.jain@sjsu.edu
+Pratik Korat |001 pratikkumardalsukhbhai.korat@sjsu.edu
+Pree Kolari |001 pree.kolari@sjsu.edu
+Preston Rudy |001 preston.rudy@sjsu.edu
+Price Pettit |001 price.pettit@sjsu.edu
+Puja Prasad |001 pprasad06@gmail.com
+Qi Wang |001 qi.wang01@sjsu.edu
+Qian Tan |001 qian.tan@sjsu.edu
+Quang Duy Tran |001 quangduy.tran@sjsu.edu
+Quincy Mccrary |001 qmccrary@gmail.com
+Rachael French |001 rachael.french@sjsu.edu
+Rachel Lazzeri-Aerts |001 rachel.lazzeriaerts@sjsu.edu
+Rachel O'Malley |001 rachel.omalley@sjsu.edu
+Rachel Peters |001 rachel.peters@sjsu.edu
+Rachel Turner |001 rachel.turner@sjsu.edu
+Radha Aravamudhan |001 radha.aravamudhan@sjsu.edu
+Rafael Kaliski |001 rafael.kaliski@sjsu.edu
+Raghu Agarwal |001 raghu.agarwal@sjsu.edu
+Raha Shojaei |001 raha.shojaei@sjsu.edu
+Rahmon Pashtunyar |001 rahmon.pashtunyar@sjsu.edu
+Raina Levesque |001 raina.levesque@sjsu.edu
+Rajorshi Ghosh |001 rajorshi.ghosh@sjsu.edu
+Rakesh Ranjan |001 ranjanr@gmail.com
+Ralph Mckay |001 ralph.mckay@sjsu.edu
+Ralph Nichols |001 ralphnichols58@gmail.com
+Ramachandran Varadharajan |001 ramachandran.varadharajan@sjsu.edu
+Ramamurti Sridar |001 ramamurti.sridar@sjsu.edu
+Ramen Bahuguna |001 ramendra.bahuguna@sjsu.edu
+Ramesh Srinivasan |001 ramesh.srinivasan@sjsu.edu
+Ramin Alizadeh |001 ramin.alizadeh@sjsu.edu
+Ramin Moazeni |001 ramin.moazeni@sjsu.edu
+Rana Mcreynolds |001 rana.mcreynolds@sjsu.edu
+Ranjini Venkatraman |001 ranjini.venkatraman@sjsu.edu
+Ranko Heindl |001 ranko.heindl@sjsu.edu
+Raphael Boumaila |001 raphael.boumaila@sjsu.edu
+Raphael Noz |001 raphael.noz@sjsu.edu
+Raquel Coelho |001 raquel@raquelcoelho.com
+Ravi Agarwal |001 ravi.agarwal@sjsu.edu
+Ravindra Thadani |001 ravindra.thadani@sjsu.edu
+Ravisha Mathur |001 ravisha.mathur@sjsu.edu
+Ray Furuta |001 ray.furuta@sjsu.edu
+Ray Mendoza Landa |001 raymundo.mendozalanda@sjsu.edu
+Raymand Buyco |001 raymand.buyco@sjsu.edu
+Raymond Combs |001 ray.combs@sjsu.edu
+Raymond Kwok |001 raymond.kwok@sjsu.edu
+Raymond Noriega |001 raymond.noriega@sjsu.edu
+Raymond Yee |001 raymond.yee@sjsu.edu
+Rebeca Burciaga |001 rebeca.burciaga@sjsu.edu
+Rebecca Clark |001 rebecca.clark@sjsu.edu
+Rebecca Kling |001 rebecca.kling@sjsu.edu
+Regina Arnold |001 regina.arnold@sjsu.edu
+Reiko Kataoka |001 reiko.kataoka@sjsu.edu
+Ren (Karen) Williams |001 karen.williams@sjsu.edu
+Renae Bhader |001 renaebhader@aol.com
+Renee Billner-Garcia |001 renee63bsn@gmail.com
+Renee Gorth |001 renee.gorth@sjsu.edu
+Rex Tsou |001 rex.tsou@sjsu.edu
+Rhonda Holberton |001 rhonda.holberton@sjsu.edu
+Riana Betzler |001 riana.betzler@sjsu.edu
+Ricardo Ballin |001 ricardo.ballin@sjsu.edu
+Richard Craig |001 richard.craig@sjsu.edu
+Richard Grotegut |001 richard.grotegut@sjsu.edu
+Richard Kos |001 richard.kos@sjsu.edu
+Richard Lee |001 richard.lee@sjsu.edu
+Richard Low |001 richard.low@sjsu.edu
+Richard Montgomery |001 richard.montgomery@sjsu.edu
+Richard Sessions |001 richard.sessions@sjsu.edu
+Richard Sinn |001 richardsinn@yahoo.com
+Richard Vandivier |001 rickvandivier@comcast.net
+Richie Tay |001 richie.tay@sjsu.edu
+Ricky Koonming Chan |001 koon-ming.chan@sjsu.edu
+Rita Zigas-Brown |001 rita.zigas-brown@sjsu.edu
+Riti Gour |001 riti.gour@sjsu.edu
+Rob Mayeda |001 rob.mayeda@sjsu.edu
+Rob Salinas |001 rob.salinas@sjsu.edu
+Robert Benzio |001 robert.benzio@sjsu.edu
+Robert Chun |001 robert.chun@sjsu.edu
+Robert Cirivilleri |001 robert.cirivilleri@sjsu.edu
+Robert Morelos-Zaragoza |001 robert.morelos-zaragoza@sjsu.edu
+Robert Ovetz |001 robert.ovetz@sjsu.edu
+Robert Rinck |001 robert.rinck@sjsu.edu
+Robert Sibley |001 Robert.Sibley@sjsu.edu
+Robert Van Wagenen |001 robert.vanwagenen@sjsu.edu
+Robert Werkman |001 robert.werkman@sjsu.edu
+Roberto Gonzalez |001 roberto.gonzalez@sjsu.edu
+Roberto Sandoval |001 roberto.sandoval@sjsu.edu
+Robin Lasser |001 robin.lasser@sjsu.edu
+Robin Love |001 robin.love@sjsu.edu
+Robin Sacolick |001 robin.sacolick@sjsu.edu
+Robin Schulte |001 robin.schulte@sjsu.edu
+Robin Whitney |001 robin.whitney01@sjsu.edu
+Rod Fatoohi |001 rod.fatoohi@sjsu.edu
+Rodney Knox |001 knox117@outlook.com
+Rodney Myatt |001 rodney.myatt@sjsu.edu
+Rodrigo Chen |001 rodrigo.chen@sjsu.edu
+Roger Coldiron |001 roger.coldiron@sjsu.edu
+Roger Smith |001 roger.smith@sjsu.edu
+Roger Terrill |001 roger.terrill@sjsu.edu
+Rolanda Pollard |001 rolanda.pollard@sjsu.edu
+Ron Mak |001 ron.mak@sjsu.edu
+Ron Pasek |001 ron.pasek@sjsu.edu
+Ron Roman |001 ronald.roman@sjsu.edu
+Rona Halualani |001 rona.halualani@sjsu.edu
+Rong Sha |001 ron.sha@sjsu.edu
+Roni Abusaad |001 roni.abusaad@sjsu.edu
+Roohi Vora |001 roohi.vora@sjsu.edu
+Rosa Vega |001 vegarosa@saccounty.gov
+Rosanna Alvarez |001 rosanna.alvarez@sjsu.edu
+Rosanne Welch |001 rosanne.welch@sjsu.edu
+Rosemary Hardin |001 rosemary.hardin@sjsu.edu
+Roshni Shah |001 roshni.shah@sjsu.edu
+Roxanne Cnudde |001 roxanne.cnudde@sjsu.edu
+Roy Okuda |001 roy.okuda@sjsu.edu
+Rui Liu |001 rui.liu@sjsu.edu
+Rula Khayrallah |001 rula.khayrallah@sjsu.edu
+Ruphina Ozoh |001 ruphinao@yahoo.com
+Ruth Barefoot |001 ruth.barefoot@sjsu.edu
+Ruth Rosenblum |001 ruth.rosenblum@sjsu.edu
+Ryan Duffy |001 ryan.duffy@sjsu.edu
+Ryan Eways |001 ryan.eways@sjsu.edu
+Ryan Hess |001 m.hess@sjsu.edu
+Ryan Kim |001 ryan.kim01@sjsu.edu
+Ryan Luong |001 ryan.luong@sjsu.edu
+Ryan Portner |001 ryan.portner@sjsu.edu
+Ryan Smith |001 ryan.smith@sjsu.edu
+S V S Siva Narayana Naga Sesha Kollepara |001 svssivanarayananagasesha.kollepara@sjsu.edu
+S. Ayca Erdogan |001 ayca.erdogan@sjsu.edu
+Sabina Giri |001 sabina.giri@sjsu.edu
+Sabine Mooney |001 sabine.wessler@sjsu.edu
+Sabine Rech |001 sabine.rech@sjsu.edu
+Sabrina Pinnell |001 SLPinnell@gmail.com
+Sadhna Diwan |001 sadhna.diwan@sjsu.edu
+Sage Hopkins |001 sage.hopkins@sjsu.edu
+Sahana Vasanth |001 sahana.vasanth@sjsu.edu
+Sahika Vatan |001 sahika.vatan@sjsu.edu
+Sai Anuraghav Savadam |001 saianuraghav.savadam@sjsu.edu
+Saied Rafati |001 saied.rafati@sjsu.edu
+Saili Kulkarni |001 saili.kulkarni@sjsu.edu
+Saivikas Thota |001 saivikas.thota@sjsu.edu
+Salman Ahsan |001 sahsan@gmail.com
+Salman Tahsin |001 salman.tahsin@sjsu.edu
+Sam Koosha |001 sam.koosha@sjsu.edu
+Samantha Kaplan |001 samantha.kaplan@sjsu.edu
+Samantha Peek |001 samantha.peek@sjsu.edu
+Samantha Ramirez |001 samantha.ramirez02@sjsu.edu
+Samantha Saldana |001 samantha.saldana@sjsu.edu
+Samira Bagheri |001 samira.bagheri@sjsu.edu
+Samuel Michael |001 samuel.michael@sjsu.edu
+Samuel Petruescu |001 samuel.petruescu@sjsu.edu
+San-Hui Chuang |001 san-hui.chuang@sjsu.edu
+Sanchita Mukherjee |001 sanchita.mukherjee@sjsu.edu
+Sandra Brown |001 sandra.l.brown@sjsu.edu
+Sandra Trafalis |001 sandra.trafalis@sjsu.edu
+Sandy Chen |001 sandy.t.chen@sjsu.edu
+Sang E Lee |001 sang.lee@sjsu.edu
+Sang-Soo Lee |001 sang-soo.lee@sjsu.edu
+Sangjin Lee |001 sangjin.lee@sjsu.edu
+Saptarshi Sengupta |001 saptarshi.sengupta@sjsu.edu
+Sara Benson |001 sara.benson@sjsu.edu
+Sara Caniglia Schulte |001 sara.canigliaschulte@sjsu.edu
+Sara Cook |001 sara.cook@sjsu.edu
+Sarah Accomazzo |001 sarah.accomazzo@sjsu.edu
+Sarah Buckius |001 sarah.buckius@sjsu.edu
+Sarah Ference |001 sarah.ference@sjsu.edu
+Sarah Kate Anderson |001 sarahkate.anderson@sjsu.edu
+Sarah Kaufman |001 sarah.kaufman@sjsu.edu
+Sarah Mcgaffey |001 sarah.mcgaffey@sjsu.edu
+Sarah Mcpeak |001 sarah.mcpeak@sjsu.edu
+Sarah Mills |001 sarah.mills@sjsu.edu
+Sarah Prasad |001 sarah.prasad@sjsu.edu
+Sarah Smith |001 sarah.r.smith@sjsu.edu
+Sargon Ishaya |001 sargon.ishaya@sjsu.edu
+Sasha Reiisieh |001 sasha.reiisieh@sjsu.edu
+Sathvika Mamidi |001 sathvikamamidi15@gmail.com
+Saugher Nojan |001 saugher.nojan@sjsu.edu
+Saul Villegas |001 saul.villegas@sjsu.edu
+Sayma Akther |001 sayma.akther@sjsu.edu
+Schantell Williams |001 schantell.williams@sjsu.edu
+Scott Alkire |001 s_alkire@hotmail.com
+Scott Cummins |001 scott.cummins@sjsu.edu
+Scott Hamilton |001 shamilton@mlml.calstate.edu
+Scott Jarvie |001 scott.jarvie@sjsu.edu
+Scott Jensen |001 scott.jensen@sjsu.edu
+Scott Miller |001 scott.j.miller@sjsu.edu
+Scott Miller |001 scott.miller@sjsu.edu
+Scott Phillabaum |001 scott.phillabaum@sjsu.edu
+Scott Shaffer |001 scott.shaffer@sjsu.edu
+Scott Shields |001 scott.shields@sjsu.edu
+Scott Sublett |001 prof.sublett@gmail.com
+Sean Gaffney |001 sean.gaffney@sjsu.edu
+Sean Montgomery |001 sean.montgomery@sjsu.edu
+Selena Anderson |001 selena.anderson@sjsu.edu
+Serkan Saka |001 serkan.saka@sjsu.edu
+Seshadri Paravastu |001 seshadri.paravastu@sjsu.edu
+Seung Ho Chang |001 seungho.chang@sjsu.edu
+Shaam Madhvani |001 shaam.madhvani@sjsu.edu
+Shahrzad Khosrowpour |001 shahrzad.khosrowpour@sjsu.edu
+Shaifali Singh |001 shaifali.singh@sjsu.edu
+Shama Ball |001 shama.ball@sjsu.edu
+Shannon Rose Riley |001 shannonrose.riley@sjsu.edu
+Shannon Shimada |001 shannon.shimada@sjsu.edu
+Shannon Webb |001 shannon.webb@sjsu.edu
+Shannon Wright |001 shannon.wright@sjsu.edu
+Shaonan Tian |001 shaonan.tian@sjsu.edu
+Sharon Qi |001 sharon.qi@sjsu.edu
+Shashi Agarwal |001 shashi.agarwal@sjsu.edu
+Shaun Fletcher |001 shaun.fletcher@sjsu.edu
+Shaun O'Dell |001 shaun.odell@sjsu.edu
+Shawn Wilde |001 shawn.wilde@sjsu.edu
+Shawna Bolton |001 shawna.bolton@sjsu.edu
+Shelby Burnett |001 shelby.burnett@sjsu.edu
+Sheree Martinek |001 sheree.martinek@sjsu.edu
+Sherri Harvey |001 sherri.harvey@sjsu.edu
+Sherry Yu Tsai |001 yu.tsai@sjsu.edu
+Sherveen Riazati |001 sherveen.riazati@sjsu.edu
+Shiela-Lyn Lim |001 shiela-lyn.lim@sjsu.edu
+Shih Yu Chang |001 shihyu.chang@sjsu.edu
+Shilpa Gupta |001 shilpa.gupta@sjsu.edu
+Shireen Faraha Shaik |001 shireenfaraha.shaik@sjsu.edu
+Shirley Reekie |001 shirley.reekie@sjsu.edu
+Shishir Mathur |001 shishir.mathur@sjsu.edu
+Shiz Kobara |001 shiz.kobara@sjsu.edu
+Shreeyukta Singh |001 shreeyukta@hotmail.com
+Shrikant Jadhav |001 shrikant.jadhav@sjsu.edu
+Shu Zhou |001 Shu.Zhou@sjsu.edu
+Shukura Umi |001 shukura.umi@sjsu.edu
+Sian Sloan |001 sian.sloan@sjsu.edu
+Sian Wittke |001 sian.wittke@sjsu.edu
+Simmony Baran |001 simmony.baran@sjsu.edu
+Simon Rodan |001 simon.rodan@sjsu.edu
+Simon Seo |001 simon.seo@sjsu.edu
+Simon Shim |001 simon.shim@sjsu.edu
+Simon Tobin |001 simon.tobin@sjsu.edu
+Simona Snitkovskaya |001 simona.snitkovskaya@sjsu.edu
+Simone Lundquist |001 simone.lundquist@sjsu.edu
+Sina Aboutorabi |001 sina.aboutorabi@sjsu.edu
+Singmay Chou |001 singmay.chou@sjsu.edu
+Siri Veland |001 siriveland@gmail.com
+Sisi Dong |001 sisi.dong@sjsu.edu
+Sk Krishnamurthy |001 krishdpi@gmail.com
+Slobodan Simic |001 slobodan.simic@sjsu.edu
+Smita Duorah |001 smita.duorah@sjsu.edu
+Sneha Dutta Hazarika |001 sneha.duttahazarika@sjsu.edu
+Sneha Odugoudar |001 sneha.odugoudar@sjsu.edu
+Sogol Jahanbekam |001 sogol.jahanbekam@sjsu.edu
+Soly Paterson |001 soly.paterson@sjsu.edu
+Soma De Bourbon |001 soma.debourbon@sjsu.edu
+Soma Sen |001 somasen@juno.com
+Sonia Cuellar-Ortiz |001 sonia.cuellar-ortiz@sjsu.edu
+Sonia Singhal |001 sonia.singhal@sjsu.edu
+Sonja House |001 sonja.house@sjsu.edu
+Soo Choi |001 soo.choi@sjsu.edu
+Sophie Aust |001 sophia.aust@sjsu.edu
+Sophie Kelmenson |001 sophie.kelmenson@sjsu.edu
+Sotoudeh Hamedi-Hagh |001 sotoudeh.hamedi-hagh@sjsu.edu
+Soumya De |001 soumya.de@sjsu.edu
+Souvick Ghosh |001 souvick.ghosh@sjsu.edu
+Spoorthy Ananthaiah |001 spoorthy.ananthaiah@sjsu.edu
+Sravani Vadlamani |001 sravani.vadlamani@sjsu.edu
+Sriram Rao |001 sriram.rao@sjsu.edu
+Stanley Butler |001 stanley.butler@sjsu.edu
+Stefan Frazier |001 stefan.frazier@sjsu.edu
+Stefanie Harvey |001 stefanie.harvey@sjsu.edu
+Stephanie Klee |001 stephaniejklee.klee@sjsu.edu
+Stephanie Sherman |001 stephanie.sherman@sjsu.edu
+Stephanie Spencer |001 stephanie.spencer@sjsu.edu
+Stephanie Stepp |001 stephanie.stepp@sjsu.edu
+Stephen Artim |001 stephen.artim@sjsu.edu
+Stephen Morewitz |001 drstephenmorewitz@gmail.com
+Steve Bennet |001 steven.bennet@sjsu.edu
+Steve Davis |001 steven.davis@sjsu.edu
+Steve Durie |001 steve.durie@sjsu.edu
+Steve Mannshardt |001 steven.mannshardt@sjsu.edu
+Steve Perry |001 steveperrymail@yahoo.com
+Steve Sanchez |001 steve.sanchez@sjsu.edu
+Steven Crunk |001 steven.crunk@sjsu.edu
+Steven Del Chiaro |001 steven.delchiaro@sjsu.edu
+Steven Lin |001 steven.lin@aya.yale.edu
+Steven Macramalla |001 steven.macramalla@sjsu.edu
+Steven Sepka |001 s.sepka@gmx.com
+Steven Silver |001 steven.silver@sjsu.edu
+Steven Vukazich |001 steven.vukazich@sjsu.edu
+Stoyu Ivanov |001 stoyu.ivanov@sjsu.edu
+Subhankar Dhar |001 subhankar.dhar@sjsu.edu
+Sudha Krishnan |001 sudha.v.krishnan@sjsu.edu
+Sukanya Chakrabarti |001 sukanya.chakrabarti@sjsu.edu
+Suky Sangha |001 suky.sangha@sjsu.edu
+Sulekha Anand |001 sulekha.anand@sjsu.edu
+Sumita Raghuram |001 sumita.raghuram@sjsu.edu
+Suneuy Kim |001 suneuy.kim@sjsu.edu
+Sung Jay Ou |001 sungjay.ou@sjsu.edu
+Supreeta Amin |001 supreeta.amin@sjsu.edu
+Surya Teja Boganatham |001 suryateja.boganatham@sjsu.edu
+Susan Chen |001 susan.chen@sjsu.edu
+Susan Lambrecht |001 susan.lambrecht@sjsu.edu
+Susan Mckenna |001 sabrineh3@yahoo.com
+Susan Ross |001 susan.ross@sjsu.edu
+Susan Snycerski |001 susan.snycerski@sjsu.edu
+Susan Trimingham |001 susan.trimingham@sjsu.edu
+Susan Verducci Sandford (She/Hers) |001 susan.verducci@sjsu.edu
+Susana Gallardo |001 susana.gallardo@sjsu.edu
+Susanna Khavul |001 susanna.khavul@sjsu.edu
+Susie Rivera |001 susie.rivera@sjsu.edu
+Suzanne Haley |001 suzanne.haley@sjsu.edu
+Sydney Sun |001 sydney.sun@sjsu.edu
+Syed Zaidi |001 syed.zaidi@sjsu.edu
+Sylvia Branca |001 sylvia.branca@sjsu.edu
+Tabitha Brookins |001 tabitha.brookins@sjsu.edu
+Tabitha Hart |001 tabitha.hart@sjsu.edu
+Taehee Jeong |001 taehee.jeong@sjsu.edu
+Taehwan Lee |001 taehwan.lee@sjsu.edu
+Tahereh Arabghalizi |001 tahereh.arabghalizi@sjsu.edu
+Tahir Bachar Issa |001 tahirbachar.issa@sjsu.edu
+Takoua Bejaoui |001 tbejaoui1@sbcglobal.net
+Tamara Mckinnon |001 tamara.mckinnon@sjsu.edu
+Tami Boroughf |001 tami.boroughf@sjsu.edu
+Tami Turner |001 tami.turner@sjsu.edu
+Tammie Visintainer |001 tammie.visintainer@sjsu.edu
+Tammy Lohmann |001 tammy.lohmann@sjsu.edu
+Tan Nguyen |001 tan.v.nguyen@sjsu.edu
+Tanja Nathanael |001 tanja.nathanael@sjsu.edu
+Tanvi Kothari |001 tanvi.kothari@sjsu.edu
+Tanya Bakhru |001 tanya.bakhru@sjsu.edu
+Tara Branham |001 tara.branham@sjsu.edu
+Tara Duffy |001 tara.duffy@sjsu.edu
+Taryn King |001 taryn.king@sjsu.edu
+Tasha Reddy |001 tasha.reddy@sjsu.edu
+Taylor Arhar |001 taylor.arhar@sjsu.edu
+Taylor-Dawn Francis |001 taylor-dawn.francis@sjsu.edu
+Ted Butryn |001 theodore.butryn@sjsu.edu
+Tejinder Kaur |001 tejinder.kaur01@sjsu.edu
+Telvin Zhong |001 telvin.zhong@sjsu.edu
+Teng Moh |001 teng.moh@sjsu.edu
+Teresa Chang |001 teresa.chang@sjsu.edu
+Teresa Estrabao |001 teresa.estrabao@sjsu.edu
+Teresa O'Donnell-Johnson |001 teresa.o'donnell-johnson@sjsu.edu
+Teresa Veramendi |001 teresa.veramendi@sjsu.edu
+Terrell Holmes |001 terrell.holmes@sjsu.edu
+Terry Piper |001 terry.piper@sjsu.edu
+Terry Thompson |001 tthompson360@yahoo.com
+Tess Mcintyre |001 tess.mcintyre@sjsu.edu
+Theresa Dinh |001 theresa.dinh@sjsu.edu
+Theresa Yao |001 theresa.yao@sjsu.edu
+Therese Louie |001 therese.louie@sjsu.edu
+Thomas Austin |001 thomas.austin@sjsu.edu
+Thomas Beggs |001 thomas.beggs@sjsu.edu
+Thomas Connolly |001 thomas.p.connolly@sjsu.edu
+Thomas Hornig |001 thtrombone@gmail.com
+Thomas Langan |001 tpmlangan@yahoo.com
+Thomas Lester |001 thomas.lester@sjsu.edu
+Thomas Madura |001 thomas.madura@sjsu.edu
+Thomas Mcnulty |001 thomas.mcnulty@sjsu.edu
+Thomas Moriarty |001 thomas.moriarty@sjsu.edu
+Thomas Shirley |001 thomas.shirley@sjsu.edu
+Thomas Wrappe |001 thomas.wrappe@sjsu.edu
+Thuy Le |001 thuy.le@sjsu.edu
+Tiana Tameta-Arenas |001 tiana.tameta-arenas@sjsu.edu
+Tianqin Shi |001 tianqin.shi@sjsu.edu
+Tiffany Barry |001 tiffany.barry@sjsu.edu
+Tiffany Nguyen |001 tiffany.t.nguyen@sjsu.edu
+Tijana Rajkovic |001 tijana.rajkovic@sjsu.edu
+Tim Miles |001 tim.miles@sjsu.edu
+Timna Naim |001 timnanaim@gmail.com
+Timothy Harris |001 timothy.harris@sjsu.edu
+Timothy Hill |001 timothy.hill@sjsu.edu
+Timothy Johnston |001 timothy.johnston@sjsu.edu
+Tina Korani |001 tina.korani@sjsu.edu
+Tina Lim |001 tina.lim@sjsu.edu
+Titus Amza |001 titus.amza@sjsu.edu
+Todd Engstrom |001 todd.engstrom@sjsu.edu
+Todd Kress |001 todd.kress@sjsu.edu
+Todd Levasseur |001 todd.levasseur@sjsu.edu
+Todd Perreira |001 Todd.Perreira@sjsu.edu
+Todd Robinson |001 todd.robinson@sjsu.edu
+Tom Austin |001 tomcaustin@yahoo.com
+Tom Pham |001 tom.pham@sjsu.edu
+Toni Bloom |001 toni@tonibloom.com
+Toni Toledo |001 tonitoledo1967@gmail.com
+Tony Pan |001 tony.pan01@sjsu.edu
+Tony Papanikolas |001 tony.papanikolas@sjsu.edu
+Tonya Nilsson |001 tonya.nilsson@sjsu.edu
+Travis Rappleye |001 travis@biotechbootcamp.com
+Trent Polizzi |001 trent.polizzi@sjsu.edu
+Trevor Gullion |001 trevor.gullion@sjsu.edu
+Trevor Katzakian |001 trevor.katzakian@sjsu.edu
+Tridha Chatterjee |001 tridha.chatterjee@sjsu.edu
+Trisha Bergthold |001 trisha.bergthold@sjsu.edu
+Trung Nguyen |001 trung.p.nguyen@sjsu.edu
+Tsu-Hong Yen |001 tsu-hong.yen@sjsu.edu
+Tuanh Nguyen |001 tuanh.nguyen@sjsu.edu
+Tyler Morales |001 erika.morales@sjsu.edu
+Tyler Ward |001 tyler.ward01@sjsu.edu
+Uday Mandlekar |001 uday.mandlekar@sjsu.edu
+Udeme Ndon |001 udeme.ndon@sjsu.edu
+Ume Ali |001 ume.ali@sjsu.edu
+Ursula Holzmann |001 ursula.holzmann@sjsu.edu
+Usha Andra |001 usha.andra@sjsu.edu
+Usiel Meraz Cerna |001 usiel.merazcerna@sjsu.edu
+Uyen Nguyen |001 uyen.p.nguyen03@sjsu.edu
+Vakini Santhanakrishnan |001 vakini.santhanakrishnan@sjsu.edu
+Valerie Carr |001 valerie.carr@sjsu.edu
+Valerie Chapman |001 valerie.chapman@sjsu.edu
+Valerie Lo |001 valerie.lo@sjsu.edu
+Valerie Mendoza |001 valerie.mendoza@sjsu.edu
+Valerie Smith |001 valerie.smith@sjsu.edu
+Vanessa Gregory |001 vanessa.gregory@sjsu.edu
+Vasuda Bhatia |001 vasuda.bhatia@sjsu.edu
+Vee Lawson |001 vee.lawson@sjsu.edu
+Veneice Guillory-Lacy |001 veneice.guillory-lacy@sjsu.edu
+Veneita Schult |001 veneita.schult@sjsu.edu
+Verena Martinez |001 verena.martinez@sjsu.edu
+Vickey Collins |001 vcol946074@aol.com
+Victor De Loza |001 victor.deloza@sjsu.edu
+Victor Maraschin |001 victor.maraschin@sjsu.edu
+Victoria Harrison |001 victoria.harrison@sjsu.edu
+Victoria Lington |001 victoria.lington@sjsu.edu
+Victoria Thorp |001 victoria.thorp@sjsu.edu
+Viet Nguyen |001 viet.nguyen@sjsu.edu
+Vikhyath Shankargari |001 vikhyath.shankargari@sjsu.edu
+Vimal Viswanathan |001 vimal.viswanathan@sjsu.edu
+Virginia Montelongo |001 virginia.montelongo@sjsu.edu
+Virginia San Fratello |001 VASFsf@gmail.com
+Virginia Tucker |001 virginia.tucker@sjsu.edu
+Virpi Outila |001 virpi.outila@sjsu.edu
+Vishnu Pendyala |001 vishnu.pendyala@sjsu.edu
+Vishwa Samirbhai Shah |001 vishwasamirbhai.shah@sjsu.edu
+Viswanath Aditham |001 viswanath.aditham@sjsu.edu
+Vivek Agarwal |001 vivek.agarwal01@sjsu.edu
+Vivian Antonellis |001 vivian.antonellis@sjsu.edu
+Viviana Sanchez-Chopitea |001 viviana.sanchezchopitea@sjsu.edu
+Vlad Ionescu |001 vlad.ionescu@sjsu.edu
+Vrushali Arute |001 vrushali.arute@sjsu.edu
+Vuong Do |001 vuong.do@sjsu.edu
+Wael Abdeljabbar |001 wael.abdeljabbar@sjsu.edu
+Wahida Akter |001 wahida.akter@sjsu.edu
+Walter Adams |001 walter.adams@sjsu.edu
+Walter Easter |001 walter.easter@sjsu.edu
+Walter Van Hooff |001 walter@qoesystems.com
+Wasin So |001 wasin.so@sjsu.edu
+Wayne Jopanda |001 wayne.jopanda@sjsu.edu
+Wei-Chen Wang Tung |001 wei-chen.tung@sjsu.edu
+Wenbin Wei |001 wenbin.wei@sjsu.edu
+Wencen Wu |001 wencen.wu@sjsu.edu
+Wendy Lee |001 wendy.lee@sjsu.edu
+Wendy Mora |001 wendy.hales@sjsu.edu
+Wendy Quach (She/Her) |001 wendy.quach@sjsu.edu
+Wendy Rouse |001 wendy.rouse@sjsu.edu
+Wil Doane |001 william.doane@sjsu.edu
+Wil Quintero |001 wil.quintero01@sjsu.edu
+Will Russell |001 will.russell@sjsu.edu
+William Andreopoulos |001 william.andreopoulos@sjsu.edu
+William Armaline |001 william.armaline@sjsu.edu
+William Hong |001 william.hong@sjsu.edu
+William Mccraw |001 william.mccraw@sjsu.edu
+William Seneshen |001 william.seneshen@sjsu.edu
+Winifred Schultz-Krohn |001 Winifred.Schultz-Krohn@sjsu.edu
+Winncy Du |001 winncy.du@sjsu.edu
+Winston Gregory |001 winston.gregory@sjsu.edu
+Wint Mon Mon Kyaw |001 wintmonmon.kyaw@sjsu.edu
+Wo-Tak Wu |001 wo-tak.wu@sjsu.edu
+Xhavin Sinha |001 xhavin@gmail.com
+Xi Feng |001 xi.feng@sjsu.edu
+Xiangyu Ren |001 xiangyu.ren@sjsu.edu
+Xiao Wang |001 xiao.wang@sjsu.edu
+Xiao Wu |001 xiao.wu@sjsu.edu
+Xiaojia Hou |001 xiaojia.hou@sjsu.edu
+Xintong Chen |001 xintong.chen@sjsu.edu
+Y Shimazu |001 y.shimazu@sjsu.edu
+Yacoub Moussa |001 yacoub.moussa@sjsu.edu
+Yalda Edalat |001 yalda.edalat@sjsu.edu
+Yan Chen |001 yan.chen01@sjsu.edu
+Yan Zhang |001 yan.x.zhang@sjsu.edu
+Yanika Schneider |001 yanika.schneider@sjsu.edu
+Yasin Ceran |001 yasin.ceran@sjsu.edu
+Yasmeen Abdeljabbar |001 yasmeen.abdeljabbar@sjsu.edu
+Yasser Dessouky |001 yasser.dessouky@sjsu.edu
+Yasser Shahin |001 yasser.shahin@sjsu.edu
+Yawo Ezunkpe |001 yawo.ezunkpe@sjsu.edu
+Yazdan Pedram Razi |001 yazdan.pedramrazi@sjsu.edu
+Ye Feng |001 ye.feng@sjsu.edu
+Yen Fu |001 yen.fu@sjsu.edu
+Yeonji No |001 yeonji.no@sjsu.edu
+Yeonka Kim |001 yeonka.kim@sjsu.edu
+Yi Lun Lee |001 yilun.lee@sjsu.edu
+Yi Yuan |001 yi.yuan@sjsu.edu
+Yilma Gezmu |001 yilma.gezmu@sjsu.edu
+Yinghua Huang |001 yinghua.huang@sjsu.edu
+Yining Nie |001 yining.nie@sjsu.edu
+Yolanda Wiggins |001 yolanda.wiggins@sjsu.edu
+Yoli Anyon |001 yolanda.anyon@sjsu.edu
+Yoon Chung Han |001 yoonchung.han@sjsu.edu
+Younes Shabany |001 younes.shabany@sjsu.edu
+Yu Chen |001 yu.chen@sjsu.edu
+Yuching Yang |001 yuchingjill@gmail.com
+Yue Luo |001 yue.luo@sjsu.edu
+Yue Sun |001 yue.sun@sjsu.edu
+Yue Yuan |001 wilson.yuan@sjsu.edu
+Yun Wang |001 yun.wang@sjsu.edu
+Yunjian Qiu |001 yunjian.qiu@sjsu.edu
+Yuwei He |001 yuwei.he01@sjsu.edu
+Yvonne Escalante |001 yvonne.escalante@sjsu.edu
+Yvonne Golembeski |001 yhgolembeski@gmail.com
+Yvonne Kwan |001 yvonne.y.kwan@sjsu.edu
+Yvonne Maxwell |001 yvonne@ujimaagency.org
+Zachary Coustier |001 zachary.coustier@sjsu.edu
+Zachary Mcniece |001 zachary.mcniece@sjsu.edu
+Zack Lee |001 zack.lee@sjsu.edu
+Zairac Smith |001 zairac.smith@sjsu.edu
+Zaki Hasan |001 zaki.hasan@sjsu.edu
+Zamir Zamir |001 md.zamir@sjsu.edu
+Zehlia Babaci-Wilhite |001 zehlia.babaci-wilhite@sjsu.edu
+Zeyu Gao |001 jerry.gao@sjsu.edu
+Ziming Liu |001 ziming.liu@sjsu.edu
+Zoey Liu |001 zoey.liu@sjsu.edu
+Zongchao Li |001 zongchao.li@sjsu.edu

@@ -20,18 +20,21 @@ options.headless = False  # Set to True if you want to run headlessly
 driver = webdriver.Firefox(service=service, options=options)
 
 
-def scrape_professor_data():
+def scrape_professor_data(professor_name, professor_email):
     """Scrapes professor details from Rate My Professors."""
     try:
         time.sleep(5)  # Let the page load
 
-        # Extract professor's name
-        prof_name = driver.find_element(By.CLASS_NAME, "NameTitle__Name-dowf0z-0").text
+        # Extract the professor's name from the RMP page
+        try:
+            rmp_name = driver.find_element(By.CLASS_NAME, "NameTitle__Name-dowf0z-0").text
+        except:
+            rmp_name = professor_name  # If we can't scrape it, default to passed name
 
         # Extract rating
         try:
             rating = driver.find_element(By.CLASS_NAME, "RatingValue__Numerator-qw8sqy-2").text
-            if rating == "N/A":  # Check if the rating is "N/A"
+            if rating == "N/A":
                 rating = "-1"  # Store -1 to show the teacher is not rated
         except:
             rating = ""  # Handle missing rating
@@ -40,7 +43,7 @@ def scrape_professor_data():
         try:
             total_ratings = driver.find_element(By.CSS_SELECTOR, "a[href='#ratingsList']").text.split()[0]
         except:
-            total_ratings = "0"  # Handle missing total ratings
+            total_ratings = "0"
 
         # Extract 'Would Take Again' percentage and Difficulty
         try:
@@ -51,7 +54,7 @@ def scrape_professor_data():
             would_take_again = ""
             difficulty = ""
 
-        # Extract professor tags safely
+        # Extract professor tags
         tags = []
         try:
             tags_container = driver.find_element(By.CLASS_NAME, "TeacherTags__TagsContainer-sc-16vmh1y-0")
@@ -59,19 +62,25 @@ def scrape_professor_data():
         except:
             print("No tags found for this professor.")
 
-        # Extract comments (limit to first 3)
+        # Extract comments (limit to first 10)
         comment_elements = driver.find_elements(By.CLASS_NAME, "Comments__StyledComments-dzzyvm-0")
-        comments = [comment.text for comment in comment_elements[:10]]  # Store first 10 comments
+        comments = [comment.text for comment in comment_elements[:10]]
+
+        # Extract the current URL
+        prof_url = driver.current_url
 
         # Store in dictionary
         professor_data = {
-            "Professor Name": prof_name,
+            "Professor Email": professor_email,
+            "Professor Name": professor_name,  # Original search name
+            "RMP Name": rmp_name,  # Name as listed on RMP
             "Rating": rating,
             "Total Ratings": total_ratings,
             "Would Take Again": would_take_again,
             "Level of Difficulty": difficulty,
-            "Tags": tags,  # Add extracted tags
-            "Comments": comments
+            "Tags": tags,
+            "Comments": comments,
+            "URL": prof_url
         }
 
         print(professor_data)  # Debugging
@@ -113,8 +122,8 @@ def search_and_scrape(professors):
 
     all_data = {}
 
-    for professor_name in professors:
-        print(f"\n🔎 Searching for {professor_name}...")
+    for professor_name, professor_email in professors:
+        print(f"\n🔎 Searching for {professor_name}, with email: {professor_email}...")
         search_box = wait.until(EC.presence_of_element_located((By.NAME, "q")))
         search_box.clear()
 
@@ -122,60 +131,48 @@ def search_and_scrape(professors):
         search_box.send_keys(query)
         search_box.send_keys(Keys.RETURN)
 
-        # Wait for results to load
         wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "h2 a")))
-        time.sleep(2)  # Allow search results to stabilize
+        time.sleep(2)
 
-        # Extract relevant result links
         result_links = driver.find_elements(By.CSS_SELECTOR, "h2 a")
-
-        # Debugging: Print extracted search results
-        print("\n--- Search Results ---")
-        for i, link in enumerate(result_links):
-            print(f"{i + 1}. {link.text.strip()} - {link.get_attribute('href')}")
-        print("----------------------\n")
 
         found_match = False
         for link in result_links:
             link_text = link.text.strip()
             link_href = link.get_attribute("href")
 
-            # Check if both the professor name and 'San Jose' appear in the link
             if contains_in_order(professor_name, link_text):
                 print(f"✅ Found matching link: {link_text}")
-                time.sleep(1)  # Small delay before clicking
+                time.sleep(1)
 
                 try:
                     link.click()
                     found_match = True
-                    time.sleep(3)  # Wait for RMP page to load
+                    time.sleep(3)
 
                     wait.until(EC.presence_of_element_located((By.CLASS_NAME, "NameTitle__Name-dowf0z-0")))
 
-                    # Scrape data
-                    data = scrape_professor_data()
+                    data = scrape_professor_data(professor_name, professor_email)
                     if data:
                         all_data[professor_name] = data
-                        print(f"📝 Inserting data for {professor_name} into the database...")
 
-                        # Create a Professor object (make sure this is the correct model you want to use)
                         professor = Professor(
+                            professor_email=professor_email,  # Include email
                             professor_name=data["Professor Name"],
+                            rmp_name=data["RMP Name"],
                             rating=data["Rating"],
                             total_ratings=data["Total Ratings"],
                             would_take_again=data["Would Take Again"],
                             level_of_difficulty=data["Level of Difficulty"],
                             tags=data["Tags"],
-                            comments=data["Comments"]
+                            comments=data["Comments"],
+                            rmp_url=data["URL"]
                         )
 
-                        # Insert the professor data into the database
                         RMPProfessorInfoDAO.insert_professor(professor)
-                        #print("Did we reach this?")
-                        # Go back to DuckDuckGo for the next search
                         driver.back()
-                        time.sleep(2)  # Small delay before next search
-                        break  # Stop checking links after finding a match
+                        time.sleep(2)
+                        break
                 except Exception as e:
                     print(f"❌ Error clicking link: {e}")
 
@@ -187,35 +184,64 @@ def search_and_scrape(professors):
 
 
 def load_professors_from_file(filename):
-    """Reads professor names from a file, one per line."""
+    """Reads professor names and emails from a file, returning a list of tuples (name, email)."""
+    professors = []
     with open(filename, "r", encoding="utf-8") as f:
-        return [line.strip() for line in f.readlines() if line.strip()]  # Remove empty lines
+        for line in f:
+            # Split by the separator " |001 " to separate name and email
+            parts = line.strip().split(" |001 ")
+            if len(parts) == 2:
+                name, email = parts
+                professors.append((name.strip(), email.strip()))
+            else:
+                print(f"⚠️ Skipping malformed line: {line.strip()}")
+
+    return professors
 
 
-# Load professors from file
-professors_list = load_professors_from_file("scraper_resources/teacher_name_only.txt")
 
-# # Testing
-# professors_list = ["Wendy Lee", "Rula Khayrallah", "Chao-Li Tarng"]
+# --------------------------------------------- Main
+# Load professors
+professors_list = load_professors_from_file("scraper_resources/teacher_name_email.txt")
 
 # ----- Full Scrape
-# start_time = time.time()
-# # Keep track of time
-# search_and_scrape(professors_list)
-# end_time = time.time()
-# elapsed_time = end_time - start_time
-# print(f"Scraping completed in {elapsed_time:.2f} seconds.")
+start_time = time.time()
+# Keep track of time
+search_and_scrape(professors_list)
+end_time = time.time()
+elapsed_time = end_time - start_time
+print(f"Scraping completed in {elapsed_time:.2f} seconds.")
 
-def resume_scraping(professors_list, start_name):
-    try:
-        # Find the index of the professor where we want to start scraping
-        start_index = next(i for i, name in enumerate(professors_list) if name == start_name)
 
-        # Slice the list to start from the professor after the specified one
-        professors_to_scrape = professors_list[start_index:]
-        search_and_scrape(professors_to_scrape)
+# ----- Easy Resume (if errors, or any other reason a stop was needed)
+# def resume_scraping(professors_list, start_name):
+#     try:
+#         # Find the index of the professor where we want to start scraping
+#         start_index = next(i for i, name in enumerate(professors_list) if name == start_name)
+#
+#         # Slice the list to start from the professor after the specified one
+#         professors_to_scrape = professors_list[start_index:]
+#         search_and_scrape(professors_to_scrape)
+#
+#     except StopIteration:
+#         print(f"Professor {start_name} not found in the list.")
+#
+# resume_scraping(professors_list, "A.J. Faas")
 
-    except StopIteration:
-        print(f"Professor {start_name} not found in the list.")
-
-resume_scraping(professors_list, "Capri Burrows")
+# def resume_scraping(professors_list, start_name):
+#     try:
+#         # Find the index of the professor where we want to start scraping
+#         start_index = next(i for i, (name, _) in enumerate(professors_list) if name == start_name)
+#
+#         # Slice the list to start from the professor after the specified one
+#         professors_to_scrape = professors_list[start_index + 1:]
+#         search_and_scrape(professors_to_scrape)
+#
+#     except StopIteration:
+#         print(f"Professor {start_name} not found in the list.")
+#
+# # Load the professors from the file
+# professors_list = load_professors_from_file("professors.txt")
+#
+# # Call resume_scraping with the list of professors and the name where to resume
+# resume_scraping(professors_list, "A.J. Faas")
