@@ -7,6 +7,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
+from fuzzywuzzy import fuzz
+
 from DAO.rmp_professor_info_dao import RMPProfessorInfoDAO
 from model.professor import Professor
 
@@ -113,6 +115,104 @@ def contains_in_order(search_name, link_name):
         idx += len(word)  # Move index forward to maintain order
     return True
 
+def sanitize_link_text(link_text):
+    """Remove everything after 'at San Jose State University | Rate My Professors' or 'at San Jose State University - Rate My Professors'."""
+    # Check for the first possible match and split
+    if " at San Jose State University | Rate My Professors" in link_text:
+        sanitized_link_text = link_text.split(" at San Jose State University | Rate My Professors")[0].strip()
+    # Check for the second possible match and split
+    elif " at San Jose State University - Rate My Professors" in link_text:
+        sanitized_link_text = link_text.split(" at San Jose State University - Rate My Professors")[0].strip()
+    else:
+        # If neither match is found, return the original link_text
+        sanitized_link_text = link_text.strip()
+
+    return sanitized_link_text
+
+def fuzzy_match_name_3(name, link_text):
+    """
+    Attempts to match the name (first name, middle name, last name) with the link text using fuzzy matching.
+    It first tries the first + middle name, then the first + last name.
+    Returns True if any match is above a certain threshold.
+    """
+    # Split the name into parts (first, middle, last)
+    name_parts = name.split()
+
+    if len(name_parts) == 3:
+        first_name = name_parts[0]
+        middle_name = name_parts[1]
+        last_name = name_parts[2]
+
+        # Fuzzy match first + middle name to the link text
+        first_middle_match = fuzz.partial_ratio(f"{first_name} {middle_name}", link_text)
+        # Fuzzy match first + last name to the link text
+        first_last_match = fuzz.partial_ratio(f"{first_name} {last_name}", link_text)
+
+        print(f"Matching '{first_name} {middle_name}' to '{link_text}' with score: {first_middle_match}")
+        print(f"Matching '{first_name} {last_name}' to '{link_text}' with score: {first_last_match}")
+
+        # Define a threshold score for a valid match (e.g., 80)
+        threshold = 80
+        if first_middle_match >= threshold or first_last_match >= threshold:
+            print("✅ Match found!")
+            return True
+        else:
+            print("❌ No sufficient match.")
+            return False
+    else:
+        # If the name doesn't contain three parts, don't proceed with fuzzy matching
+        print("❌ Name is not 3 parts long.")
+        return False
+
+def check_link_match(professor_name, link_text):
+    # San Jose and In Order Matching
+    if contains_in_order(professor_name, link_text):
+        print(f"✅ 'San Jose' and name match in order: {link_text}")
+        return True
+
+    if "at San Jose State University | Rate My Professors" or " at San Jose State University - Rate My Professors" not in link_text:
+        print(f"❌ Link does not contain required part: {link_text}")
+        return False
+
+    # Remove everything after "at San Jose State University | Rate My Professors"
+    sanitized_link_text = sanitize_link_text(link_text)
+
+    # Nickname or Shortened Name Match
+    nicknames = {
+        "chris": "christopher",
+        "bob": "robert",
+        "liz": "elizabeth",
+        "joe": "joseph",
+        "alex": "alexander",
+        "eddie": "edward",
+        "dave": "david",
+        "nick": "nicholas",
+        "nicholas": "nick",
+        "ernest": "ernie",
+        "earnie": "ernest",
+        "elly": "elizabeth"
+    }
+
+    # Reverse Name Order Check (e.g., "Doe John" instead of "John Doe")
+    professor_name_parts = professor_name.lower().split()
+    link_text_parts = sanitized_link_text.lower().split()
+
+    if len(professor_name_parts) == 2 and len(link_text_parts) == 2:
+        if professor_name_parts[1] == sanitized_link_text[0] and professor_name_parts[0] == sanitized_link_text[1]:
+            print(f"✅ Reversed name order match found: {link_text}")
+            return True
+
+    # Fuzzy Matching as a Last Resort (if nothing else matches)
+    if fuzz.partial_ratio(professor_name.lower(), link_text.lower()) > 80:  # Threshold can be adjusted
+        print(f"✅ Fuzzy match found: {link_text}")
+        return True
+
+    fuzzy_match_name_3(professor_name, link_text)
+
+    print(f"❌ No match found for: {link_text}")
+    return False
+
+
 
 def search_and_scrape(professors):
     """Searches for each professor on DuckDuckGo, navigates to RMP, scrapes data, and repeats."""
@@ -141,7 +241,7 @@ def search_and_scrape(professors):
             link_text = link.text.strip()
             link_href = link.get_attribute("href")
 
-            if contains_in_order(professor_name, link_text):
+            if check_link_match(professor_name, link_text):
                 print(f"✅ Found matching link: {link_text}")
                 time.sleep(1)
 
