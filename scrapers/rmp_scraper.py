@@ -148,68 +148,50 @@ def fuzzy_match_name_3(name, link_text):
         # Fuzzy match first + last name to the link text
         first_last_match = fuzz.partial_ratio(f"{first_name} {last_name}", link_text)
 
-        print(f"Matching '{first_name} {middle_name}' to '{link_text}' with score: {first_middle_match}")
-        print(f"Matching '{first_name} {last_name}' to '{link_text}' with score: {first_last_match}")
-
         # Define a threshold score for a valid match (e.g., 80)
-        threshold = 80
+        threshold = 90
         if first_middle_match >= threshold or first_last_match >= threshold:
-            print("✅ Match found!")
+            print("✅ 3 part match found.")
             return True
-        else:
-            print("❌ No sufficient match.")
-            return False
-    else:
-        # If the name doesn't contain three parts, don't proceed with fuzzy matching
-        print("❌ Name is not 3 parts long.")
-        return False
+
+    # If no valid match is found
+    return False
 
 def check_link_match(professor_name, link_text):
     # San Jose and In Order Matching
     if contains_in_order(professor_name, link_text):
-        print(f"✅ 'San Jose' and name match in order: {link_text}")
+        print(f"✅ Contains in order match found: {link_text}")
         return True
 
-    if "at San Jose State University | Rate My Professors" or " at San Jose State University - Rate My Professors" not in link_text:
-        print(f"❌ Link does not contain required part: {link_text}")
+    if "at San Jose State University | Rate My Professors" not in link_text and "at San Jose State University - Rate My Professors" not in link_text:
+        print(f"❌ No \"San Jose State University part\": {link_text}")
         return False
 
     # Remove everything after "at San Jose State University | Rate My Professors"
     sanitized_link_text = sanitize_link_text(link_text)
 
-    # Nickname or Shortened Name Match
-    nicknames = {
-        "chris": "christopher",
-        "bob": "robert",
-        "liz": "elizabeth",
-        "joe": "joseph",
-        "alex": "alexander",
-        "eddie": "edward",
-        "dave": "david",
-        "nick": "nicholas",
-        "nicholas": "nick",
-        "ernest": "ernie",
-        "earnie": "ernest",
-        "elly": "elizabeth"
-    }
-
-    # Reverse Name Order Check (e.g., "Doe John" instead of "John Doe")
+    # Reverse Name Order Check (e.g., "Zepecki Carol" instead of "Carol Zepecki")
     professor_name_parts = professor_name.lower().split()
     link_text_parts = sanitized_link_text.lower().split()
 
     if len(professor_name_parts) == 2 and len(link_text_parts) == 2:
-        if professor_name_parts[1] == sanitized_link_text[0] and professor_name_parts[0] == sanitized_link_text[1]:
+        # Compare the reverse order of name
+        if professor_name_parts[1] == link_text_parts[0] and professor_name_parts[0] == link_text_parts[1]:
             print(f"✅ Reversed name order match found: {link_text}")
             return True
 
+    if fuzzy_match_name_3(professor_name, link_text):
+        return True
+
     # Fuzzy Matching as a Last Resort (if nothing else matches)
-    if fuzz.partial_ratio(professor_name.lower(), link_text.lower()) > 80:  # Threshold can be adjusted
+    if fuzz.partial_ratio(professor_name.lower(), link_text.lower()) > 90:  # Threshold can be adjusted
         print(f"✅ Fuzzy match found: {link_text}")
         return True
 
-    fuzzy_match_name_3(professor_name, link_text)
 
-    print(f"❌ No match found for: {link_text}")
+
+
+    # print(f"❌ No match found for: {link_text}")
     return False
 
 
@@ -237,6 +219,13 @@ def search_and_scrape(professors):
         result_links = driver.find_elements(By.CSS_SELECTOR, "h2 a")
 
         found_match = False
+
+        print("\n--- Search Results ---")
+        for i, link in enumerate(result_links, 1):
+            link_text = link.text.strip()
+            link_url = link.get_attribute('href')
+            print(f"{i}. {link_text} - {link_url}")
+
         for link in result_links:
             link_text = link.text.strip()
             link_href = link.get_attribute("href")
@@ -304,13 +293,13 @@ def load_professors_from_file(filename):
 # Load professors
 professors_list = load_professors_from_file("scraper_resources/teacher_name_email.txt")
 
-# ----- Full Scrape
-start_time = time.time()
-# Keep track of time
-search_and_scrape(professors_list)
-end_time = time.time()
-elapsed_time = end_time - start_time
-print(f"Scraping completed in {elapsed_time:.2f} seconds.")
+# # ----- Full Scrape
+# start_time = time.time()
+# # Keep track of time
+# search_and_scrape(professors_list)
+# end_time = time.time()
+# elapsed_time = end_time - start_time
+# print(f"Scraping completed in {elapsed_time:.2f} seconds.")
 
 
 # ----- Easy Resume (if errors, or any other reason a stop was needed)
@@ -328,20 +317,18 @@ print(f"Scraping completed in {elapsed_time:.2f} seconds.")
 #
 # resume_scraping(professors_list, "A.J. Faas")
 
-# def resume_scraping(professors_list, start_name):
-#     try:
-#         # Find the index of the professor where we want to start scraping
-#         start_index = next(i for i, (name, _) in enumerate(professors_list) if name == start_name)
-#
-#         # Slice the list to start from the professor after the specified one
-#         professors_to_scrape = professors_list[start_index + 1:]
-#         search_and_scrape(professors_to_scrape)
-#
-#     except StopIteration:
-#         print(f"Professor {start_name} not found in the list.")
-#
-# # Load the professors from the file
-# professors_list = load_professors_from_file("professors.txt")
-#
-# # Call resume_scraping with the list of professors and the name where to resume
-# resume_scraping(professors_list, "A.J. Faas")
+def resume_scraping(professors_list, start_name):
+    try:
+        # Find the index of the professor where we want to start scraping
+        start_index = next(i for i, (name, _) in enumerate(professors_list) if name == start_name)
+
+        # Slice the list to start from the professor after the specified one
+        professors_to_scrape = professors_list[start_index + 1:]
+        search_and_scrape(professors_to_scrape)
+
+    except StopIteration:
+        print(f"Professor {start_name} not found in the list.")
+
+
+# Call resume_scraping with the list of professors and the name where to resume
+resume_scraping(professors_list, "Lan Nguyen")

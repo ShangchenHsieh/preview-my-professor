@@ -6,31 +6,32 @@ from psycopg2 import errors
 
 class RMPProfessorInfoDAO:
     @staticmethod
-    def insert_professor(professor):
+    def insert_professor(professor: Professor):
         cursor, conn = DatabaseConnection.get_connection()
 
         if conn is not None:
             insert_query = """
-              INSERT INTO rmp_professor_info (
-                  professor_email, professor_name, rmp_name, rating, total_ratings, would_take_again, level_of_difficulty, tags, comments, rmp_url
-              ) VALUES (
-                  %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
-              )
-              ON CONFLICT (professor_email) DO UPDATE SET
-                  professor_name = EXCLUDED.professor_name,
-                  rmp_name = EXCLUDED.rmp_name,
-                  rating = EXCLUDED.rating,
-                  total_ratings = EXCLUDED.total_ratings,
-                  would_take_again = EXCLUDED.would_take_again,
-                  level_of_difficulty = EXCLUDED.level_of_difficulty,
-                  tags = EXCLUDED.tags,
-                  comments = EXCLUDED.comments,
-                  rmp_url = EXCLUDED.rmp_url;
-              """
+                  INSERT INTO rmp_professor_info (
+                      professor_email, professor_name, rmp_name, rating, total_ratings, would_take_again, level_of_difficulty, tags, comments, rmp_url
+                  ) VALUES (
+                      %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
+                  )
+                  ON CONFLICT (professor_email) DO UPDATE SET
+                      professor_name = EXCLUDED.professor_name,
+                      rmp_name = EXCLUDED.rmp_name,
+                      rating = EXCLUDED.rating,
+                      total_ratings = EXCLUDED.total_ratings,
+                      would_take_again = EXCLUDED.would_take_again,
+                      level_of_difficulty = EXCLUDED.level_of_difficulty,
+                      tags = EXCLUDED.tags,
+                      comments = EXCLUDED.comments,
+                      rmp_url = EXCLUDED.rmp_url;
+                  """
             try:
                 # Convert lists to PostgreSQL array format
                 tags = "{" + ",".join([f'"{tag}"' for tag in professor.tags]) + "}" if professor.tags else "{}"
-                comments = "{" + ",".join([f'"{comment.replace('"', '\\"')}"' for comment in professor.comments]) + "}" if professor.comments else "{}"
+                comments = "{" + ",".join([f'"{comment.replace('"', '\\"')}"' for comment in
+                                           professor.comments]) + "}" if professor.comments else "{}"
                 rmp_url = professor.rmp_url if professor.rmp_url else None  # Handle URL insertion
 
                 # Execute the insert query with adapted arrays for tags, comments, and URL
@@ -47,15 +48,23 @@ class RMPProfessorInfoDAO:
                     rmp_url
                 ))
 
-                conn.commit()  # Commit the transaction
-                print(f"Insertion complete for professor: {professor.professor_name} ({professor.professor_email})")  # Success message
+                # Check if row was inserted or updated (PostgreSQL will return the number of rows affected)
+                if cursor.rowcount > 0:
+                    print(
+                        f"Insertion or update complete for professor: {professor.professor_name} ({professor.professor_email})")
+                else:
+                    print(f"No changes made for professor: {professor.professor_email} (possibly due to a conflict)")
 
-            except psycopg2.errors.UniqueViolation:
-                print(f"Duplicate entry found for {professor.professor_email}, skipping insertion.")
-                conn.rollback()
+                conn.commit()  # Commit the transaction after the operation
+
+            except psycopg2.errors.UniqueViolation as e:
+                # Handle the case when a duplicate email is found (although it should be caught by the ON CONFLICT clause)
+                print(f"Duplicate entry found for professor email: {professor.professor_email}, skipping insertion...")
+                conn.rollback()  # Rollback the transaction to avoid further issues
             except Exception as e:
+                # Handle any other exceptions
                 print(f"Error inserting professor {professor.professor_email}: {e}")
-                conn.rollback()
+                conn.rollback()  # Rollback on other errors
             finally:
                 pass  # Optional: Close cursor and connection if necessary
         else:
