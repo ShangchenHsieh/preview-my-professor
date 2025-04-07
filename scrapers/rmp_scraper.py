@@ -312,26 +312,26 @@ def load_professors_from_file(filename):
 professors_list = load_professors_from_file("scraper_resources/teacher_name_email.txt")
 
 # --------------------------------------------- Full Scrape
-start_time = time.time()
-# Keep track of time
-search_and_scrape(professors_list)
-end_time = time.time()
-elapsed_time = end_time - start_time
-print(f"Scraping completed in {elapsed_time:.2f} seconds.")
+# start_time = time.time()
+# # Keep track of time
+# search_and_scrape(professors_list)
+# end_time = time.time()
+# elapsed_time = end_time - start_time
+# print(f"Scraping completed in {elapsed_time:.2f} seconds.")
 
 # --------------------------------------------- Resume Scrape
-# def resume_scraping(professors_list, start_name):
-#     try:
-#         # Find the index of the professor where we want to start scraping
-#         start_index = next(i for i, (name, _) in enumerate(professors_list) if name == start_name)
-#
-#         # Slice the list to start from the professor after the specified one
-#         professors_to_scrape = professors_list[start_index + 1:]
-#         search_and_scrape(professors_to_scrape)
-#
-#     except StopIteration:
-#         print(f"Professor {start_name} not found in the list.")
-#
-#
-# # Call resume_scraping with the list of professors and the name where to resume
-# resume_scraping(professors_list, "Lan Nguyen")
+def resume_scraping(professors_list, start_name):
+    try:
+        # Find the index of the professor where we want to start scraping
+        start_index = next(i for i, (name, _) in enumerate(professors_list) if name == start_name)
+
+        # Slice the list to start from the professor after the specified one
+        professors_to_scrape = professors_list[start_index + 1:]
+        search_and_scrape(professors_to_scrape)
+
+    except StopIteration:
+        print(f"Professor {start_name} not found in the list.")
+
+
+# Call resume_scraping with the list of professors and the name where to resume
+resume_scraping(professors_list, "Jose Aguinaga")

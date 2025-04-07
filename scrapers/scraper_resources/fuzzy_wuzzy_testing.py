@@ -19,8 +19,8 @@ name1 = "Jean-Benoit Levy"
 name2 = "Jean Benoit Levy"
 test_fuzzy_match(name1, name2)
 
-name3 = "David Chai"
-name4 = "Dave Chai"
+name3 = "Cheryl Chancellor-Freeland"
+name4 = "Cheryl Chancellor Freeland"
 test_fuzzy_match(name3, name4)
 
 
