@@ -38,6 +38,7 @@ def scrape_professor_data(professor_name, professor_email):
             department_element = driver.find_element(By.CLASS_NAME, "TeacherDepartment__StyledDepartmentLink-fl79e8-0")
             department_text = department_element.text.strip()  # Grab the full department text
             department = re.sub(r"\s+department$", "", department_text)  # Remove " department" at the end
+            department = re.sub(r"\bamp\b", "&", department)  # Replace "amp" with "&" only when it is a standalone word
         except:
             department = ""  # Handle case where department is not found
 
@@ -72,9 +73,16 @@ def scrape_professor_data(professor_name, professor_email):
         except:
             print("No tags found for this professor.")
 
-        # Extract comments (limit to first 10)
+        # Extract comments (limit to first 10) and insert separator after each comment
         comment_elements = driver.find_elements(By.CLASS_NAME, "Comments__StyledComments-dzzyvm-0")
-        comments = [comment.text for comment in comment_elements[:10]]
+        comments = []
+
+        separator = "[COMMENT_SEPARATOR]"  # Define a separator
+
+        for i, comment in enumerate(comment_elements[:10]):
+            comments.append(comment.text)
+            if i < len(comment_elements[:10]) - 1:  # Add separator if it's not the last comment
+                comments.append(separator)
 
         # Extract the current URL
         prof_url = driver.current_url
