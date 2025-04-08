@@ -1,25 +1,22 @@
-# Use the official Python 3.12 image from the Docker Hub
+# Use an official Python runtime as a base image
 FROM python:3.12
 
-# Set the working directory to /app
+# Set the working directory
 WORKDIR /app
 
-# Copy the requirements.txt first to take advantage of Docker layer caching
-COPY ./app/requirements.txt /app/requirements.txt
+# Copy the application and data
+COPY . /app
 
-# Install dependencies
+# Install any required Python packages
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the app's code
-COPY ./app /app
-
-# Expose the port that Flask will run on (optional)
-# Google Cloud will use the `$PORT` environment variable for this
+# Expose the port Flask will run on
 EXPOSE 8080
 
-# Set environment variables for Flask
+# Define environment variables for Flask
 ENV FLASK_APP=app.py
+
 ENV FLASK_ENV=production
 
-# Start the Flask application and use the `$PORT` variable
-CMD ["flask", "run", "--host=0.0.0.0", "--port=$PORT"]
+# Run the application
+CMD ["flask", "run", "--host=0.0.0.0", "--port=8080"]

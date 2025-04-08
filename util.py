@@ -6,8 +6,7 @@ def test_db_connection() -> dict:
     res = cur.fetchall()
     cur.close()
     conn.close()
-    print(res)
     return res
 
 
-test_db_connection()
+# test_db_connection()
