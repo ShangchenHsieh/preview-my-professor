@@ -1,4 +1,13 @@
 import db_config
 
-def demo() -> dict:
-    return None
+def test_db_connection() -> dict:
+    cur, conn = db_config.get_cursor_and_connection()
+    cur.execute("SELECT table_name FROM information_schema.tables WHERE table_schema = 'public';")
+    res = cur.fetchall()
+    cur.close()
+    conn.close()
+    print(res)
+    return res
+
+
+test_db_connection()
