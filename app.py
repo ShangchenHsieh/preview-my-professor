@@ -57,9 +57,10 @@ def index():
 @app.route("/test-db", methods=["GET"])
 def test_db_connection():
     try:
-        cur, conn = db_config.connect_to_db()
+        cur, conn = db_config.get_cursor_and_connection()
         cur.execute("SELECT 1")  # simple query to test connection
         result = cur.fetchone()
+        print(result)
         return render_template("index.html", data={"test": "DB connection successful"})
     except Exception as e:
         print("Database connection failed:", e)
