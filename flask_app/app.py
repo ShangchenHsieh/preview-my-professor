@@ -23,7 +23,7 @@ user_data = {}
 
 def load_default_prompt():
     try:
-        with open("app/default_prompt.txt") as file:
+        with open("default_prompt.txt") as file:
             return file.read()
     except Exception:
         return "Please provide a prompt."
@@ -46,13 +46,8 @@ def index():
             conn.close()
 
         return render_template("index.html", data=user_data)
-    else: # GET request
-        user_data = {
-            "course_num": "",
-            "result": "", 
-        }
-        
-        return render_template("index.html", data={"test": test})
+    else: # GET request        
+        return render_template("index.html")
 
 
 @app.route("/test-db", methods=["GET"])
