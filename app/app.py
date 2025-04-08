@@ -5,12 +5,13 @@ from openai import OpenAI  # Use the client class as shown in your example
 import os
 import util
 import db_config
+import dotenv
 
 #################
 ### Flask App ###
 #################
 # This is where we define the endpoints for our Flask application 
-
+dotenv.load_dotenv()
 # initialize the Flask app
 app = Flask(__name__)
 # enable CORS
@@ -30,6 +31,7 @@ def load_default_prompt():
 @cross_origin()
 @app.route("/", methods=["GET", "POST"])
 def index():
+    print(os.environ.get("TEST"))
     if request.method == "POST":
         try: 
             cur, conn = db_config.connect_to_db()
@@ -49,6 +51,7 @@ def index():
             "course_num": "",
             "result": "", 
         }
+        
         return render_template("index.html", data=user_data)
     
 # Flask app driver
