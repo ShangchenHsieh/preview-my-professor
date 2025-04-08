@@ -4,7 +4,7 @@ FROM python:3.12
 WORKDIR /app/flask_app
 
 # Copy only what's needed first to leverage Docker layer caching
-COPY requirements.txt .
+COPY /app/flask_app/requirements.txt .
 
 # Install Python dependencies
 RUN pip install --no-cache-dir --upgrade pip
