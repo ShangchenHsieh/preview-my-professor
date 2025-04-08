@@ -27,6 +27,7 @@ def load_default_prompt():
     except Exception:
         return "Please provide a prompt."
 
+@cross_origin()
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
