@@ -196,8 +196,6 @@
         </header>
 
         <div class="container">
-            <button onclick="window.location.href='{{ url_for('set_api_key') }}'">Set Your OpenAI API Key Here
-                for AI-powered Summary</button>
             {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
             <ul>
