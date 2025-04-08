@@ -58,10 +58,10 @@ def index():
 def test_db_connection():
     try:
         cur, conn = db_config.get_cursor_and_connection()
-        cur.execute("SELECT 1")  # simple query to test connection
+        cur.execute("""SELECT table_name FROM information_schema.tables WHERE table_schema = 'public' """)  # simple query to test connection
         result = cur.fetchone()
         print(result)
-        return render_template("index.html", data={"test": "DB connection successful"})
+        return render_template("index.html", data={"test": result})
     except Exception as e:
         print("Database connection failed:", e)
         return jsonify({"success": False, "error": str(e)}), 500
