@@ -30,7 +30,7 @@ def load_default_prompt():
 @cross_origin()
 @app.route("/", methods=["GET", "POST"])
 def index():
-    print(os.environ.get("TEST"))
+    test = os.environ.get("TEST")
     if request.method == "POST":
         try: 
             cur, conn = db_config.connect_to_db()
@@ -51,7 +51,7 @@ def index():
             "result": "", 
         }
         
-        return render_template("index.html", data=user_data)
+        return render_template("index.html", data={"test": test})
     
 # Flask app driver
 if __name__ == '__main__':
