@@ -334,4 +334,4 @@ def resume_scraping(professors_list, start_name):
 
 
 # Call resume_scraping with the list of professors and the name where to resume
-resume_scraping(professors_list, "Jose Aguinaga")
+resume_scraping(professors_list, "Vee Lawson")
