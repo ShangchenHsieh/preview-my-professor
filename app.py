@@ -52,7 +52,25 @@ def index():
         }
         
         return render_template("index.html", data={"test": test})
-    
+
+
+@app.route("/test-db", methods=["GET"])
+def test_db_connection():
+    try:
+        cur, conn = db_config.connect_to_db()
+        cur.execute("SELECT 1")  # simple query to test connection
+        result = cur.fetchone()
+        return render_template("index.html", data={"test": "DB connection successful"})
+    except Exception as e:
+        print("Database connection failed:", e)
+        return jsonify({"success": False, "error": str(e)}), 500
+    finally:
+        if 'cur' in locals():
+            cur.close()
+        if 'conn' in locals():
+            conn.close()
+
+
 # Flask app driver
 if __name__ == '__main__':
     app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
