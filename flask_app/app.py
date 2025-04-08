@@ -47,7 +47,7 @@ def index():
 
         return render_template("index.html", data=user_data)
     else: # GET request        
-        return render_template("index.html")
+        return render_template("index.html", data=user_data)
 
 
 @app.route("/test-db", methods=["GET"])
