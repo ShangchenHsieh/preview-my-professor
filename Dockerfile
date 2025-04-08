@@ -10,6 +10,6 @@ EXPOSE 8080
 
 ENV FLASK_APP=app.py
 
-ENV FLASK_ENV=production
+ENV FLASK_ENV=productionready
 
 CMD ["flask", "run", "--host=0.0.0.0", "--port=8080"]
