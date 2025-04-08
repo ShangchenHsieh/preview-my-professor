@@ -1,7 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS, cross_origin
 from flask import Flask, render_template, request, redirect, url_for, flash, session, send_file
-from openai import OpenAI  # Use the client class as shown in your example
 import os
 import util
 import db_config
