@@ -60,7 +60,7 @@ def test_db_connection():
         return render_template("index.html", data={"test": result})
     except Exception as e:
         print("Database connection failed:", e)
-        return jsonify({"success": False, "error": str(e)}), 500
+        return render_template("index.html", data={"test": "Database connection failed"})
     finally:
         if 'cur' in locals():
             cur.close()
