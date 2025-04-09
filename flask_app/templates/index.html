@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Set API Key and Model</title>
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/5812/5812047.png" type="image/png">
+
+
+    <title>Preview Your Professor - SJSU</title>
     <style>
         body {
             font-family: 'Roboto', sans-serif;
@@ -15,13 +18,16 @@
             display: flex;
             flex-direction: column;
             min-height: 100vh;
-            background-image: url('https://bpb-us-w2.wpmucdn.com/blogs.sjsu.edu/dist/f/94/files/2022/01/San_Jose_State_University_DSC03875-e1642709202942.jpg');
+            background-image: url('https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-phd-jpeg-webp.webp');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
             background-attachment: fixed;
             width: 100vw;
             height: 100vh;
+            margin: 0;
+            padding: 0;
+
         }
 
         .container {
@@ -32,28 +38,31 @@
             background-color: #2a2a2a;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
             border-radius: 8px;
-            animation: fadeIn 1s ease-in-out;
         }
 
-        h1,
+        h1 {
+            text-align: center;
+            color: #ffffff;
+            font-weight: 600;
+            font-size: 2.5em;
+        }
+
         h2 {
             text-align: center;
             color: #ffffff;
-            font-weight: 700;
         }
 
         label {
             display: block;
             margin-bottom: 5px;
             color: #bbbbbb;
-            font-size: 16px;
         }
 
-        input[type="text"],
-        input[type="radio"] {
+        textarea,
+        input[type="text"] {
             width: calc(100% - 12px);
             padding: 8px;
-            margin-bottom: 15px;
+            margin-bottom: 10px;
             border: 1px solid #444;
             border-radius: 4px;
             box-sizing: border-box;
@@ -62,22 +71,8 @@
             font-size: 16px;
         }
 
-        .radio-group {
-            margin-bottom: 15px;
-            padding-left: 10px;
-        }
-
-        .radio-group p {
-            margin-bottom: 10px;
-            font-size: 16px;
-            color: #bbb;
-        }
-
-        .radio-group label {
-            display: inline-block;
-            margin-right: 15px;
-            font-size: 14px;
-            color: #e0e0e0;
+        textarea {
+            resize: vertical;
         }
 
         button {
@@ -108,6 +103,33 @@
         }
 
 
+        .flash-message {
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+        }
+
+        .flash-message.error {
+            background-color: #5a1e1e;
+            color: #ffb3b3;
+            border: 1px solid #ff7b7b;
+        }
+
+        .flash-message.success {
+            background-color: #1e5a1e;
+            color: #b3ffb3;
+            border: 1px solid #7bff7b;
+        }
+
+        a {
+            color: #009dff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
         footer {
             margin-top: auto;
             text-align: center;
@@ -122,11 +144,15 @@
                 padding: 10px;
             }
 
+            textarea,
             input[type="text"],
-            input[type="radio"],
             button {
                 font-size: 14px;
             }
+        }
+
+        .container {
+            animation: fadeIn 1s ease-in-out;
         }
 
         @keyframes fadeIn {
@@ -141,10 +167,6 @@
             }
         }
 
-        textarea {
-            transition: border-color 0.3s ease;
-        }
-
         textarea:focus {
             border-color: #007bff;
             outline: none;
@@ -155,39 +177,63 @@
 </head>
 
 <body>
-    <div class="container">
-        <h1>Set API Key and Model</h1>
-        <form method="POST">
+    <div class="background">
+        <header>
+            <nav>
+                <div class="container">
+                    <h1>Preview Your Professor at SJSU</h1>
+
+                </div>
+            </nav>
+        </header>
+
+        <div class="container">
+            {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+            <ul>
+                {% for category, message in messages %}
+                <li class="flash-message {% if category == 'error' %}error{% else %}success{% endif %}">
+                    {{ message }}
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+            {% endwith %}
+
+            <form method="POST" action="/">
+                <div>
+                    <h2>Class Number:</h2>
+                    <textarea id="relevant_info" name="relevant_info" placeholder="Enter a class number, example: CS146"
+                        rows="6">{{ data.test }}</textarea>
+                </div>
+                <br />
+                <div>
+                    <h2>Prompt:</h2>
+                    <textarea id="prompt" name="prompt" rows="4">{{ data.prompt }}</textarea>
+                </div>
+                <br>
+                <div>
+                    <button type="submit" name="generate">Find My Professor</button>
+                </div>
+            </form>
+
+            <br>
             <div>
-                <label for="api_key">API Key:</label>
-                <input type="text" id="api_key" name="api_key" value="{{ data.api_key }}">
+                <h2>Result:</h2>
             </div>
-            <div class="radio-group">
-                <p>Select Model:</p>
-                <input type="radio" id="gpt-4o" name="model" value="gpt-4o" {% if data.model=='gpt-4o' %}checked{% endif
-                    %}>
-                <label for="gpt-4o">gpt-4o ($2.50/1M tokens)</label><br>
-
-                <input type="radio" id="gpt-4o-mini" name="model" value="gpt-4o-mini" {% if data.model=='gpt-4o-mini'
-                    %}checked{% endif %}>
-                <label for="gpt-4o-mini">gpt-4o-mini ($0.15/1M tokens)</label><br>
-
-                <input type="radio" id="o1-mini" name="model" value="o1-mini" {% if data.model=='o1-mini' %}checked{%
-                    endif %}>
-                <label for="o1-mini">o1-mini ($1.10/1M tokens)</label><br>
+            <div>
+                <h2>Summary:</h2>
             </div>
-            <button type="submit">Update API Key and Model</button>
-        </form>
-        <br />
-        <button onclick="window.location.href='/'">Back to Main Page</button>
-    </div>
+        </div>
 
-    <div class="container">
-        <footer>
-            <p>&copy; 2025 Preview Your Professor All Rights Reserved</p>
-        </footer>
-    </div>
-
+        <div class="container">
+            <footer>
+                <p>&copy; 2025 Spring @ Preview Your Professor All Rights Reserved</p>
+            </footer>
+        </div>
 </body>
+
+</div>
+
 
 </html>
