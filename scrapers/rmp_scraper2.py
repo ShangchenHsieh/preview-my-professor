@@ -1,3 +1,5 @@
+# This is a backup of version that doesnt include department when storing the data, just in case department has issues
+
 import re
 import time
 from selenium import webdriver
@@ -33,15 +35,6 @@ def scrape_professor_data(professor_name, professor_email):
         except:
             rmp_name = professor_name  # If we can't scrape it, default to passed name
 
-        # Extract department info
-        try:
-            department_element = driver.find_element(By.CLASS_NAME, "TeacherDepartment__StyledDepartmentLink-fl79e8-0")
-            department_text = department_element.text.strip()  # Grab the full department text
-            department = re.sub(r"\s+department$", "", department_text)  # Remove " department" at the end
-            department = re.sub(r"\bamp\b", "&", department)  # Replace "amp" with "&" only when it is a standalone word
-        except:
-            department = ""  # Handle case where department is not found
-
         # Extract rating
         try:
             rating = driver.find_element(By.CLASS_NAME, "RatingValue__Numerator-qw8sqy-2").text
@@ -73,16 +66,9 @@ def scrape_professor_data(professor_name, professor_email):
         except:
             print("No tags found for this professor.")
 
-        # Extract comments (limit to first 10) and insert separator after each comment
+        # Extract comments (limit to first 10)
         comment_elements = driver.find_elements(By.CLASS_NAME, "Comments__StyledComments-dzzyvm-0")
-        comments = []
-
-        separator = "[COMMENT_SEPARATOR]"  # Define a separator
-
-        for i, comment in enumerate(comment_elements[:10]):
-            comments.append(comment.text)
-            if i < len(comment_elements[:10]) - 1:  # Add separator if it's not the last comment
-                comments.append(separator)
+        comments = [comment.text for comment in comment_elements[:10]]
 
         # Extract the current URL
         prof_url = driver.current_url
@@ -92,7 +78,6 @@ def scrape_professor_data(professor_name, professor_email):
             "Professor Email": professor_email,
             "Professor Name": professor_name,  # Original search name
             "RMP Name": rmp_name,  # Name as listed on RMP
-            "Department": department,  # Department info
             "Rating": rating,
             "Total Ratings": total_ratings,
             "Would Take Again": would_take_again,
@@ -266,7 +251,6 @@ def search_and_scrape(professors):
                             professor_email=professor_email,  # Include email
                             professor_name=data["Professor Name"],
                             rmp_name=data["RMP Name"],
-                            department=data["Department"],
                             rating=data["Rating"],
                             total_ratings=data["Total Ratings"],
                             would_take_again=data["Would Take Again"],
@@ -311,7 +295,7 @@ def load_professors_from_file(filename):
 # Load professors
 professors_list = load_professors_from_file("scraper_resources/teacher_name_email.txt")
 
-# --------------------------------------------- Full Scrape
+# # ----- Full Scrape
 # start_time = time.time()
 # # Keep track of time
 # search_and_scrape(professors_list)
@@ -319,7 +303,22 @@ professors_list = load_professors_from_file("scraper_resources/teacher_name_emai
 # elapsed_time = end_time - start_time
 # print(f"Scraping completed in {elapsed_time:.2f} seconds.")
 
-# --------------------------------------------- Resume Scrape
+
+# ----- Easy Resume (if errors, or any other reason a stop was needed)
+# def resume_scraping(professors_list, start_name):
+#     try:
+#         # Find the index of the professor where we want to start scraping
+#         start_index = next(i for i, name in enumerate(professors_list) if name == start_name)
+#
+#         # Slice the list to start from the professor after the specified one
+#         professors_to_scrape = professors_list[start_index:]
+#         search_and_scrape(professors_to_scrape)
+#
+#     except StopIteration:
+#         print(f"Professor {start_name} not found in the list.")
+#
+# resume_scraping(professors_list, "A.J. Faas")
+
 def resume_scraping(professors_list, start_name):
     try:
         # Find the index of the professor where we want to start scraping
@@ -334,4 +333,4 @@ def resume_scraping(professors_list, start_name):
 
 
 # Call resume_scraping with the list of professors and the name where to resume
-resume_scraping(professors_list, "Vee Lawson")
+resume_scraping(professors_list, "Lan Nguyen")

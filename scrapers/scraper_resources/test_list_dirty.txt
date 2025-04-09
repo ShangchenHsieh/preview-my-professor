@@ -1,0 +1,705 @@
+AAS 1 - Introduction to Asian American Studies
+AAS 25 - The Changing Majority: Power and Ethnicity in America
+AAS 33A - Asian Americans in U.S. History I
+AAS 33B - Asian Americans in U.S. History II
+AAS 125 - Filipino Experience in the United States
+AAS 158 - Asian American Intersections
+AAS 159 - Asian American Media Representation and Popular Culture
+AAS 170 - Special Topics in Asian American Studies
+AAS 175 - Asian American Communities
+AAS 180 - Individual Studies
+AAS 184 - Ethnic Studies Theory
+AAS 185 - Ethnic Studies Methodologies
+AAS 186 - Southeast Asian Diaspora in the U.S.
+AAS 190 - Internship
+AAS 192 - History of Japanese Americans
+ADV 91 - Introduction to Advertising
+ADV 92 - International Program Studies
+ADV 93 - Design Fundamentals for Advertising 1
+ADV 94 - Design Fundamentals for Advertising 2
+ADV 95 - Working With Type
+ADV 116 - Spartan Daily Advertising Staff
+ADV 121 - Strategic Planning/Communications
+ADV 122 - Business-to-Business Advertising
+ADV 123 - Introduction to Branded Content
+ADV 124 - Copywriting
+ADV 125 - Advertising Layout and Production
+ADV 126 - Media Planning and Buying
+ADV 127 - Practical Qualitative Research in Advertising
+ADV 128 - Integrated Marketing Communications (IMC)
+ADV 129 - Advertising Campaign Planning and Management
+ADV 130 - Advertising Portfolio 1
+ADV 131 - Advertising Portfolio 2
+ADV 132 - UX/UI Design for Advertising
+ADV 192 - International Program Studies
+AE 15 - Air & Space Flight: Past, Present, and Future
+AE 20 - Computer-Aided Design for Aerospace Engineers
+AE 30 - Computer Programming for Aerospace Engineers
+AE 92 - International Program Studies
+AE 100 - Fundamentals of Aerospace Engineering
+AE 105 - Mathematical Methods for Aerospace Engineers
+AE 110 - Space Systems Engineering
+AE 112 - Aerospace Structures and Materials I
+AE 112W - AE Structural Analysis I Problem-Solving Workshop
+AE 114 - Aerospace Structures and Materials II
+AE 114W - AE Structural Analysis II Problem-Solving Workshop
+AE 119 - Finite Element Analysis for Aerospace Applications
+AE 138 - Vector-Based Dynamics for Aerospace Applications
+AE 138W - Vector-Based Dynamics Problem-Solving Workshop
+AE 140 - Rigid Body Dynamics
+AE 140W - Rigid Body Dynamics Problem-Solving Workshop
+AE 142 - Astrodynamics
+AE 149 - Advanced Dynamics and Simulation
+AE 157 - Aerospace Automatic Control Systems Design
+AE 160 - Aerodynamics I
+AE 160W - Aerodynamics I Problem-Solving Workshop
+AE 162 - Aerodynamics II
+AE 162W - Aerodynamics II Problem-Solving Workshop
+AE 164 - Aerothermodynamics
+AE 164W - Aerothermodynamics Problem-Solving Workshop
+AE 165 - Aerospace Flight Mechanics
+AE 166 - Rocketry
+AE 167 - Aerospace Propulsion
+AE 168 - Aerospace Vehicle Dynamics and Control
+AE 169 - Computational Fluid Dynamics
+AE 171A - Aircraft Design I
+AE 171B - Aircraft Design II
+AE 172A - Spacecraft Design I
+AE 172B - Spacecraft Design II
+AE 173 - Uncrewed Air Vehicle Design
+AE 180 - Individual Studies
+AE 192 - International Program Studies
+AE 199 - Special Topics in Aerospace Engineering
+AE 200 - Engineering Analysis of Aerospace Systems
+AE 210 - Advanced Space Systems Engineering
+AE 242 - Orbital Mechanics and Mission Design
+AE 243 - Advanced Astrodynamics
+AE 245 - Spacecraft Dynamics and Control
+AE 246 - Advanced Aircraft Stability and Control
+AE 247 - Trajectory Optimization in Aerospace Applications
+AE 250 - Advanced Structures and Materials
+AE 251 - Structural Vibrations for Aerospace Applications
+AE 262 - Advanced Aerodynamics
+AE 264 - Gas Dynamics
+AE 265 - Boundary Layers
+AE 266 - Hyperson
+AFAM 2A - African Americans and the Development of America’s History and Government
+AFAM 2B - African Americans and the Development of America’s History and Government
+AFAM 22 - The Humanities in African American Culture
+AFAM 25 - The Changing Majority: Power and Ethnicity in America
+AFAM 40 - African Origins
+AFAM 100W - Writing Workshop
+AFAM 102 - Black Music
+AFAM 105 - Race and Health Inequities in the US
+AFAM 106 - Black Diasporas
+AFAM 110 - Race and Education in the US
+AFAM 111 - African Nations: History, Politics, and Culture
+AFAM 112 - Black Immigrant Communities
+AFAM 115 - The Great Migration and Black Communities
+AFAM 119 - Africana Philosophy and Culture
+AFAM 120 - Sociology of Black Communities
+AFAM 125 - Black Kinship in the US - Black Families Past and Present
+AFAM 130 - Black Perspectives in Psychology - Black Psychology
+AFAM 133 - Introduction to Social Issues in Planning
+AFAM 134 - The Black Civil Rights Movements
+AFAM 137 - Introduction to Black Religion
+AFAM 142 - Race, Justice, and the Legal System
+AFAM 145 - Race, Policy, and Urban Cities
+AFAM 151 - Race, Class and the Environment
+AFAM 152 - Black Feminisms
+AFAM 155A - Triumphs and Trials of the Black Athlete in the U.S., 1850-1999
+AFAM 155B - Triumphs and Trials of the Black Athlete in the U.S., 2000-Present
+AFAM 156 - Black Women’s Writing
+AFAM 157 - Race, Tech, and Global Futures
+AFAM 158 - Race, Sport, Activism & Social Movements
+AFAM 159 - The Racial Wealth Gap in America
+AFAM 160 - Black Political Power in the US
+AFAM 161 - Black Representations in Media and New Technology
+AFAM 162 - The Aesthetics of Hip-Hop
+AFAM 164 - Black Entrepreneurship
+AFAM 165 - Topics in Ethnic American Literature
+AFAM 166 - Black Women’s Histories
+AFAM 170 - Interracial Intimacies and Mixed Race Identity in the U.S.
+AFAM 180 - Individual Studies
+AFAM 184 - Directed Reading
+AFAM 185 - Special Topics in African American Studies
+AFAM 190 - Internship in Community Development
+AFAM 192 - International Program Studies
+AFAM 198 - Senior Seminar in African American Studies
+AFAM 298 - Special Studies
+AFRS 142 - African Politics
+AFRS 192 - International Program Studies
+AMS 1A - American Cultures to 1877
+AMS 1B - American Cultures 1877 to Present
+AMS 10 - Stories that Make America
+AMS 11 - Visions of Democracy
+AMS 12 - Intro to US Popular Culture: Serious Fun!
+AMS 92 - International Program Studies
+AMS 100W - Writing in the Humanities & Interdisciplinary Arts
+AMS 129 - The U.S. in a Global Context
+AMS 139 - Animals and Society
+AMS 159 - Nature and World Cultures
+AMS 160 - Special Topics in Humanities
+AMS 169 - The American Dream
+AMS 179 - Issues in US Popular Culture
+AMS 180 - Individual Studies
+AMS 190 - Senior Seminar in Humanities
+AMS 192 - International Program Studies
+ANI 1A - Animation Foundations Bridge 1A
+ANI 1B - Animation Foundations Bridge 1B
+ANI 10 - Light and Optics
+ANI 11 - Illustration Fundamentals I
+ANI 13 - Drawing for Animation/Illustration I
+ANI 15 - Visual Storytelling
+ANI 21 - Color Principles for Screen Arts
+ANI 31 - 2D Animation I
+ANI 41 - Introduction to 3D Modeling
+ANI 61 - Introduction to 3D Animation
+ANI 71 - Visual Principles
+ANI 111 - Drawing for Animation/Illustration II
+ANI 112 - Conceptual Illustration
+ANI 121 - Illustration Fundamentals II
+ANI 122 - Illustration Fundamentals III
+ANI 123 - Visual Development I
+ANI 124 - Visual Development II
+ANI 131 - 2D Animation II
+ANI 132 - 2D Animation III
+ANI 133 - Animation Production - Storyboarding
+ANI 134 - Animation Production - Storyboarding II
+ANI 141 - Digital Modeling I
+ANI 142 - Digital Modeling II
+ANI 161 - Digital Animation I
+ANI 162 - Digital Animation II
+ANI 175 - Professional Practices in Entertainment Design
+ANI 179 - Special Topics in Animation/Illustration
+ANI 180 - Individual Studies
+ANI 192 - International Program Studies
+ANI 198 - Senior Seminar Animation/Illustration
+ANI 199 - Senior Project Animation/Illustration
+ANI 240 - Visual Narratives
+ANI 250 - Intellectual Property
+ANI 255 - Sound Landscapes
+ANI 257 - New Technologies Studio
+ANI 258 - Interactive Studio
+ANI 259 - Post Production Techniques
+ANI 260 - The Synthetic Image
+ANI 265 - Visual Styles for Animation
+ANI 270 - The Synthetic Movement
+ANTH 11 - Cultural Anthropology
+ANTH 12 - Introduction to Human Evolution
+ANTH 13 - Archaeology
+ANTH 25 - Human Lifecourse in Context
+ANTH 92 - International Program Studies
+ANTH 100W - Writing Workshop
+ANTH 102 - Silicon Valley Connections
+ANTH 105 - Applied Anthropology
+ANTH 107 - Eating Culture: The Anthropology of Food
+ANTH 108 - Medical Anthropology
+ANTH 114 - Legacy of Asia
+ANTH 115 - The Emerging Global Culture
+ANTH 122 - Magic, Science and Religion
+ANTH 125 - Urban Anthropology
+ANTH 129 - Environmental Anthropology
+ANTH 130 - Kin, Kith, and Community: The Anthropology of Social Organization
+ANTH 131 - Theories of Culture
+ANTH 132 - Creating Built Worlds
+ANTH 133 - Organizational Cultures
+ANTH 134 - Systemic Leadership
+ANTH 136 - Thought Control in Contemporary Society
+ANTH 140 - Human Sexuality
+ANTH 142 - Culture in Mind
+ANTH 143 - Culture and Adaptation
+ANTH 144 - Gifts, Markets, and Power
+ANTH 145 - Middle Eastern Traditions
+ANTH 146 - Culture and Conflict
+ANTH 148 - Religion and Anthropology
+ANTH 149 - Ethnographic Methods
+ANTH 151 - Modernity and Disease
+ANTH 152 - Becoming Human
+ANTH 154 - Monkeys, Apes and Humans
+ANTH 155 - Forensic Osteology
+ANTH 156 - Bioarchaeology
+ANTH 157 - Forensic Anthropology
+ANTH 159 - Mummies
+ANTH 160 - Reconstructing Lost Civilizations
+ANTH 161 - Old World Civilizations
+ANTH 162 - Inca, Aztec and Maya Civilization
+ANTH 164 - North America before 1492
+ANTH 165 - Historical Archaeology
+ANTH 168 - Archaeological Methodology
+ANTH 169 - Archaeological Site Excavation
+ANTH 173 - Multimedia Anthropology
+ANTH 175 - Anthropology of Native America
+ANTH 176 - Native California: Past and Present
+ANTH 177 - Anthropology of Asia
+ANTH 180 - Individual Studies
+ANTH 184 - Directed Reading
+ANTH 190 - Designing Research
+ANTH 191 - Frontiers of Anthropology
+ANTH 192 - International Program Studies
+ANTH 193 - Behavioral Science in Practice
+ANTH 195 - Anthropology Practicum
+ANTH 198 - Special Projects
+ANTH 230 - Theory in Practice
+ANTH 231 - Applications Core
+ANTH 232 - Applications Core
+ANTH 233 - Fields of Application
+ANTH 234 - Advanced Research Methods
+ANTH 235 - Quantitative Methods
+ANTH 280 - Individual Studies
+ANTH 287 - Special Topics
+ANTH 292 - International Program Studies
+ANTH 298 - Anthropology Project
+ANTH 299 - Master’s Thesis
+ANTH 1290R - Culminating Experience Supervision
+ARED 150 - Field Experience in the Arts
+ARED 184Y - Student Teaching II - Classroom Teaching
+ARED 184Z - Student Teaching III - Classroom Teaching
+ARED 238 - Principles of Art Education
+ARED 365 - Field Experience Seminar in Art Education
+ART 1 - Professional Preparation in Art
+ART 2 - The Artist in Contemporary Culture
+ART 3 - Medium and Message
+ART 12 - Two-Dimensional Design and Color Concepts
+ART 13 - Three-Dimensional Design Concepts
+ART 14 - Color
+ART 15 - Digital 2D Foundations
+ART 24 - Drawing I
+ART 25 - Expressive Drawing
+ART 26 - Drawing II
+ART 39 - Multicultural Arts for Children
+ART 46 - Introduction to Ceramics
+ART 47 - Introduction to Metalsmithing
+ART 61 - Beginning Painting
+ART 68 - Beginning Sculpture: Object & Concept
+ART 74 - Introduction to Digital Media
+ART 75 - Introduction to Digital Video Art
+ART 92 - International Program Studies
+ART 100W - Writing Workshop: Fine Arts
+ART 101 - Digital Media Art
+ART 102 - 3D Modeling and Printing
+ART 103 - Art as System
+ART 104 - Interdisciplinary Seminar in Digital Media Art
+ART 105 - Advanced Digital Video
+ART 106 - Topics in Human Machine Interface
+ART 107 - Advanced Projects in Digital Media Art
+ART 108 - Introduction to Game Studies
+ART 109 - Web Development in HTML, CSS and JavaScript
+ART 110 - History and Theory of New Media
+ART 132 - Topics in Intermediate Ceramics
+ART 133 - Topics in Ceramic Sculpture
+ART 134 - Topics in Advanced Ceramics
+ART 135 - Topics in Moldmaking for Artists
+ART 137 - Figure Modeling
+ART 138 - Elementary Art Methods
+ART 139 - Teaching Diversity through Art
+ART 140 - Topics in Glass
+ART 141 - Topics in Advanced Glass
+ART 147 - Topics in Metalsmithing and Jewelry
+ART 149 - Topics in Jewelry and Small Sculpture
+ART 150 - Topics in Printmaking and Letterpress
+ART 151 - Topics in Screen-Printing
+ART 152 - Topics in Lithography
+ART 153 - Topics in Intaglio Processes
+ART 155 - Topics in Monotype
+ART 158 - Topics in Drawing III
+ART 162 - Watercolor
+ART 164A - Intermediate Painting
+ART 164B - Intermediate Painting II
+ART 165 - Topics in Figure Painting
+ART 166 - Topics in Advanced Painting
+ART 168 - Topics in Woodworking
+ART 169 - Topics in Metal Sculpture
+ART 170 - Topics in Fabricated Sculpture
+ART 172 - Intermediate Sculpture: System/Structure
+ART 173 - Topics in Installation Art
+ART 174A - Museum and Gallery Operations
+ART 174B - Internship: Museum and Gallery Operations
+ART 175 - Special Topics in Studio Art
+ART 177 - Professional & Business Practices
+ART 178 - Art Field Work
+ART 179 - Special Problems in Art
+ART 180 - Individual Studies
+ART 192 - International Program Studies
+ART 193 - Digital Materials
+ART 195 - BFA Group Exhibition
+ART 197 - BA Senior Project
+ART 198 - BFA Seminar
+ART 199 - BFA Project
+ART 200W - Professional Writing in Contemporary Art
+ART 208 - Graduate Photography Critique
+ART 210 - Seminar in Digital Media Art
+ART 217 - Tutorials in Pictorial Arts
+ART 219 - Tutorials in Spatial Art
+ART 220 - Tutorials in Digital Media Art
+ART 222 - Tutorials in Photography
+ART 260 - Special Tutorials in Art
+ART 276 - Artists Teaching Art
+ART 281 - Interdisciplinary Critique Seminar
+ART 282A - Seminar in the Theory and Criticism of Contemporary Art
+ART 282B - Seminar in Contemporary Art
+ART 297A - Master’s Special Study
+ART 297B - Master’s Project
+ART 298A - MFA Project Planning Seminar
+ART 298B - MFA Project
+ART 1290R - Culminating Experience Supervision
+ARTH 11 - Modern Art History
+ARTH 15 - Intro to Visual Culture
+ARTH 70A - Art History, Prehistoric to Medieval
+ARTH 70B - Art History, Renaissance to Modern
+ARTH 70C - Arts of Asia
+ARTH 72 - Design in Society
+ARTH 92 - International Program Studies
+ARTH 101 - Introduction to Practice of Art History
+ARTH 110 - History and Theory of New Media
+ARTH 126 - History of Photography
+ARTH 127 - Photography, Film, and Architecture
+ARTH 150 - Modern Textiles: A Global History of Art and Design
+ARTH 160 - Modern Architecture
+ARTH 161 - Contemporary Architecture
+ARTH 162 - California Architecture
+ARTH 163 - Twentieth Century Urban Design
+ARTH 174A - Museum and Gallery Operations
+ARTH 174B - Internship: Museum and Gallery Operations
+ARTH 175 - Theories of Art History and Art Criticism
+ARTH 176A - Graphic Design History and Theory
+ARTH 178 - Art History Field Work
+ARTH 180 - Individual Studies in Art History
+ARTH 181 - Special Topics in Art History
+ARTH 182A - Art of the Americas
+ARTH 182B - American Art
+ARTH 183A - Art of Egypt and Mesopotamia
+ARTH 185 - Art of the Classical World
+ARTH 186 - Medieval Art
+ARTH 187A - Art of the Italian Renaissance, Fifteenth Century
+ARTH 187B - Art of the Italian Renaissance, Sixteenth Century
+ARTH 187C - The Art of Renaissance Venice
+ARTH 188A - Northern Renaissance Fourteenth and Fifteenth Centuries
+ARTH 188B - Northern Renaissance, Sixteenth Century
+ARTH 189A - Baroque Art and Architecture in Europe
+ARTH 189B - Global Baroque Art and Architecture
+ARTH 190A - Art of the Nineteenth Century
+ARTH 190B - Early Modernist Art
+ARTH 190C - 20th Century Art: from Dada to Pop
+ARTH 190D - German Art, 1800-2000
+ARTH 191A - Issues in Contemporary Art
+ARTH 191B - Women in Art
+ARTH 191C - Contemporary Art in Mexico, the U.S., and Latin America
+ARTH 192 - International Program Studies
+ARTH 192A - Modern Design
+ARTH 192C - History of Interior Design
+ARTH 193A - Worlds of Art and Culture
+ARTH 193B - East Meets West in Art
+ARTH 194A - Art of China
+ARTH 195 - Art of Japan
+ARTH 199 - Art History Capstone Seminar
+ARTH 272 - Seminar in Renaissance Art
+ARTH 273 - Seminar in Baroque Art
+ARTH 274 - Seminar in Nineteenth Century Art
+ARTH 275 - Seminar in Twentieth Century Art
+ARTH 277 - Seminar in Historiography
+ARTH 291 - Graduate Problems in Art History
+ARTH 298 - Master’s Project
+ARTH 299 - Master’s Thesis
+ARTH 1290R - Culminating Experience Supervision
+AS 1A - Heritage and Values
+AS 1B - Heritage and Values
+AS 2A - Team Leadership Fundamentals
+AS 2B - Team Leadership Fundamentals
+AS 131A - Leading People and Effective Communication
+AS 131B - Leading People and Effective Communication
+AS 141A - National Security, Leadership & Commissioning Prep
+AS 141B - National Security, Leadership & Commissioning Prep
+ASIA 19 - Music in World Cultures
+ASIA 70C - Arts of Asia
+ASIA 92 - International Program Studies
+ASIA 102 - Chinese Culture
+ASIA 104 - Asian Philosophy
+ASIA 109A - History of China
+ASIA 109B - History of China
+ASIA 110A - History of Japan
+ASIA 110B - History of Japan
+ASIA 114 - Legacy of Asia
+ASIA 115 - The Emerging Global Culture
+ASIA 122 - English as a World Language
+ASIA 133B - Relationship Marketing: Pacific Rim
+ASIA 140 - Chinese Culture and Politics Through Literature
+ASIA 142 - Contemporary Buddhism and its Roots
+ASIA 144 - Chinese Traditions
+ASIA 145 - Asian Politics
+ASIA 160 - East and South Asia
+ASIA 177 - Anthropology of Asia
+ASIA 192 - International Program Studies
+ASIA 193B - East Meets West in Art
+ASIA 194A - Art of China
+ASIA 195 - Art of Japan
+ASTR 10 - Descriptive Astronomy
+ASTR 92 - International Program Studies
+ASTR 101 - Modern Astronomy
+ASTR 117A - Astrophysics I
+ASTR 117B - Astrophysics II
+ASTR 155 - Topics in Modern Astrophysics
+ASTR 192 - International Program Studies
+ATH 2I - Men’s Baseball
+ATH 2S - Men’s Skills Development, Baseball
+ATH 4I - Men’s Basketball
+ATH 4S - Men’s Skills Development, Basketball
+ATH 6I - Women’s Basketball
+ATH 6S - Women’s Skills Development, Basketball
+ATH 12I - Football
+ATH 12S - Skills Development, Football
+ATH 14I - Men’s Golf
+ATH 14S - Men’s Skills Development, Golf
+ATH 16I - Women’s Golf
+ATH 16S - Women’s Skills Development, Golf
+ATH 20I - Women’s Gymnastics
+ATH 20S - Women’s Skills Development, Gymnastics
+ATH 26I - Women’s Tennis
+ATH 26S - Women’s Skills Development, Tennis
+ATH 30I - Men’s Soccer
+ATH 30S - Men’s Skills Development, Soccer
+ATH 32I - Softball
+ATH 32S - Skills Development, Softball
+ATH 34I - Women’s Swimming
+ATH 34S - Women’s Skills Development, Swimming
+ATH 36I - Women’s Volleyball
+ATH 36S - Women’s Skills Development, Volleyball
+ATH 42I - Women’s Cross Country
+ATH 42S - Women’s Skills Development, Cross Country
+ATH 44I - Women’s Soccer
+ATH 44S - Women’s Skills Development, Soccer
+ATH 46I - Women’s Water Polo
+ATH 46S - Women’s Skills Development, Water Polo
+ATH 48I - Men’s Cross Country
+ATH 48S - Men’s Skills Development, Cross Country
+ATH 50I - Women’s Track & Field
+ATH 50S - Women’s Skills Development, Track & Field
+ATH 52I - Men’s Water Polo
+ATH 52S - Men’s Skills Development, Water Polo
+ATH 54I - Men’s Track & Field
+ATH 54S - Men’s Skills Development, Track & Field
+AUD 501 - Acoustics and Instrumentation
+AUD 502 - Anatomy and Physiology
+AUD 503 - Psychoacoustics
+AUD 504 - Audiological Assessment I
+AUD 505A - Professional Issues I
+AUD 505B - Professional Issues II
+AUD 505C - Professional Issues III
+AUD 505D - Professional Issues IV
+AUD 505E - Professional Issues V
+AUD 506 - Anatomy and Physiology of the Central Auditory Nervous System (CANS)
+AUD 507 - Hearing Aids I
+AUD 508 - Audiological Assessment II
+AUD 509 - Practicum in Audiology
+AUD 510A - Clinical Rotation in Audiology I
+AUD 510B - Clinical Rotation in Audiology II
+AUD 510C - Clinical Rotation in Audiology III
+AUD 510D - Clinical Rotation in Audiology IV
+AUD 510E - Clinical Rotation in Audiology V
+AUD 510F - Clinical Rotation in Audiology VI
+AUD 511 - Pediatric Audiology
+AUD 512 - Pediatric Auditory Habilitation
+AUD 513 - Research Methods
+AUD 514 - Audiological Assessment III
+AUD 515 - Hearing Aids II
+AUD 516 - Adult Auditory Rehabilitation
+AUD 517 - Audiological Assessment IV
+AUD 518 - Hearing Conservation
+AUD 519 - Hearing Aids III
+AUD 521 - Medical Audiology
+AUD 522 - Tinnitus
+AUD 523 - Pharmacology
+AUD 524 - Speech Perception and Language Development
+AUD 525 - Genetics
+AUD 526A - Clinical Externship in Audiology I
+AUD 526B - Clinical Externship in Audiology II
+AUD 526C - Clinical Externship in Audiology III
+AUD 598A - Research Project
+AUD 598B - Research Project II
+AUD 598C - Research Project III
+AUD 598D - Research Project IV
+AVIA 1 - Introduction to the Aviation Industry
+AVIA 2 - Private Pilot Ground
+AVIA 3 - Introduction to Private Pilot Part 141 Flight
+AVIA 31 - Aircraft Theory and Design
+AVIA 42 - Aircraft Systems
+AVIA 43 - Propulsion Theory
+AVIA 62 - Instrument Pilot Ground
+AVIA 63 - Instrument Rating Part 141 Flight
+AVIA 68 - Avionics and Airborne Communication
+AVIA 73 - Air Traffic Control
+AVIA 78 - Introduction to Aviation Management
+AVIA 91 - Aircraft Turbine Engines
+AVIA 110 - Aviation Weather
+AVIA 112 - Commercial Pilot Ground
+AVIA 113 - Commercial Professional Pilot Part 141 Flight
+AVIA 114 - Certified Flight Instructor Preparation
+AVIA 116 - Aircraft Multi-Engine Land Rating
+AVIA 128 - Aviation Safety and Security
+AVIA 129 - Aviation Cybersecurity
+AVIA 141 - Human Factors in Aviation
+AVIA 150 - Unmanned Aerial Systems
+AVIA 160 - Aircraft Dispatch
+AVIA 173 - Aviation Law
+AVIA 176 - Airline Operations and Management
+AVIA 177 - General Aviation Operations and Management
+AVIA 178 - Airport Planning and Management
+AVIA 179 - Advanced Airport Planning and Management
+AVIA 180 - Individual Studies
+AVIA 180H - Individual Studies
+AVIA 190 - Senior Capstone Seminar
+AVIA 192I - International Program Studies
+AVIA 193 - Aerodynamics
+AVIA 194 - Advanced Aircraft Systems
+AVIA 195 - Internship with the Aviation Industry
+AVIA 198 - Aviation and Human Civilization
+AVIA 199A - Special Topics in Aviation Management
+AVIA 199B - Special Topics in Aviation Operations
+BIOL 10 - The Living World
+BIOL 20 - Ecological Biology
+BIOL 21 - Human Biology
+BIOL 30 - Principles of Biology I
+BIOL 31 - Principles of Biology II
+BIOL 54 - Human Understanding
+BIOL 55 - Biostatistics
+BIOL 65 - Human Anatomy
+BIOL 65O - Human Anatomy
+BIOL 66 - Human Physiology
+BIOL 100W - Scientific Communication Workshop
+BIOL 101 - Origins of Life
+BIOL 105 - Principles of Developmental Biology
+BIOL 106 - Physiological Ecology
+BIOL 106L - Physiological Ecology Lab
+BIOL 107 - Immunology
+BIOL 107L - Immunology Laboratory
+BIOL 109 - Human Neuroanatomy and Physiology
+BIOL 110 - Biodiversity and Biopolitics
+BIOL 111 - Fire Ecology
+BIOL 113 - Principles of Systematics
+BIOL 114 - Functional Morphology
+BIOL 115 - General Genetics
+BIOL 116 - Molecular Genetics
+BIOL 116L - Molecular Genetics Laboratory
+BIOL 117 - Human Genetics
+BIOL 118 - Evolution
+BIOL 119 - Neurogenetics
+BIOL 122 - Bacterial Diversity
+BIOL 122L - Bacterial Diversity Laboratory
+BIOL 123A - Bioinformatics I
+BIOL 123B - Bioinformatics II
+BIOL 124 - Systems Physiology
+BIOL 125 - Systems Physiology Laboratory
+BIOL 129 - Neuroscience
+BIOL 131 - Endocrine Physiology
+BIOL 134 - Vertebrate Histology
+BIOL 135A - Eukaryotic Cell and Molecular Biology I
+BIOL 135B - Eukaryotic Cell and Molecular Biology II
+BIOL 135L - Molecular Cell Biology Lab
+BIOL 136 - Vertebrate Neurophysiology
+BIOL 136L - Vertebrate Neurophysiology Laboratory
+BIOL 137 - Introduction to Principles of Toxicology
+BIOL 138 - Stem Cell Biology
+BIOL 139 - Cancer Biology
+BIOL 140 - Human Sexuality
+BIOL 142 - Paleontology
+BIOL 143 - Biogeography
+BIOL 145 - Advanced Undergraduate Biology Seminar
+BIOL 145L - Advanced Undergraduate Biology Lab
+BIOL 148 - Molecular Ecology
+BIOL 150 - Field Studies in Natural History
+BIOL 155 - Hypothesis Testing
+BIOL 156 - Ecological Sampling Design and Analyses
+BIOL 159 - Integrative Biology
+BIOL 160 - Ecology
+BIOL 161 - Introduction to Marine Ecology
+BIOL 162 - Marine Biology and Oceanography
+BIOL 163 - Conservation Biology
+BIOL 164 - Ecological Field Methods
+BIOL 165 - Advanced Human Anatomy
+BIOL 167 - Cardiorespiratory Physiology
+BIOL 168 - Reproductive Physiology
+BIOL 170 - Cellular and Molecular Physiology
+BIOL 177 - Physiology for Engineers
+BIOL 178 - Integrative Physiology
+BIOL 180 - Individual Studies
+BIOL 181 - Introduction to Health Care
+BIOL 182 - Tutor Assistant in Biology
+BIOL 184 - Directed Reading
+BIOL 186 - Senior Thesis
+BIOL 190 - Field Studies in Biology
+BIOL 198 - Undergraduate Research
+BIOL 201 - Graduate Seminar in Biological Sciences
+BIOL 202 - Graduate Studies in Biology
+BIOL 202TA - Biotech Seminar: Biotech Products
+BIOL 202TB - Biotech Seminar: Drug Development Process
+BIOL 202TC - Biotech Seminar: Biotech Business I
+BIOL 202TD - Biotech Seminar: Biotech Business II
+BIOL 203 - Biology Teaching Forum
+BIOL 205 - Advanced Molecular Techniques
+BIOL 205T - Advanced Molecular Techniques for Biotechnology
+BIOL 215 - Seminar in Advanced Genetics
+BIOL 218 - Advanced Evolution
+BIOL 220 - Science Communication
+BIOL 221T - Advanced Bioinformatics for Biotechnology
+BIOL 227 - Advanced Physiology
+BIOL 227T - Principles of Pharmacology
+BIOL 230 - Comparative Animal Physiology
+BIOL 233 - Immunological Techniques
+BIOL 233T - Immunological Techniques for Biotechnology
+BIOL 242 - Advanced Paleontology
+BIOL 255E - Advanced Topics: Ecology and Evolution
+BIOL 255L - Advanced Biology Laboratory
+BIOL 255M - Advanced Topics: Molecular & Microbiology
+BIOL 255P - Seminar in Advanced Biology: Physiology
+BIOL 255T - Introduction to Stem Cell Techniques
+BIOL 256 - Advanced Experimental Design and Analysis
+BIOL 280 - Master’s Individual Studies
+BIOL 280T - Internship in the Biotechnology Industry
+BME 25 - Introduction to Biomedical Engineering Design
+BME 65 - Biomedical Applications of Statics
+BME 68 - Biomedical Applications of Metals and Ceramics
+BME 115 - Foundations of Biomedical Engineering
+BME 116 - Biosensors and Bioinstrumentation
+BME 117 - Biotransport Phenomena
+BME 130 - Numerical Methods in Biomedical Engineering
+BME 133 - Programming Applications in Biomedical Engineering
+BME 135 - Biomedical Engineering Design Methods
+BME 147 - Quantitative and Statistical Methods for Biomedical Engineers
+BME 165 - Applied Engineering Biomechanics
+BME 168 - Medical and Biological Polymers
+BME 174 - Biomedical Regulatory Requirements
+BME 177 - Physiology for Engineers
+BME 178 - Biomedical Product Realization
+BME 180 - Individual Studies
+BME 182 - Orthotics and Prosthetics
+BME 185 - Digital Health
+BME 187 - Medical Device Quality Systems
+BME 188 - Biomedical Device Manufacturing
+BME 192 - International Program Studies
+BME 198A - Senior Design Project I
+BME 198B - Senior Design Project II
+BME 207 - Experimental Methods in BME
+BME 210 - Mathematical Methods in Biomedical Engineering
+BME 217 - Experimental and Computational Biofluid Mechanics
+BME 254 - Microscale Biomedical Systems: Physics and Applications
+BME 256 - Biomedical Applications of Nanoplatforms
+BME 258 - Medical Imaging for Engineers
+BME 272 - Biomedical Device Design and Principles
+BME 274 - Regulatory, Clinical and Manufacturing Aspects of Medical Devices
+BME 276 - Project Management in Biomedical Technologies
+BME 280 - Graduate Research Studies
+BME 288 - Tissue Engineering
+BME 291 - MS Thesis/Project Preparation Seminar
+BME 298 - MS Project
+BME 298I - Masters Project Internship
+BME 299 - MS Thesis
+BME 299I - Master’s Thesis Internship
+BME 1290R - Culminating Experience Supervision
+BOT 104 - Plant Taxonomy
+BOT 113 - Principles of Systematics
+BOT 114 - Functional Morphology
+BOT 143 - Biogeography
+BOT 160 - Ecology
+BOT 165 - Plant Communities of California
+BOT 180 - Individual Studies
+BOT 186 - Senior Thesis

@@ -1,0 +1,21 @@
+rmp_professor_info backup schema:
+
+CREATE TABLE IF NOT EXISTS rmp_professor_info (
+    professor_email VARCHAR(150) PRIMARY KEY,
+    professor_name VARCHAR(255),
+    rmp_name VARCHAR(255),
+    department VARCHAR(255),
+    rating DOUBLE PRECISION,
+    total_ratings INTEGER,
+    would_take_again VARCHAR(50),
+    level_of_difficulty VARCHAR(50),
+    tags TEXT[],
+    comments TEXT[],
+    rmp_url TEXT
+);
+
+################## COMMANDS
+
+Clear the rmp_professor_info table
+TRUNCATE TABLE rmp_professor_info CASCADE;
+
