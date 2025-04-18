@@ -1,7 +1,11 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS, cross_origin
 from flask import Flask, render_template, request, redirect, url_for, flash, session, send_file
+import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from DAO.flask_dao import FlaskDAO
+
 import util
 import db_config
 import dotenv
@@ -33,17 +37,15 @@ def load_default_prompt():
 def index():
     test = os.environ.get("TEST")
     if request.method == "POST":
+        class_number = request.form.get("class_number")
         try: 
-            cur, conn = db_config.connect_to_db()
-            #
-            #
-            #
+            # Get a list of professors teaching this class from the professor table 
+            res = FlaskDAO.get_professor_list(class_number)
+            print(res)
+            
         except Exception as e:
             print("Error connecting to database:", e)
             return jsonify({"error": "Database connection error"}), 500
-        finally: 
-            cur.close()
-            conn.close()
 
         return render_template("index.html", data=user_data)
     else: # GET request        
