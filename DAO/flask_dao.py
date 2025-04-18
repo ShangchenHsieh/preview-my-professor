@@ -15,7 +15,7 @@ class FlaskDAO:
 
         if conn is not None:
             query = """
-            SELECT instructor FROM courses WHERE section LIKE %s
+            SELECT DISTINCT instructor FROM courses WHERE section LIKE %s
             """
             try:
                 like_pattern = f"%{c}%"
