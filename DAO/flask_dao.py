@@ -1,6 +1,7 @@
 from db_connection import DatabaseConnection  # Import the DatabaseConnection class
 import psycopg2
 from psycopg2 import errors
+from typing import List, Tuple
 import re
 class FlaskDAO:
     @staticmethod
@@ -30,4 +31,21 @@ class FlaskDAO:
             finally:
                 DatabaseConnection.close_connection()  
         else:
+            raise errors.DatabaseError("Connection to the database could not be established.")
+        
+    @staticmethod
+    def get_reviews(prof_list: List[Tuple]): 
+        cursor, conn = DatabaseConnection.get_connection()  # Get connection and cursor using the Singleton pattern
+        if conn: 
+            query = """
+            SELECT * FROM rmp_professor_info WHERE professor_name LIKE %s
+            """
+            res = []
+            for prof in prof_list: 
+                cursor.execute(query, (prof[0],))
+                result = cursor.fetchone() 
+                if result: 
+                    res.append(result)
+            return res
+        else: 
             raise errors.DatabaseError("Connection to the database could not be established.")

@@ -40,9 +40,17 @@ def index():
     if request.method == "POST":
         class_number = request.form.get("class_number")
         try: 
+            # 1st part 
             # get a list of professors teaching this class from the professor table 
-            res = FlaskDAO.get_professor_list(class_number)
-            print(res) # returns [('Prof. A',), ('Prof. B',)]
+            prof_list = FlaskDAO.get_professor_list(class_number)
+            print(prof_list) # returns [('Prof. A',), ('Prof. B',)]
+
+            # 2nd part 
+            res = FlaskDAO.get_reviews(prof_list)
+            print(res)
+
+            # TODO: render to the frontend 
+
         except LookupError as e:
             print(f"No instructor found: {e}")
         except errors.DatabaseError as e: 
