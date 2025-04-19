@@ -6,6 +6,11 @@ import re
 class FlaskDAO:
     @staticmethod
     def get_professor_list(course: str):
+        """
+        _summary_: takes a course string and returns a list of professors, does regular expresstion and case conversion 
+        _params_: course: str
+        _return_: List of professors in tuples -> [(P1,), (P2,), (P3,), ...]
+        """
         cursor, conn = DatabaseConnection.get_connection()  # Get connection and cursor using the Singleton pattern
         c = None
         match = re.match(r"([A-Za-z]+)(\d+[A-Za-z]?)", course)
@@ -35,6 +40,11 @@ class FlaskDAO:
         
     @staticmethod
     def get_reviews(prof_list: List[Tuple]): 
+        """
+        _summary_: takes a list of professors and returns a list of reviews for each professor
+        _params_: prof_list: List of professors in tuples -> [(P1,), (P2,), (P3,), ...]
+        _return_: List of reviews in tuples -> [(P1, r1, r1, r1, r1, ...), (P2, r2, r2, r2, r2, r2, ...), ...]
+        """
         cursor, conn = DatabaseConnection.get_connection()  # Get connection and cursor using the Singleton pattern
         if conn: 
             try: 
