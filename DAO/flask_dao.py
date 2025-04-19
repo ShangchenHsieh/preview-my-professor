@@ -14,6 +14,8 @@ class FlaskDAO:
         cursor, conn = DatabaseConnection.get_connection()  # Get connection and cursor using the Singleton pattern
         c = None
         match = re.match(r"([A-Za-z]+)(\d+[A-Za-z]?)", course)
+        print({"match": match})
+        print({"course": course})
         if match:
             subject = match.group(1).upper()  
             class_number = match.group(2)  

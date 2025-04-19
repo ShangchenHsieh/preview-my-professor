@@ -3,228 +3,176 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preview My Professor | SJSU Course & Professor Info</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/5812/5812047.png" type="image/png">
-
-
-    <title>Preview Your Professor - SJSU</title>
     <style>
+        /* Custom Background Image for the Body */
         body {
-            font-family: 'Roboto', sans-serif;
-            background-color: #1e1e1e;
-            color: #e0e0e0;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-            background-image: url('https://engineering.wisc.edu/wp-content/uploads/2021/10/materials-phd-jpeg-webp.webp');
+            background-image: url('https://bpb-us-w2.wpmucdn.com/blogs.sjsu.edu/dist/f/94/files/2023/09/Adobe-hero.jpg');
             background-size: cover;
             background-position: center;
-            background-repeat: no-repeat;
             background-attachment: fixed;
-            width: 100vw;
-            height: 100vh;
-            margin: 0;
-            padding: 0;
-
+            /* Keeps the background image fixed during scrolling */
         }
 
-        .container {
-            width: 90%;
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #2a2a2a;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-            border-radius: 8px;
+        /* Custom style for the search bar */
+        .search-box {
+            background-color: rgba(255, 255, 255, 0.9);
+            /* Non-transparent white background */
         }
 
-        h1 {
-            text-align: center;
-            color: #ffffff;
-            font-weight: 600;
-            font-size: 2.5em;
-        }
-
-        h2 {
-            text-align: center;
-            color: #ffffff;
-        }
-
-        label {
-            display: block;
-            margin-bottom: 5px;
-            color: #bbbbbb;
-        }
-
-        textarea,
-        input[type="text"] {
-            width: calc(100% - 12px);
-            padding: 8px;
-            margin-bottom: 10px;
-            border: 1px solid #444;
-            border-radius: 4px;
-            box-sizing: border-box;
-            background-color: #333;
-            color: #e0e0e0;
-            font-size: 16px;
-        }
-
-        textarea {
-            resize: vertical;
-        }
-
-        button {
-            background: linear-gradient(to right, #3b82f6, #9333ea);
-            /* Blue to Purple */
-            border: none;
-            padding: 12px 15px;
-            border-radius: 16px;
-            /* Rounded-2xl */
-            cursor: pointer;
-            font-size: 16px;
-            color: white;
-            transition: transform 0.2s ease, box-shadow 0.3s ease;
-            font-weight: bold;
-            width: 100%;
-            text-transform: uppercase;
-            letter-spacing: 1px;
+        /* Custom Header Styling */
+        header {
+            background-color: rgba(45, 55, 72, 0.8);
+            /* Semi-transparent dark background for contrast */
+            border-radius: 15px;
+            /* Rounded corners */
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-        }
-
-        button:hover {
-            transform: scale(1.05);
-            box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3);
-        }
-
-        button:active {
-            transform: scale(0.98);
-        }
-
-
-        .flash-message {
-            padding: 10px;
-            margin-bottom: 10px;
-            border-radius: 4px;
-        }
-
-        .flash-message.error {
-            background-color: #5a1e1e;
-            color: #ffb3b3;
-            border: 1px solid #ff7b7b;
-        }
-
-        .flash-message.success {
-            background-color: #1e5a1e;
-            color: #b3ffb3;
-            border: 1px solid #7bff7b;
-        }
-
-        a {
-            color: #009dff;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        footer {
-            margin-top: auto;
-            text-align: center;
-            padding: 10px;
-            background-color: #111;
-            color: white;
-        }
-
-        @media (max-width: 600px) {
-            .container {
-                width: 95%;
-                padding: 10px;
-            }
-
-            textarea,
-            input[type="text"],
-            button {
-                font-size: 14px;
-            }
-        }
-
-        .container {
-            animation: fadeIn 1s ease-in-out;
-        }
-
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(-20px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        textarea:focus {
-            border-color: #007bff;
-            outline: none;
-            box-shadow: 0 0 5px rgba(0, 123, 255, 0.2);
+            /* Slight shadow for depth */
         }
     </style>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 
-<body>
-    <div class="background">
-        <header>
-            <nav>
-                <div class="container">
-                    <h1>Preview Your Professor at SJSU</h1>
+<body class="bg-gray-100 font-sans">
 
-                </div>
-            </nav>
-        </header>
+    <!-- Header -->
+    <header class="text-white shadow-md p-6 rounded-lg mx-4 mt-8">
+        <h1 class="text-3xl font-bold text-center">Preview My Professor</h1>
+        <p class="text-center text-indigo-200 mt-1">Explore SJSU Courses and Professor Ratings</p>
+    </header>
 
-        <div class="container">
-            {% with messages = get_flashed_messages(with_categories=true) %}
-            {% if messages %}
-            <ul>
-                {% for category, message in messages %}
-                <li class="flash-message {% if category == 'error' %}error{% else %}success{% endif %}">
-                    {{ message }}
-                </li>
-                {% endfor %}
-            </ul>
-            {% endif %}
-            {% endwith %}
+    <!-- Search Bar -->
+    <div class="max-w-2xl mx-auto mt-8 px-4">
+        <form method="POST" action="/">
+            <div class="flex">
+                <input type="text" name="class_number" placeholder="Search for a course (e.g., CS 122)"
+                    class="search-box w-full px-4 py-2 rounded-l-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-400">
+                <button type="submit"
+                    class="bg-indigo-600 text-white px-6 py-2 rounded-r-lg hover:bg-indigo-700">Search</button>
 
-            <form method="POST" action="/">
-                <div>
-                    <h2>Class Number:</h2>
-                    <textarea id="class_number" name="class_number" placeholder="Enter a class number, example: CS146"
-                        rows="6">{{ data.test }}</textarea>
-                </div>
-                <br />
-                <div>
-                    <button type="submit" name="generate">Find My Professor</button>
-                </div>
-            </form>
-
-            <br>
-            <div>
-                <h2>Result:</h2>
             </div>
+        </form>
+    </div>
+
+    <!-- Search Results -->
+    <div class="max-w-7xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+        <!-- Card 1 (Best Rated Instructor) -->
+        <div
+            class="bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
+            <h2 class="text-xl font-semibold text-indigo-700">CS 122 - Intro to Programming</h2>
+            <p class="text-sm text-gray-600 mb-2">Section 01 • MWF 9:00–10:00AM • ENG 105</p>
+            <div class="mb-2">
+                <span class="font-semibold">Instructor:</span> Dr. Alice Smith
+                <span class="block text-sm text-gray-500">alice.smith@sjsu.edu</span>
+            </div>
+            <div class="mb-2 text-sm">
+                ⭐ <span class="font-medium">Rating:</span> 4.7/5<br>
+                😎 <span class="font-medium">Would Take Again:</span> 91%<br>
+                📈 <span class="font-medium">Difficulty:</span> 2.3/5
+            </div>
+            <div class="mb-2">
+                <div class="flex flex-wrap gap-1 text-xs">
+                    <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">Caring</span>
+                    <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">Tough Grader</span>
+                </div>
+            </div>
+            <p class="text-sm italic text-gray-700 mt-3">
+                "Supportive and clear, but expects students to stay on top of assignments."
+            </p>
+            <a href="https://ratemyprofessors.com/" target="_blank"
+                class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
         </div>
 
-        <div class="container">
-            <footer>
-                <p>&copy; 2025 Spring @ Preview Your Professor All Rights Reserved</p>
-            </footer>
+        <!-- Card 2 -->
+        <div
+            class="bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
+            <h2 class="text-xl font-semibold text-indigo-700">CS 122 - Intro to Programming</h2>
+            <p class="text-sm text-gray-600 mb-2">Section 01 • MWF 9:00–10:00AM • ENG 105</p>
+            <div class="mb-2">
+                <span class="font-semibold">Instructor:</span> Prof. John Lee
+                <span class="block text-sm text-gray-500">john.lee@sjsu.edu</span>
+            </div>
+            <div class="mb-2 text-sm">
+                ⭐ <span class="font-medium">Rating:</span> 4.3/5<br>
+                😎 <span class="font-medium">Would Take Again:</span> 87%<br>
+                📈 <span class="font-medium">Difficulty:</span> 2.7/5
+            </div>
+            <div class="mb-2">
+                <div class="flex flex-wrap gap-1 text-xs">
+                    <span class="bg-green-100 text-green-800 px-2 py-1 rounded-full">Explains Concepts Well</span>
+                    <span class="bg-green-100 text-green-800 px-2 py-1 rounded-full">Accessible Outside Class</span>
+                </div>
+            </div>
+            <p class="text-sm italic text-gray-700 mt-3">
+                "Challenging but fair. Great explanations during office hours."
+            </p>
+            <a href="https://ratemyprofessors.com/" target="_blank"
+                class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
         </div>
+
+        <!-- Card 3 -->
+        <div
+            class="bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
+            <h2 class="text-xl font-semibold text-indigo-700">CS 122 - Intro to Programming</h2>
+            <p class="text-sm text-gray-600 mb-2">Section 01 • MWF 9:00–10:00AM • ENG 105</p>
+            <div class="mb-2">
+                <span class="font-semibold">Instructor:</span> Prof. John Lee
+                <span class="block text-sm text-gray-500">john.lee@sjsu.edu</span>
+            </div>
+            <div class="mb-2 text-sm">
+                ⭐ <span class="font-medium">Rating:</span> 4.3/5<br>
+                😎 <span class="font-medium">Would Take Again:</span> 87%<br>
+                📈 <span class="font-medium">Difficulty:</span> 2.7/5
+            </div>
+            <div class="mb-2">
+                <div class="flex flex-wrap gap-1 text-xs">
+                    <span class="bg-green-100 text-green-800 px-2 py-1 rounded-full">Explains Concepts Well</span>
+                    <span class="bg-green-100 text-green-800 px-2 py-1 rounded-full">Accessible Outside Class</span>
+                </div>
+            </div>
+            <p class="text-sm italic text-gray-700 mt-3">
+                "Challenging but fair. Great explanations during office hours."
+            </p>
+            <a href="https://ratemyprofessors.com/" target="_blank"
+                class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
+        </div>
+
+    </div>
+    <!-- Test Jinja -->
+    <div class="max-w-7xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {% for post in posts %}
+        <div
+            class="bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
+            <h2 class="text-xl font-semibold text-indigo-700">{{ post.course }}</h2>
+            <p class="text-sm text-gray-600 mb-2">{{ post.section }}</p>
+            <div class="mb-2">
+                <span class="font-semibold">Instructor:</span> {{ post.instructor }}
+                <span class="block text-sm text-gray-500">{{ post.email }}</span>
+            </div>
+            <div class="mb-2 text-sm">
+                ⭐ <span class="font-medium">Rating:</span> {{ post.rating }}/5<br>
+                😎 <span class="font-medium">Would Take Again:</span> {{ post.take_again }}<br>
+                📈 <span class="font-medium">Difficulty:</span> {{ post.difficulty }}/5
+            </div>
+            <div class="mb-2">
+                <div class="flex flex-wrap gap-1 text-xs">
+                    {% for tag in post.tags %}
+                    <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+            </div>
+            <p class="text-sm italic text-gray-700 mt-3">"{{ post.comment }}"</p>
+            <a href="{{ post.rmp_link }}" target="_blank"
+                class="inline-block mt-4 text-indigo-600 font-medium hover:underline">
+                View RMP Page →
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+
+
 </body>
-
-</div>
 
 </html>
