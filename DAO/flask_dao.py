@@ -37,15 +37,18 @@ class FlaskDAO:
     def get_reviews(prof_list: List[Tuple]): 
         cursor, conn = DatabaseConnection.get_connection()  # Get connection and cursor using the Singleton pattern
         if conn: 
-            query = """
-            SELECT * FROM rmp_professor_info WHERE professor_name LIKE %s
-            """
-            res = []
-            for prof in prof_list: 
-                cursor.execute(query, (prof[0],))
-                result = cursor.fetchone() 
-                if result: 
-                    res.append(result)
-            return res
+            try: 
+                query = """
+                SELECT * FROM rmp_professor_info WHERE professor_name LIKE %s
+                """
+                res = []
+                for prof in prof_list: 
+                    cursor.execute(query, (prof[0],))
+                    result = cursor.fetchone() 
+                    if result: 
+                        res.append(result)
+                return res
+            finally: 
+                DatabaseConnection.close_connection()
         else: 
             raise errors.DatabaseError("Connection to the database could not be established.")
