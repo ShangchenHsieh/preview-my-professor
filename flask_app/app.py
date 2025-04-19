@@ -3,6 +3,7 @@ from flask_cors import CORS, cross_origin
 from flask import Flask, render_template, request, redirect, url_for, flash, session, send_file
 import sys
 import os
+from psycopg2 import errors
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from DAO.flask_dao import FlaskDAO
 
@@ -39,14 +40,13 @@ def index():
     if request.method == "POST":
         class_number = request.form.get("class_number")
         try: 
-            # Get a list of professors teaching this class from the professor table 
+            # get a list of professors teaching this class from the professor table 
             res = FlaskDAO.get_professor_list(class_number)
-            print(res)
-            
-        except Exception as e:
-            print("Error connecting to database:", e)
-            return jsonify({"error": "Database connection error"}), 500
-
+            print(res) # returns [('Prof. A',), ('Prof. B',)]
+        except LookupError as e:
+            print(f"No instructor found: {e}")
+        except errors.DatabaseError as e: 
+            print(f"Database error: {e}")
         return render_template("index.html", data=user_data)
     else: # GET request        
         return render_template("index.html", data=user_data)

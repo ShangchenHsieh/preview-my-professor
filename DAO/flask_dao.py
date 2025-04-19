@@ -12,6 +12,8 @@ class FlaskDAO:
             subject = match.group(1).upper()  
             class_number = match.group(2)  
             c = f"{subject} {class_number}"
+        else:
+            raise LookupError("No instructors found for the given section pattern.")
 
         if conn is not None:
             query = """
@@ -24,12 +26,8 @@ class FlaskDAO:
                 if result:
                     return result
                 else:
-                    print("No results found.")
-            except errors.DatabaseError as e:
-                print(f"Database error: {e}")
-            except Exception as e:
-                print(f"An error occurred: {e}")
+                    raise LookupError("No instructors found for the given section pattern.")
             finally:
                 DatabaseConnection.close_connection()  
         else:
-            print("Failed to connect to the database.")
+            raise errors.DatabaseError("Connection to the database could not be established.")
