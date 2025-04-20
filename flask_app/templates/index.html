@@ -141,34 +141,70 @@
     </div>
 -->
 
-    <!-- Dynamic Course & Professor Info Cards -->
 <div class="max-w-7xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     {% for instructor in instructors %}
-    <div class="bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
-        <h2 class="text-xl font-semibold text-indigo-700">{{ instructor['name'] }}</h2>
-        <p class="text-sm text-gray-600 mb-2">{{ instructor['course_name'] }}</p>
-        <div class="mb-2">
-            <span class="font-semibold">Instructor:</span> {{ instructor['name'] }}
-            <span class="block text-sm text-gray-500">{{ instructor['email'] }}</span>
+    <div class="relative bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
+        <!-- Professor Name (Now at the Top) -->
+        <h2 class="text-xl font-bold text-indigo-700">{{ instructor['name'] }}</h2>
+
+        <!-- Course Name (Now Below the Professor's Name) -->
+        <p class="text-sm text-gray-600 mb-1">
+            <span class="font-semibold">Course:</span> {{ instructor['course_name'] }}
+        </p>
+
+        <!-- Hoverable Sections Dropdown directly under name -->
+        {% if instructor['sections'] %}
+        <div class="relative group mb-2">
+            <button class="text-sm text-indigo-600 font-medium hover:underline cursor-pointer">
+                View Sections
+            </button>
+            <div
+                class="absolute z-10 hidden group-hover:block bg-white border border-gray-300 rounded-lg shadow-lg p-3 w-64 mt-2 text-sm text-gray-700">
+                <ul class="space-y-1">
+                    {% for section in instructor['sections'] %}
+                    <li class="border-b pb-1">
+                        <strong>{{ section['section'] }}</strong><br>
+                        {{ section['days'] }} {{ section['time'] }}<br>
+                        @ {{ section['location'] }}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
+        {% endif %}
+
+        <!-- Rating Info -->
         <div class="mb-2 text-sm">
             ⭐ <span class="font-medium">Rating:</span> {{ instructor['rating'] or 'N/A' }}/5<br>
-            😎 <span class="font-medium">Would Take Again:</span> {{ instructor['would_take_again'] or 'N/A' }}%<br>
-            📈 <span class="font-medium">Difficulty:</span> {{ instructor['difficulty'] or 'N/A' }}/5
+            😎 <span class="font-medium">Would Take Again:</span> {{ instructor['would_take_again'] or 'N/A' }}<br>
+            📈 <span class="font-medium">Difficulty:</span> {{ instructor['difficulty'] or 'N/A' }}/5<br>
+            {% if instructor['total_ratings'] %}
+            🗳️ <span class="font-medium">Total Ratings:</span> {{ instructor['total_ratings'] }}
+            {% endif %}
         </div>
+
+        <!-- Tags -->
+        {% if instructor['tags'] %}
         <div class="mb-2">
             <div class="flex flex-wrap gap-1 text-xs">
-                {% for tag in instructor['tags'] or [] %}
+                {% for tag in instructor['tags'] %}
                 <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">{{ tag }}</span>
                 {% endfor %}
             </div>
         </div>
-        <p class="text-sm italic text-gray-700 mt-3">"{{ instructor['comments'] or 'No comments available' }}"</p>
+        {% endif %}
+
+        <!-- RMP Page Link -->
         <a href="{{ instructor['rmp_page'] or '#' }}" target="_blank"
             class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
     </div>
     {% endfor %}
 </div>
+
+
+
+
+
 
 
 </body>

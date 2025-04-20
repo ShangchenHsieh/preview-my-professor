@@ -75,6 +75,14 @@ def index():
             instructors = FlaskDAO.get_frontend_teachers(class_number)
             print(instructors)  # Will contain the instructors' data to be displayed
 
+            # Sort instructors by "Would Take Again" rating, converting to float and handling '%' and None values
+            instructors = sorted(
+                instructors,
+                key=lambda x: float(x['would_take_again'].replace('%', '').strip()) if x['would_take_again'] not in [
+                    None, ''] else 0,
+                reverse=True
+            )
+
         except LookupError as e:
             print(f"No instructor found: {e}")
         except errors.DatabaseError as e:
@@ -168,17 +176,17 @@ def test_frontend():
 
     return render_template("index.html", posts=results)
 
-@app.route("/api/teachers", methods=["GET"])
-def get_teachers():
-    course = request.args.get("course")
-    if not course:
-        return jsonify({"error": "Missing course parameter"}), 400
-
-    try:
-        teachers = flask_dao.FlaskDAO.get_frontend_teachers(course)
-        return jsonify(teachers), 200
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+# @app.route("/api/teachers", methods=["GET"])
+# def get_teachers():
+#     course = request.args.get("course")
+#     if not course:
+#         return jsonify({"error": "Missing course parameter"}), 400
+#
+#     try:
+#         teachers = flask_dao.FlaskDAO.get_frontend_teachers(course)
+#         return jsonify(teachers), 200
+#     except Exception as e:
+#         return jsonify({"error": str(e)}), 500
 
 # Flask app driver
 if __name__ == '__main__':

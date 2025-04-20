@@ -166,22 +166,22 @@ class FlaskDAO:
 
         try:
             # Step 1: Match and normalize the course string
-            match = re.match(r"([A-Za-z]+)\s*(\d+[A-Za-z]?)", course.strip())
+            match = re.search(r"\b([A-Za-z]+)\s*(\d+[A-Za-z]?)\b", course.strip(), re.IGNORECASE)
             if not match:
                 raise LookupError("Invalid course format.")
 
             subject = match.group(1).upper()
             class_number = match.group(2).upper()
             normalized_course = f"{subject} {class_number}"
-            like_pattern = f"%{normalized_course}%"
+            regexp_pattern = rf"\m{re.escape(normalized_course)}\M"
 
             # Step 2: Get all rows for the given course
             course_query = """
             SELECT instructor, instructor_email, section, course_title, times, location
             FROM courses
-            WHERE section LIKE %s
+            WHERE section ~* %s
             """
-            cursor.execute(course_query, (like_pattern,))
+            cursor.execute(course_query, (regexp_pattern,))
             course_rows = cursor.fetchall()
 
             if not course_rows:
