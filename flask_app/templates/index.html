@@ -7,39 +7,47 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/5812/5812047.png" type="image/png">
     <style>
-        /* Custom Background Image for the Body */
         body {
             background-image: url('https://bpb-us-w2.wpmucdn.com/blogs.sjsu.edu/dist/f/94/files/2023/09/Adobe-hero.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
-            /* Keeps the background image fixed during scrolling */
         }
 
-        /* Custom style for the search bar */
         .search-box {
             background-color: rgba(255, 255, 255, 0.9);
-            /* Non-transparent white background */
         }
 
-        /* Custom Header Styling */
         header {
             background-color: rgba(45, 55, 72, 0.8);
-            /* Semi-transparent dark background for contrast */
             border-radius: 15px;
-            /* Rounded corners */
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-            /* Slight shadow for depth */
         }
     </style>
 </head>
 
 <body class="bg-gray-100 font-sans">
 
+    <!-- Top Navigation Bar -->
+<nav class="bg-gray-800 bg-opacity-90 text-white px-6 py-3 flex justify-between items-center shadow-md fixed w-full top-0 z-50">
+    <div class="text-lg font-semibold">
+        Preview My Professor
+    </div>
+    <div class="space-x-4">
+        <a href="/" class="hover:text-indigo-300 transition">Home</a>
+        <button onclick="toggleModal('aboutModal')" class="hover:text-indigo-300 transition">About</button>
+        <button onclick="toggleModal('contactModal')" class="hover:text-indigo-300 transition">Contact</button>
+    </div>
+</nav>
+
+
+    <!-- Spacer to offset fixed navbar -->
+    <div class="h-16"></div>
+
     <!-- Header -->
     <header class="text-white shadow-md p-6 rounded-lg mx-4 mt-8">
-        <h1 class="text-3xl font-bold text-center">Preview My Professor</h1>
-        <p class="text-center text-indigo-200 mt-1">Explore SJSU Courses and Professor Ratings</p>
+        <h1 class="text-3xl font-bold text-center">Explore SJSU Courses and Professor Ratings</h1>
+        <p class="text-center text-indigo-200 mt-1">Search for a course to view professor details, ratings, and student feedback.</p>
     </header>
 
     <!-- Search Bar -->
@@ -50,162 +58,120 @@
                     class="search-box w-full px-4 py-2 rounded-l-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-400">
                 <button type="submit"
                     class="bg-indigo-600 text-white px-6 py-2 rounded-r-lg hover:bg-indigo-700">Search</button>
-
             </div>
         </form>
     </div>
 
-   <!--
+    <!-- Instructor Cards -->
     <div class="max-w-7xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {% for instructor in instructors %}
+        {% set rating = instructor['rating'] %}
+        <div class="relative bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
 
-
-        <div
-            class="bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
-            <h2 class="text-xl font-semibold text-indigo-700">CS 122 - Intro to Programming</h2>
-            <p class="text-sm text-gray-600 mb-2">Section 01 • MWF 9:00–10:00AM • ENG 105</p>
-            <div class="mb-2">
-                <span class="font-semibold">Instructor:</span> Dr. Alice Smith
-                <span class="block text-sm text-gray-500">alice.smith@sjsu.edu</span>
+            <!-- Badge -->
+            {% if rating != 'N/A' %}
+            {% if rating|float >= 4.5 %}
+            <div class="absolute top-2 right-2 bg-gradient-to-r from-green-200 to-green-300 text-green-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-green-300 flex items-center gap-1">
+                🌟 <span>Top Rated</span>
             </div>
-            <div class="mb-2 text-sm">
-                ⭐ <span class="font-medium">Rating:</span> 4.7/5<br>
-                😎 <span class="font-medium">Would Take Again:</span> 91%<br>
-                📈 <span class="font-medium">Difficulty:</span> 2.3/5
+            {% elif rating|float >= 3.5 %}
+            <div class="absolute top-2 right-2 bg-gradient-to-r from-blue-200 to-blue-300 text-blue-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-blue-300 flex items-center gap-1">
+                👍 <span>Recommended</span>
             </div>
-            <div class="mb-2">
-                <div class="flex flex-wrap gap-1 text-xs">
-                    <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">Caring</span>
-                    <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">Tough Grader</span>
-                </div>
+            {% else %}
+            <div class="absolute top-2 right-2 bg-gradient-to-r from-yellow-200 to-yellow-300 text-yellow-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-yellow-300 flex items-center gap-1">
+                🧐 <span>Mixed Reviews</span>
             </div>
-            <p class="text-sm italic text-gray-700 mt-3">
-                "Supportive and clear, but expects students to stay on top of assignments."
-            </p>
-            <a href="https://ratemyprofessors.com/" target="_blank"
-                class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
-        </div>
-
-
-        <div
-            class="bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
-            <h2 class="text-xl font-semibold text-indigo-700">CS 122 - Intro to Programming</h2>
-            <p class="text-sm text-gray-600 mb-2">Section 01 • MWF 9:00–10:00AM • ENG 105</p>
-            <div class="mb-2">
-                <span class="font-semibold">Instructor:</span> Prof. John Lee
-                <span class="block text-sm text-gray-500">john.lee@sjsu.edu</span>
-            </div>
-            <div class="mb-2 text-sm">
-                ⭐ <span class="font-medium">Rating:</span> 4.3/5<br>
-                😎 <span class="font-medium">Would Take Again:</span> 87%<br>
-                📈 <span class="font-medium">Difficulty:</span> 2.7/5
-            </div>
-            <div class="mb-2">
-                <div class="flex flex-wrap gap-1 text-xs">
-                    <span class="bg-green-100 text-green-800 px-2 py-1 rounded-full">Explains Concepts Well</span>
-                    <span class="bg-green-100 text-green-800 px-2 py-1 rounded-full">Accessible Outside Class</span>
-                </div>
-            </div>
-            <p class="text-sm italic text-gray-700 mt-3">
-                "Challenging but fair. Great explanations during office hours."
-            </p>
-            <a href="https://ratemyprofessors.com/" target="_blank"
-                class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
-        </div>
-
-
-        <div
-            class="bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
-            <h2 class="text-xl font-semibold text-indigo-700">CS 122 - Intro to Programming</h2>
-            <p class="text-sm text-gray-600 mb-2">Section 01 • MWF 9:00–10:00AM • ENG 105</p>
-            <div class="mb-2">
-                <span class="font-semibold">Instructor:</span> Prof. John Lee
-                <span class="block text-sm text-gray-500">john.lee@sjsu.edu</span>
-            </div>
-            <div class="mb-2 text-sm">
-                ⭐ <span class="font-medium">Rating:</span> 4.3/5<br>
-                😎 <span class="font-medium">Would Take Again:</span> 87%<br>
-                📈 <span class="font-medium">Difficulty:</span> 2.7/5
-            </div>
-            <div class="mb-2">
-                <div class="flex flex-wrap gap-1 text-xs">
-                    <span class="bg-green-100 text-green-800 px-2 py-1 rounded-full">Explains Concepts Well</span>
-                    <span class="bg-green-100 text-green-800 px-2 py-1 rounded-full">Accessible Outside Class</span>
-                </div>
-            </div>
-            <p class="text-sm italic text-gray-700 mt-3">
-                "Challenging but fair. Great explanations during office hours."
-            </p>
-            <a href="https://ratemyprofessors.com/" target="_blank"
-                class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
-        </div>
-    </div>
--->
-
-<div class="max-w-7xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {% for instructor in instructors %}
-    <div class="relative bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
-        <!-- Professor Name (Now at the Top) -->
-        <h2 class="text-xl font-bold text-indigo-700">{{ instructor['name'] }}</h2>
-
-        <!-- Course Name (Now Below the Professor's Name) -->
-        <p class="text-sm text-gray-600 mb-1">
-            <span class="font-semibold">Course:</span> {{ instructor['course_name'] }}
-        </p>
-
-        <!-- Hoverable Sections Dropdown directly under name -->
-        {% if instructor['sections'] %}
-        <div class="relative group mb-2">
-            <button class="text-sm text-indigo-600 font-medium hover:underline cursor-pointer">
-                View Sections
-            </button>
-            <div
-                class="absolute z-10 hidden group-hover:block bg-white border border-gray-300 rounded-lg shadow-lg p-3 w-64 mt-2 text-sm text-gray-700">
-                <ul class="space-y-1">
-                    {% for section in instructor['sections'] %}
-                    <li class="border-b pb-1">
-                        <strong>{{ section['section'] }}</strong><br>
-                        {{ section['days'] }} {{ section['time'] }}<br>
-                        @ {{ section['location'] }}
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-        </div>
-        {% endif %}
-
-        <!-- Rating Info -->
-        <div class="mb-2 text-sm">
-            ⭐ <span class="font-medium">Rating:</span> {{ instructor['rating'] or 'N/A' }}/5<br>
-            😎 <span class="font-medium">Would Take Again:</span> {{ instructor['would_take_again'] or 'N/A' }}<br>
-            📈 <span class="font-medium">Difficulty:</span> {{ instructor['difficulty'] or 'N/A' }}/5<br>
-            {% if instructor['total_ratings'] %}
-            🗳️ <span class="font-medium">Total Ratings:</span> {{ instructor['total_ratings'] }}
             {% endif %}
-        </div>
+            {% endif %}
 
-        <!-- Tags -->
-        {% if instructor['tags'] %}
-        <div class="mb-2">
-            <div class="flex flex-wrap gap-1 text-xs">
-                {% for tag in instructor['tags'] %}
-                <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">{{ tag }}</span>
-                {% endfor %}
+            <!-- Professor Name -->
+            <h2 class="text-xl font-bold text-indigo-700">{{ instructor['name'] }}</h2>
+
+            <!-- Course Name -->
+            <p class="text-sm text-gray-600 mb-1">
+                <span class="font-semibold">Course:</span> {{ instructor['course_name'] }}
+            </p>
+
+            <!-- Sections -->
+            {% if instructor['sections'] %}
+            <div class="relative group mb-2">
+                <button class="text-sm text-indigo-600 font-medium hover:underline cursor-pointer">
+                    View Sections
+                </button>
+                <div
+                    class="absolute z-10 hidden group-hover:block bg-white border border-gray-300 rounded-lg shadow-lg p-3 w-64 mt-2 text-sm text-gray-700">
+                    <ul class="space-y-1">
+                        {% for section in instructor['sections'] %}
+                        <li class="border-b pb-1">
+                            <strong>{{ section['section'] }}</strong><br>
+                            {{ section['days'] }} {{ section['time'] }}<br>
+                            @ {{ section['location'] }}
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            {% endif %}
+
+            <!-- Rating Info -->
+            <div class="mb-2 text-sm">
+                ⭐ <span class="font-medium">Rating:</span> {{ rating or 'N/A' }}/5<br>
+                😎 <span class="font-medium">Would Take Again:</span> {{ instructor['would_take_again'] or 'N/A' }}<br>
+                📈 <span class="font-medium">Difficulty:</span> {{ instructor['difficulty'] or 'N/A' }}/5<br>
+                {% if instructor['total_ratings'] %}
+                🗳️ <span class="font-medium">Total Ratings:</span> {{ instructor['total_ratings'] }}
+                {% endif %}
+            </div>
+
+            <!-- Tags -->
+            {% if instructor['tags'] %}
+            <div class="mb-2">
+                <div class="flex flex-wrap gap-1 text-xs">
+                    {% for tag in instructor['tags'] %}
+                    <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+            <!-- RMP Link -->
+            <a href="{{ instructor['rmp_page'] or '#' }}" target="_blank"
+                class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- About Modal -->
+    <div id="aboutModal" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center z-50">
+        <div class="bg-white rounded-xl shadow-lg max-w-md w-full p-6">
+            <h2 class="text-xl font-bold mb-2">About</h2>
+            <p class="text-sm text-gray-700">Preview My Professor is a student-developed platform by Mick L. and Sean H. that thoughtfully combines official SJSU course information with professor reviews from RateMyProfessors.com, offering students a more complete view to help guide their academic choices.</p>
+            <div class="mt-4 text-right">
+                <button onclick="toggleModal('aboutModal')" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">Close</button>
             </div>
         </div>
-        {% endif %}
-
-        <!-- RMP Page Link -->
-        <a href="{{ instructor['rmp_page'] or '#' }}" target="_blank"
-            class="inline-block mt-4 text-indigo-600 font-medium hover:underline">View RMP Page →</a>
     </div>
-    {% endfor %}
-</div>
 
+    <!-- Contact Modal -->
+    <div id="contactModal" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center z-50">
+        <div class="bg-white rounded-xl shadow-lg max-w-md w-full p-6">
+            <h2 class="text-xl font-bold mb-2">Contact</h2>
+            <p class="text-sm text-gray-700">For feedback or inquiries, contact us at <a href="mailto:example@email.com" class="text-indigo-600 hover:underline">example@email.com</a>.</p>
+            <div class="mt-4 text-right">
+                <button onclick="toggleModal('contactModal')" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">Close</button>
+            </div>
+        </div>
+    </div>
 
-
-
-
-
+    <!-- Modal Script -->
+    <script>
+        function toggleModal(id) {
+            const modal = document.getElementById(id);
+            modal.classList.toggle('hidden');
+            modal.classList.toggle('flex');
+        }
+    </script>
 
 </body>
 
