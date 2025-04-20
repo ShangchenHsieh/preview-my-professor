@@ -4,6 +4,9 @@ from flask import Flask, render_template, request, redirect, url_for, flash, ses
 import sys
 import os
 from psycopg2 import errors
+
+from DAO import flask_dao
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from DAO.flask_dao import FlaskDAO
 
@@ -33,32 +36,52 @@ def load_default_prompt():
     except Exception:
         return "Please provide a prompt."
 
+# @cross_origin()
+# @app.route("/", methods=["GET", "POST"])
+# def index():
+#     test = os.environ.get("TEST")
+#     if request.method == "POST":
+#         class_number = request.form.get("class_number")
+#         print(f"Class number: {class_number}")
+#         try:
+#             # 1st part
+#             # get a list of professors teaching this class from the professor table
+#             prof_list = FlaskDAO.get_professor_list(class_number)
+#             print(prof_list) # returns [('Prof. A',), ('Prof. B',)]
+#
+#             # 2nd part
+#             res = FlaskDAO.get_reviews(prof_list)
+#             print(res)
+#
+#             # TODO: render to the frontend
+#
+#         except LookupError as e:
+#             print(f"No instructor found: {e}")
+#         except errors.DatabaseError as e:
+#             print(f"Database error: {e}")
+#         return render_template("index.html", data=user_data)
+#     else: # GET request
+#         return render_template("index.html", data=user_data)
 @cross_origin()
 @app.route("/", methods=["GET", "POST"])
 def index():
-    test = os.environ.get("TEST")
+    instructors = []  # Default to an empty list in case no instructors are found.
+
     if request.method == "POST":
         class_number = request.form.get("class_number")
         print(f"Class number: {class_number}")
-        try: 
-            # 1st part 
-            # get a list of professors teaching this class from the professor table 
-            prof_list = FlaskDAO.get_professor_list(class_number)
-            print(prof_list) # returns [('Prof. A',), ('Prof. B',)]
-
-            # 2nd part 
-            res = FlaskDAO.get_reviews(prof_list)
-            print(res)
-
-            # TODO: render to the frontend 
+        try:
+            # Get instructors for the given class
+            instructors = FlaskDAO.get_frontend_teachers(class_number)
+            print(instructors)  # Will contain the instructors' data to be displayed
 
         except LookupError as e:
             print(f"No instructor found: {e}")
-        except errors.DatabaseError as e: 
+        except errors.DatabaseError as e:
             print(f"Database error: {e}")
-        return render_template("index.html", data=user_data)
-    else: # GET request        
-        return render_template("index.html", data=user_data)
+
+    # Pass the instructors (even if it's an empty list) to the template
+    return render_template("index.html", instructors=instructors)
 
 
 @app.route("/test-db", methods=["GET"])
@@ -145,6 +168,17 @@ def test_frontend():
 
     return render_template("index.html", posts=results)
 
+@app.route("/api/teachers", methods=["GET"])
+def get_teachers():
+    course = request.args.get("course")
+    if not course:
+        return jsonify({"error": "Missing course parameter"}), 400
+
+    try:
+        teachers = flask_dao.FlaskDAO.get_frontend_teachers(course)
+        return jsonify(teachers), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 # Flask app driver
 if __name__ == '__main__':
