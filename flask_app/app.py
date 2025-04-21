@@ -65,31 +65,48 @@ def load_default_prompt():
 @cross_origin()
 @app.route("/", methods=["GET", "POST"])
 def index():
-    instructors = []  # Default to an empty list in case no instructors are found.
+    instructors = []
+    is_sample = False
+    matched_course = None
 
     if request.method == "POST":
         class_number = request.form.get("class_number")
         print(f"Class number: {class_number}")
         try:
-            # Get instructors for the given class
             instructors = FlaskDAO.get_frontend_teachers(class_number)
-            print(instructors)  # Will contain the instructors' data to be displayed
+            print(instructors)
 
-            # Sort instructors by "Would Take Again" rating, converting to float and handling '%' and None values
             instructors = sorted(
                 instructors,
-                key=lambda x: float(x['would_take_again'].replace('%', '').strip()) if x['would_take_again'] not in [
-                    None, ''] else 0,
+                key=lambda x: float(x['would_take_again'].replace('%', '').strip()) if x['would_take_again'] not in [None, ''] else 0,
                 reverse=True
             )
+
+            if instructors:
+                matched_course = instructors[0].get("course_name")  # Get real course name
 
         except LookupError as e:
             print(f"No instructor found: {e}")
         except errors.DatabaseError as e:
             print(f"Database error: {e}")
 
-    # Pass the instructors (even if it's an empty list) to the template
-    return render_template("index.html", instructors=instructors)
+    else:
+        instructors = FlaskDAO.get_frontend_teachers("CS 122")
+        is_sample = True
+
+        instructors = sorted(
+            instructors,
+            key=lambda x: float(x['would_take_again'].replace('%', '').strip()) if x['would_take_again'] not in [None, ''] else 0,
+            reverse=True
+        )
+
+        if instructors:
+            matched_course = instructors[0].get("course_name")
+
+    return render_template("index.html", instructors=instructors, is_sample=is_sample, matched_course=matched_course)
+
+
+
 
 
 @app.route("/test-db", methods=["GET"])
