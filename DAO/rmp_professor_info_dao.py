@@ -5,8 +5,38 @@ from psycopg2 import errors
 
 
 class RMPProfessorInfoDAO:
+    """
+        Data Access Object (DAO) for inserting and updating RateMyProfessor (RMP) information for professors.
+        """
+
     @staticmethod
     def insert_professor(professor: Professor):
+        """
+                Inserts or updates a professor's RMP information in the 'rmp_professor_info' table.
+
+                If a row with the same professor_email already exists, it updates the existing record with
+                the new values.
+
+                Args:
+                    professor (Professor): A Professor object containing all necessary fields, including:
+                        - professor_email (str)
+                        - professor_name (str)
+                        - rmp_name (str)
+                        - department (str or None)
+                        - rating (float)
+                        - total_ratings (int)
+                        - would_take_again (float)
+                        - level_of_difficulty (float)
+                        - tags (list of str)
+                        - comments (list of str)
+                        - rmp_url (str or None)
+
+                Notes:
+                    - Converts Python lists to PostgreSQL array format for 'tags' and 'comments'.
+                    - Uses 'ON CONFLICT' clause to update existing rows based on professor_email.
+                    - Commits changes on success and rolls back on exceptions.
+                """
+
         cursor, conn = DatabaseConnection.get_connection()
 
         if conn is not None:
@@ -70,49 +100,8 @@ class RMPProfessorInfoDAO:
                 print(f"Error inserting professor {professor.professor_email}: {e}")
                 conn.rollback()  # Rollback on other errors
             finally:
-                pass  # Optional: Close cursor and connection if necessary
+                # Optional: Close cursor and connection if necessary
+                # DatabaseConnection.close_connection()  # Uncomment this if needed
+                pass
         else:
             print("Failed to connect to the database.")
-
-# This needs updating to function, we need to include other param like department.. just make a new one
-    # @staticmethod
-    # def get_professor_by_email(professor_email: str):
-    #     cursor, conn = DatabaseConnection.get_connection()
-    #
-    #     if conn is not None:
-    #         query = """
-    #         SELECT professor_email, professor_name, rmp_name, rating, total_ratings, would_take_again, level_of_difficulty, tags, comments, rmp_url
-    #         FROM rmp_professor_info
-    #         WHERE professor_email = %s;
-    #         """
-    #         try:
-    #             cursor.execute(query, (professor_email,))
-    #             professor_data = cursor.fetchone()  # Fetch the professor data
-    #             return professor_data
-    #         except Exception as e:
-    #             print(f"Error retrieving professor data: {e}")
-    #             return None
-    #     else:
-    #         print("Failed to connect to the database.")
-    #         return None
-    #
-    # @staticmethod
-    # def get_all_professors():
-    #     """Fetch all professors from the database and return as a dictionary indexed by email."""
-    #     cursor, conn = DatabaseConnection.get_connection()
-    #
-    #     if conn is not None:
-    #         query = "SELECT professor_email, professor_name, rmp_name, rmp_url FROM rmp_professor_info;"
-    #         try:
-    #             cursor.execute(query)
-    #             professors = {
-    #                 row[0]: {"professor_name": row[1], "rmp_name": row[2], "rmp_url": row[3]}
-    #                 for row in cursor.fetchall()
-    #             }
-    #             return professors
-    #         except Exception as e:
-    #             print(f"Error retrieving professor data: {e}")
-    #             return {}
-    #     else:
-    #         print("Failed to connect to the database.")
-    #         return {}

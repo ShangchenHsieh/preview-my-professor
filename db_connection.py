@@ -51,8 +51,8 @@ class DatabaseConnection:
             DatabaseConnection._connection = None
 
 
-# Usage example (to be done in your other code):
+# Usage example (after importing elsewhere):
 # cursor, connection = DatabaseConnection.get_connection()
 
-# Don't forget to close the connection when done
+# Close the connection when done (we can close where we actually use the connection where its imported)
 # DatabaseConnection.close_connection()

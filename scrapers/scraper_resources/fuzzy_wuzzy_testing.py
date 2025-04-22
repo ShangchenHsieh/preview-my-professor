@@ -1,3 +1,4 @@
+# This file is for experimenting with fuzzy_wuzzy matching for our scraper algorithm.
 from fuzzywuzzy import fuzz
 
 
@@ -7,7 +8,7 @@ def test_fuzzy_match(name1, name2):
     score = fuzz.ratio(name1.lower(), name2.lower())  # Normalize to lowercase for better comparison
     print(f"Fuzzy matching score between '{name1}' and '{name2}': {score}")
 
-    # You can also experiment with partial_ratio or token_sort_ratio
+    # Experiment with partial_ratio or token_sort_ratio
     partial_score = fuzz.partial_ratio(name1.lower(), name2.lower())
     print(f"Partial fuzzy matching score: {partial_score}")
 

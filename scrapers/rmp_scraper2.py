@@ -1,5 +1,5 @@
-# This is a backup of version that doesnt include department when storing the data, just in case department has issues
-
+# This is a backup of version that doesn't include department when storing the data, just in case department has issues
+#DB FUNCTIONALITY HAS BEEN DISABLED BY COMMENTING OUT DAO IMPORT
 import re
 import time
 from selenium import webdriver
@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 from fuzzywuzzy import fuzz
 
-from DAO.rmp_professor_info_dao import RMPProfessorInfoDAO
+#from DAO.rmp_professor_info_dao import RMPProfessorInfoDAO
 from model.professor import Professor
 
 # Path to the geckodriver executable

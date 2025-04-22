@@ -1,4 +1,27 @@
-# Advanced model, handles scraping entire SJSU db for all classes based on fast_list_clean.txt
+"""
+Scraper Script: Full SJSU Spring 2025 Course Catalog
+
+This script automates scraping course data for all classes listed in `fast_list_clean.txt`
+from the official SJSU Spring 2025 schedule page.
+
+Features:
+- Uses Selenium (with Firefox via geckodriver) to interact with the class schedule interface
+- Automatically loads and searches each course from the list
+- Extracts all relevant course information, including:
+  section, class number, instruction mode, title, GE satisfies, units, type, days, times,
+  instructor name and email, location, dates, seat availability, and notes
+- Inserts the data into a AWS cloud hosted PostgreSQL database via the CourseDAO
+
+Requirements:
+- Selenium
+- geckodriver (Firefox)
+- PostgreSQL database with the expected schema
+- Local modules: `DatabaseConnection`, `Course`, `CourseDAO`
+
+Notes:
+- Courses with no matching records are skipped automatically
+- Database connection and browser are gracefully closed at the end
+"""
 
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
@@ -40,12 +63,13 @@ driver.execute_script("arguments[0].click();", dropdown_element)
 # Step 3: Wait for the dropdown options to be visible (optional, but ensures we wait for the dropdown to load)
 WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, "//select[@name='classSchedule_length']/option")))
 
-# Step 4: Select the "100" option using JavaScript
+# Step 4: Select the "100" option using JavaScript (this displays 100 course sections per page)
 driver.execute_script("arguments[0].value = '100'; arguments[0].dispatchEvent(new Event('change'));", dropdown_element)
 
 
 
 # ---------------------- Begin Automation -----------------------------------------------------------------------------
+# This is where the scraping takes place.
 
 # Read cleaned course list and store as a list
 with open("scraper_resources/fast_list_clean.txt", "r") as file:
@@ -78,7 +102,7 @@ for course_name in class_list:
         search_input.clear()
         continue  # Skip to the next course in the loop
 
-    # Else extract the data and put it in the db
+    # Else extract the data to our course object and insert it into the db
     for row in rows:
         columns = row.find_elements(By.TAG_NAME, "td")
         if columns:

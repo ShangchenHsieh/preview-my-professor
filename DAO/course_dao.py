@@ -1,12 +1,25 @@
 from db_connection import DatabaseConnection  # Import the DatabaseConnection class
 from model.course import Course
 import psycopg2
-from psycopg2 import errors
 
 
 class CourseDAO:
+    """
+        Data Access Object (DAO) for performing database operations on Course objects.
+        """
+
     @staticmethod
     def insert_course(course: Course):
+        """
+             Inserts a Course object into the 'courses' table in the database.
+
+             Args:
+                 course (Course): The Course instance containing all the course data.
+
+             Handles:
+                 - UniqueViolation: If a course with the same section already exists.
+                 - General exceptions: For other insertion errors.
+             """
         cursor, conn = DatabaseConnection.get_connection()  # Get connection and cursor using the Singleton pattern
 
         if conn is not None:
@@ -20,7 +33,7 @@ class CourseDAO:
             """
             try:
                 cursor.execute(insert_query,
-                               course.to_tuple())  # Assuming the `to_tuple()` method converts the course object to a tuple
+                               course.to_tuple())  # Execute the insert
                 conn.commit()  # Commit the changes
             except psycopg2.errors.UniqueViolation as e:
                 # Handle the case when a duplicate section is found
@@ -39,6 +52,16 @@ class CourseDAO:
 
     @staticmethod
     def get_unique_instructors():
+        """
+        Retrieves a list of unique instructors and their emails from the 'courses' table.
+
+        Returns:
+            list of tuple: A list of (instructor, instructor_email) pairs.
+                           Returns an empty list if the query fails or connection is unavailable.
+
+        Notes:
+            - Excludes rows where instructor is NULL or an empty string.
+        """
         cursor, conn = DatabaseConnection.get_connection()
 
         if conn is not None:

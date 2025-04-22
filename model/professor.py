@@ -1,4 +1,7 @@
 class Professor:
+    """
+      Represents a professor and their associated information from Rate My Professors and local course data.
+      """
     def __init__(self, professor_email, professor_name, rmp_name, department, rating, total_ratings, would_take_again, level_of_difficulty, tags, comments, rmp_url=None):
         self.professor_email = professor_email  # New primary key
         self.professor_name = professor_name  # The name as per the search

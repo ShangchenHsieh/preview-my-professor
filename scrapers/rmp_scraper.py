@@ -1,3 +1,14 @@
+"""
+Scraper for collecting professor data from Rate My Professors using DuckDuckGo search.
+
+This script automates the process of locating and extracting professor rating data from
+Rate My Professors (RMP) for instructors at San Jose State University (SJSU). It performs
+a DuckDuckGo search to locate the appropriate RMP page for each professor, then scrapes
+relevant information such as overall rating, difficulty, tags, comments, and 'would take again' scores.
+
+This professor data is then stored in our AWS cloud hosted PostgreSQL database for use in our frontend.
+"""
+
 import re
 import time
 from selenium import webdriver
@@ -18,7 +29,7 @@ driver_path = "../drivers/geckodriver.exe"
 # Initialize WebDriver with Firefox
 service = Service(driver_path)
 options = Options()
-options.headless = False  # Set to True if you want to run headlessly
+options.headless = False  # Set to True if you want to run headlessly (no visible browser window)
 driver = webdriver.Firefox(service=service, options=options)
 
 
@@ -206,8 +217,6 @@ def check_link_match(professor_name, link_text):
         return True
 
 
-
-
     # print(f"❌ No match found for: {link_text}")
     return False
 
@@ -221,22 +230,30 @@ def search_and_scrape(professors):
 
     all_data = {}
 
+    # This is running off a list of tuples where it's the name and email of the professor
+    # This information came from the scrape of SJSU's course db where prof name/email was scraped
+    # This was then formatted into a list of tuples to be used in automated scraping
     for professor_name, professor_email in professors:
         print(f"\n🔎 Searching for {professor_name}, with email: {professor_email}...")
-        search_box = wait.until(EC.presence_of_element_located((By.NAME, "q")))
+        search_box = wait.until(EC.presence_of_element_located((By.NAME, "q"))) # Wait for the page to search box to load
         search_box.clear()
 
+        # Put the search query into duckduckgo's search box and search
         query = f"{professor_name} San Jose State site:ratemyprofessors.com"
         search_box.send_keys(query)
         search_box.send_keys(Keys.RETURN)
 
+        # Let the results load
         wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "h2 a")))
         time.sleep(2)
 
+        # Get the result links
         result_links = driver.find_elements(By.CSS_SELECTOR, "h2 a")
 
+        # Boolean for if the match is found by the link matching algorithm (teacher name detected, SJSU RMP detected)
         found_match = False
 
+        # Display results to terminal for debug
         print("\n--- Search Results ---")
         for i, link in enumerate(result_links, 1):
             link_text = link.text.strip()
@@ -247,6 +264,7 @@ def search_and_scrape(professors):
             link_text = link.text.strip()
             link_href = link.get_attribute("href")
 
+            # Run the link checking algo, if it returns true proceed with clicking the link and scraping
             if check_link_match(professor_name, link_text):
                 print(f"✅ Found matching link: {link_text}")
                 time.sleep(1)
@@ -258,6 +276,10 @@ def search_and_scrape(professors):
 
                     wait.until(EC.presence_of_element_located((By.CLASS_NAME, "NameTitle__Name-dowf0z-0")))
 
+                    # Here we do the scraping, this returns a dict of teacher information
+                    # A bit redundant, but the dict is then put on an professor object for DB insertion
+                    # This process was mainly a byproduct of development where we output to console first, then had an
+                    # object for insertion. We could have done dict -> insert db but objects have typing if needed at some point.
                     data = scrape_professor_data(professor_name, professor_email)
                     if data:
                         all_data[professor_name] = data
@@ -283,7 +305,7 @@ def search_and_scrape(professors):
                 except Exception as e:
                     print(f"❌ Error clicking link: {e}")
 
-        if not found_match:
+        if not found_match: # If no match we just go to the next professor in the list
             print(f"⚠️ No matching link found for {professor_name}, skipping...")
 
     driver.quit()
@@ -308,8 +330,9 @@ def load_professors_from_file(filename):
 
 
 # --------------------------------------------- Main
-# Load professors
+# Load professors - from file to list of tuples (prof name, prof email)
 professors_list = load_professors_from_file("scraper_resources/teacher_name_email.txt")
+
 
 # --------------------------------------------- Full Scrape
 # start_time = time.time()
@@ -319,7 +342,11 @@ professors_list = load_professors_from_file("scraper_resources/teacher_name_emai
 # elapsed_time = end_time - start_time
 # print(f"Scraping completed in {elapsed_time:.2f} seconds.")
 
+
 # --------------------------------------------- Resume Scrape
+# This is exceptionally useful because sometimes scraping runs into errors, the database can be checked to see the last
+# name stored, and we can resume from there or any earlier point (if we run into any existing entries as we scrape they
+# will be updated so no issue there)
 def resume_scraping(professors_list, start_name):
     try:
         # Find the index of the professor where we want to start scraping

@@ -1,4 +1,8 @@
 class Course:
+    """
+       Represents a university course with detailed attributes needed for database insertion.
+       """
+
     def __init__(self, section, class_number, mode_of_instruction, course_title, satisfies, units,
                  type, days, times, instructor, location, dates, open_seats, notes, instructor_email):
         self.section = section

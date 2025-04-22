@@ -4,10 +4,10 @@ def clean_course_list(input_file, output_file):
             clean_line = line.split(' - ')[0].strip()  # Keep only the part before " - "
             outfile.write(clean_line + '\n')
 
-# Example usage
-input_file = "fast_list_dirty.txt"  # Update with your actual file name
-output_file = "fast_list_clean.txt"
-clean_course_list(input_file, output_file)
+# To use input the file with courses in format "AFAM 157 - Race, Tech, and Global Futures"
+input_file = "fast_list_dirty.txt"
+output_file = "fast_list_clean.txt"  # The output file will be in format "AFAM 157"
+#clean_course_list(input_file, output_file) # Uncomment before running.
 print("Cleaning complete. Check test_list_clean.txt")
 
 # # Read cleaned course list and store as a list

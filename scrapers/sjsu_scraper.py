@@ -1,5 +1,5 @@
-# Basic model, was used for testing
-
+# Basic model, was used for testing, db_connection imports have been commented out to disable db insertion functionaity
+#DB FUNCTIONALITY HAS BEEN DISABLED BY COMMENTING OUT DAO IMPORT
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.common.by import By
@@ -7,9 +7,9 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-from db_connection import DatabaseConnection
-from model.course import Course
-from DAO.course_dao import CourseDAO
+# from db_connection import DatabaseConnection
+# from model.course import Course
+# from DAO.course_dao import CourseDAO
 
 # Path to the geckodriver executable
 driver_path = "../drivers/geckodriver.exe"
