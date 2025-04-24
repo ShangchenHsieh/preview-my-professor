@@ -79,18 +79,19 @@
                     {% endfor %}
                 </select>
 
-                <!-- Course Search Input -->
-                <input type="text" name="class_number" placeholder="Search for a course (e.g., CS 122)"
-                    class="search-box w-full px-4 py-2 rounded-l-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-400"
-                    value="{{ class_number }}">
+                <!-- Search Input + Button Group -->
+                <div class="flex w-full">
+                    <!-- Course Search Input -->
+                    <input type="text" name="class_number" placeholder="Search for a course (e.g., CS 122)"
+                        class="w-full px-4 py-2 rounded-l-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-400"
+                        value="{{ class_number }}">
 
-                <!-- Search Button -->
-                <button type="submit"
-                    class="bg-indigo-600 text-white px-6 py-2 rounded-r-lg hover:bg-indigo-700">Search</button>
+                    <!-- Search Button -->
+                    <button type="submit"
+                        class="bg-indigo-600 text-white px-6 py-2 rounded-r-lg hover:bg-indigo-700">Search</button>
+                </div>
             </form>
         </div>
-
-
 
         <!-- Space below search bar -->
         <div class="mt-16"></div>
