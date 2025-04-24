@@ -1,15 +1,33 @@
+'''
+The usage of this program is to extract a list of teachers to use in rmp_scraper.py
+
+First check that within export_teachers that unique_instructors = a call to the proper table in which you are
+attempting to recover the unique teachers.
+
+For example:  unique_instructors = CourseDAO.get_unique_instructors_from_table("courses_fall_2025")
+Here we are going to return all the unique instructors and their emails from the courses_fall_2025 table in our
+database.
+
+The teacher/email combination will be written to a file that is specified in the "if unique_instructors" portion.
+
+The format will be as follows in this example:
+A J Faas |001 aj.faas@sjsu.edu
+
+Where |001 is interpreted as separator (when we use this file in rmp_scraper.py)
+'''
+
 from DAO.course_dao import CourseDAO
 
 def export_teachers():
-    unique_instructors = CourseDAO.get_unique_instructors()
+    unique_instructors = CourseDAO.get_unique_instructors_from_table("courses_fall_2025")
     unique_instructors.sort()
 
     if unique_instructors:
-        with open("teacher_name_email.txt", "w", encoding="utf-8") as file:
+        with open("fall_2025/teacher_name_email_fall2025.txt", "w", encoding="utf-8") as file:
             for name, email in unique_instructors:
                 file.write(f"{name} |001 {email}\n")
 
-        print("Unique instructor list saved to teacher_name_email.txt.")
+        print("Unique instructor list saved.")
     else:
         print("No instructors found.")
 

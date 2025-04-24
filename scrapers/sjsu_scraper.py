@@ -19,7 +19,8 @@ service = Service(driver_path)
 driver = webdriver.Firefox(service=service)
 
 # Open the webpage
-driver.get("https://www.sjsu.edu/classes/schedules/spring-2025.php")
+#driver.get("https://www.sjsu.edu/classes/schedules/spring-2025.php") # spring 2025 SJSU table
+driver.get("https://www.sjsu.edu/classes/schedules/fall-2025.php") # fall 2025 SJSU table
 
 # Wait for the Subject input field to become available (wait for webpage load)
 wait = WebDriverWait(driver, 20)
@@ -86,7 +87,8 @@ for row in rows:
         )
 
         # Insert the course data into the database
-        CourseDAO.insert_course(course_data)
+        # Make sure the correct table is being inserted into (which semester?)
+        CourseDAO.insert_course_with_table(course_data, "courses_fall_2025")
 
 
 # Close db connection/driver (exit browser)

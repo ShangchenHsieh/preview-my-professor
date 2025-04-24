@@ -85,12 +85,118 @@ class FlaskDAO:
 
 
 
-    # This is our workhorse that gets the job done queries -> dict for the frontend
+    # # This is our workhorse that gets the job done queries -> dict for the frontend
+    # @staticmethod
+    # def get_frontend_teachers(course: str) -> List[Dict]:
+    #     """
+    #     Returns a list of FrontEndTeacher dictionaries, each combining data from `courses`
+    #     and `rmp_professor_info` tables.
+    #     """
+    #     cursor, conn = DatabaseConnection.get_connection()
+    #     if not conn:
+    #         raise errors.DatabaseError("Connection to the database could not be established.")
+    #
+    #     try:
+    #         # Step 1: Match and normalize the course string
+    #         match = re.search(r"\b([A-Za-z]+)\s*(\d+[A-Za-z]?)\b", course.strip(), re.IGNORECASE)
+    #         if not match:
+    #             raise LookupError("Invalid course format.")
+    #
+    #         subject = match.group(1).upper()
+    #         class_number = match.group(2).upper()
+    #         normalized_course = f"{subject} {class_number}"
+    #         regexp_pattern = rf"\m{re.escape(normalized_course)}\M"
+    #
+    #         # Step 2: Get all rows for the given course
+    #         course_query = """
+    #         SELECT instructor, instructor_email, section, course_title, times, location
+    #         FROM courses
+    #         WHERE section ~* %s
+    #         """
+    #         cursor.execute(course_query, (regexp_pattern,))
+    #         course_rows = cursor.fetchall()
+    #
+    #         if not course_rows:
+    #             raise LookupError(f"No courses found for the given course: {normalized_course}.")
+    #
+    #         # Step 3: Group course info by instructor (email preferred)
+    #         instructors = {}
+    #         for row in course_rows:
+    #             name, email, section, title, times, location = row
+    #             key = email if email else name  # Use email if available, fallback to name
+    #
+    #             course_name = get_clean_course_name(section)
+    #
+    #             if key not in instructors:
+    #                 instructors[key] = {
+    #                     'name': name,
+    #                     'email': email,
+    #                     'course_name': f'({course_name} {title})',
+    #                     'sections': [],
+    #                     'rating': None,
+    #                     'would_take_again': None,
+    #                     'difficulty': None,
+    #                     'tags': None,
+    #                     'comments': None,
+    #                     'rmp_page': None,
+    #                     'department': None,
+    #                     'total_ratings': None
+    #                 }
+    #
+    #             # Clean up the times field
+    #             cleaned_times = " ".join(times.splitlines()).strip()
+    #
+    #             # Group sections, times, and locations together in a dictionary
+    #             section_info = {
+    #                 'section': section,
+    #                 'time': cleaned_times,
+    #                 'location': location
+    #             }
+    #
+    #             instructors[key]['sections'].append(section_info)
+    #
+    #         # Step 4: Fill in review info from RMP table
+    #         rmp_query = """
+    #         SELECT rating, would_take_again, level_of_difficulty, tags, comments, rmp_url, department, total_ratings
+    #         FROM rmp_professor_info
+    #         WHERE professor_email = %s OR professor_name = %s
+    #         LIMIT 1
+    #         """
+    #
+    #         for key, info in instructors.items():
+    #             cursor.execute(rmp_query, (info['email'], info['name']))
+    #             result = cursor.fetchone()
+    #             if result:
+    #                 (
+    #                     rating,
+    #                     would_take_again,
+    #                     difficulty,
+    #                     tags,
+    #                     comments,
+    #                     rmp_url,
+    #                     department,
+    #                     total_ratings
+    #                 ) = result
+    #
+    #                 info['rating'] = rating
+    #                 info['would_take_again'] = would_take_again
+    #                 info['difficulty'] = difficulty
+    #                 info['tags'] = tags
+    #                 info['comments'] = comments
+    #                 info['rmp_page'] = rmp_url
+    #                 info['department'] = department
+    #                 info['total_ratings'] = total_ratings
+    #
+    #         return list(instructors.values())
+    #
+    #     finally:
+    #         DatabaseConnection.close_connection()
+
     @staticmethod
-    def get_frontend_teachers(course: str) -> List[Dict]:
+    def get_frontend_teachers(course: str, course_table: str) -> List[Dict]:
         """
-        Returns a list of FrontEndTeacher dictionaries, each combining data from `courses`
-        and `rmp_professor_info` tables.
+        Returns a list of FrontEndTeacher dictionaries, each combining data from the given course table
+        and the `rmp_professor_info` table.
         """
         cursor, conn = DatabaseConnection.get_connection()
         if not conn:
@@ -108,21 +214,26 @@ class FlaskDAO:
             regexp_pattern = rf"\m{re.escape(normalized_course)}\M"
 
             # Step 2: Get all rows for the given course
-            course_query = """
+            course_query = f"""
             SELECT instructor, instructor_email, section, course_title, times, location
-            FROM courses
+            FROM {course_table}
             WHERE section ~* %s
             """
             cursor.execute(course_query, (regexp_pattern,))
             course_rows = cursor.fetchall()
 
             if not course_rows:
-                raise LookupError(f"No courses found for the given course: {normalized_course}.")
+                raise LookupError(f"No courses found for the given course: {normalized_course} in table {course_table}.")
 
             # Step 3: Group course info by instructor (email preferred)
             instructors = {}
             for row in course_rows:
                 name, email, section, title, times, location = row
+
+                # Skip rows with no name or email
+                if not name and not email:
+                    continue
+
                 key = email if email else name  # Use email if available, fallback to name
 
                 course_name = get_clean_course_name(section)
@@ -143,10 +254,8 @@ class FlaskDAO:
                         'total_ratings': None
                     }
 
-                # Clean up the times field
                 cleaned_times = " ".join(times.splitlines()).strip()
 
-                # Group sections, times, and locations together in a dictionary
                 section_info = {
                     'section': section,
                     'time': cleaned_times,

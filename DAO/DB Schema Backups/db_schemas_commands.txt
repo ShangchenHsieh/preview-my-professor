@@ -14,6 +14,10 @@ CREATE TABLE IF NOT EXISTS rmp_professor_info (
     rmp_url TEXT
 );
 
+# Duplicate courses table for new semesters
+CREATE TABLE courses_fall_2025 (LIKE courses INCLUDING ALL);
+
+
 ################## COMMANDS
 
 Clear the rmp_professor_info table

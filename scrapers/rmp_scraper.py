@@ -331,7 +331,7 @@ def load_professors_from_file(filename):
 
 # --------------------------------------------- Main
 # Load professors - from file to list of tuples (prof name, prof email)
-professors_list = load_professors_from_file("scraper_resources/teacher_name_email.txt")
+professors_list = load_professors_from_file("scraper_resources/fall_2025/new_teachers_found_spring2025.txt")
 
 
 # --------------------------------------------- Full Scrape
@@ -361,4 +361,4 @@ def resume_scraping(professors_list, start_name):
 
 
 # Call resume_scraping with the list of professors and the name where to resume
-resume_scraping(professors_list, "Vee Lawson")
+resume_scraping(professors_list, "Roberta Ritter Spier")

@@ -65,17 +65,32 @@
                 student feedback.</p>
         </header>
 
-        <!-- Search Bar -->
+        <!-- Search Bar with Semester Dropdown -->
         <div class="max-w-2xl mx-auto mt-8 px-4">
-            <form method="POST" action="/">
-                <div class="flex">
-                    <input type="text" name="class_number" placeholder="Search for a course (e.g., CS 122)"
-                        class="search-box w-full px-4 py-2 rounded-l-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-400">
-                    <button type="submit"
-                        class="bg-indigo-600 text-white px-6 py-2 rounded-r-lg hover:bg-indigo-700">Search</button>
-                </div>
+            <form method="POST" action="/" class="flex items-center space-x-4">
+
+                <!-- Semester Dropdown -->
+                <select name="semester" id="semester"
+                    class="px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-400">
+                    {% for semester in semester_to_table.keys() %}
+                        <option value="{{ semester }}" {% if semester == selected_semester %}selected{% endif %}>
+                            {{ semester }}
+                        </option>
+                    {% endfor %}
+                </select>
+
+                <!-- Course Search Input -->
+                <input type="text" name="class_number" placeholder="Search for a course (e.g., CS 122)"
+                    class="search-box w-full px-4 py-2 rounded-l-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-400"
+                    value="{{ class_number }}">
+
+                <!-- Search Button -->
+                <button type="submit"
+                    class="bg-indigo-600 text-white px-6 py-2 rounded-r-lg hover:bg-indigo-700">Search</button>
             </form>
         </div>
+
+
 
         <!-- Space below search bar -->
         <div class="mt-16"></div>
@@ -103,27 +118,30 @@
         <div class="max-w-7xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {% for instructor in instructors %}
             {% set rating = instructor['rating'] %}
-            <div
-                class="relative bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105">
-
+            <div class="relative bg-white bg-opacity-90 rounded-2xl shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105 flex flex-col">
                 <!-- Badge -->
-                {% if rating != 'N/A' %}
-                {% if rating|float >= 4.5 %}
-                <div
-                    class="absolute top-2 right-2 bg-gradient-to-r from-green-200 to-green-300 text-green-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-green-300 flex items-center gap-1">
-                    🌟 <span>Top Rated</span>
-                </div>
-                {% elif rating|float >= 3.5 %}
-                <div
-                    class="absolute top-2 right-2 bg-gradient-to-r from-blue-200 to-blue-300 text-blue-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-blue-300 flex items-center gap-1">
-                    👍 <span>Recommended</span>
-                </div>
+                {% if rating and rating != 'N/A' and rating|float >= 0 %}
+                    {% if rating|float >= 4.5 %}
+                    <div
+                        class="absolute top-2 right-2 bg-gradient-to-r from-green-200 to-green-300 text-green-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-green-300 flex items-center gap-1">
+                        🌟 <span>Top Rated</span>
+                    </div>
+                    {% elif rating|float >= 3.5 %}
+                    <div
+                        class="absolute top-2 right-2 bg-gradient-to-r from-blue-200 to-blue-300 text-blue-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-blue-300 flex items-center gap-1">
+                        👍 <span>Recommended</span>
+                    </div>
+                    {% else %}
+                    <div
+                        class="absolute top-2 right-2 bg-gradient-to-r from-yellow-200 to-yellow-300 text-yellow-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-yellow-300 flex items-center gap-1">
+                        🧐 <span>Mixed Reviews</span>
+                    </div>
+                    {% endif %}
                 {% else %}
-                <div
-                    class="absolute top-2 right-2 bg-gradient-to-r from-yellow-200 to-yellow-300 text-yellow-900 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-yellow-300 flex items-center gap-1">
-                    🧐 <span>Mixed Reviews</span>
-                </div>
-                {% endif %}
+                    <div
+                        class="absolute top-2 right-2 bg-gray-200 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full shadow-sm border border-gray-300 flex items-center gap-1">
+                        🕵️ <span>Awaiting Reviews</span>
+                    </div>
                 {% endif %}
 
                 <!-- Professor Name -->
@@ -158,8 +176,7 @@
                 <!-- Rating Info -->
                 <div class="mb-2 text-sm">
                     ⭐ <span class="font-medium">Rating:</span> {{ rating or 'N/A' }}/5<br>
-                    😎 <span class="font-medium">Would Take Again:</span> {{ instructor['would_take_again'] or 'N/A'
-                    }}<br>
+                    😎 <span class="font-medium">Would Take Again:</span> {{ instructor['would_take_again'] or 'N/A' }}<br>
                     📈 <span class="font-medium">Difficulty:</span> {{ instructor['difficulty'] or 'N/A' }}/5<br>
                     {% if instructor['total_ratings'] %}
                     🗳️ <span class="font-medium">Total Ratings:</span> {{ instructor['total_ratings'] }}
@@ -177,28 +194,30 @@
                 </div>
                 {% endif %}
 
-                <!-- RMP Link -->
-                <div class="flex items-center justify-between mt-4">
-                    <a href="{{ instructor['rmp_page'] or '#' }}" target="_blank"
-                        class="text-indigo-600 font-medium hover:underline">
-                        View RMP Page →
+                <!-- RMP Link and TTS Button -->
+                <div class="mt-auto flex items-center justify-between mt-4">
+                    <a href="{{ instructor['rmp_page'] if instructor['rmp_page'] and instructor['rmp_page'] != 'N/A' else 'https://www.ratemyprofessors.com/' }}"
+                       target="_blank"
+                       class="text-indigo-600 font-medium hover:underline">
+                       View RMP Page →
                     </a>
+
 
                     <!-- TTS Button -->
                     <button
-                        onclick="speakText(`Professor {{ instructor['name'] }} teaches {{ instructor['course_name'] }}. 
-                        They have a rating of {{ rating or 'N/A' }} out of 5, a difficulty of {{ instructor['difficulty'] or 'N/A' }}, 
-                        and {{ instructor['would_take_again'] or 'N/A' }} percent of students would take them again. 
-                        {{ instructor['total_ratings'] }} total ratings. 
-                        Key tags include: {% for tag in instructor['tags'] %}{{ tag }}{% if not loop.last %}, {% endif %}{% endfor %}.`)"
+                        onclick="speakText(`Professor {{ instructor['name'] }} teaches {{ instructor['course_name'] }}.
+                        They have a rating of {{ rating or 'N/A' }} out of 5, a difficulty of {{ instructor['difficulty'] or 'N/A' }},
+                        and {{ instructor['would_take_again'] or 'N/A' }} of students would take them again.
+                        {{ instructor['total_ratings'] }} total ratings.
+                        {% if instructor['tags'] %}
+                            Key tags include: {% for tag in instructor['tags'] %}{{ tag }}{% if not loop.last %}, {% endif %}{% endfor %}.
+                        {% else %}
+                            No tags available.
+                        {% endif %}`)"
                         class="text-sm text-indigo-600 hover:underline">
                         🔊 Play Audio
                     </button>
                 </div>
-
-
-
-
             </div>
             {% endfor %}
 
@@ -208,9 +227,7 @@
         <div id="aboutModal" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center z-50">
             <div class="bg-white rounded-xl shadow-lg max-w-md w-full p-6">
                 <h2 class="text-xl font-bold mb-2">About</h2>
-                <p class="text-sm text-gray-700">Preview My Professor is a student-developed platform by Mick L. and
-                    Sean H. that thoughtfully combines official SJSU course information with professor reviews from
-                    RateMyProfessors.com, offering students a more complete view to help guide their academic choices.
+                <p class="text-sm text-gray-700">Developed by Mick L. and Sean H., Preview My Professor is a student-driven platform that merges official SJSU course data with professor reviews from RateMyProfessors.com, giving students a more complete picture to help make informed academic decisions.
                 </p>
                 <div class="mt-4 text-right">
                     <button onclick="toggleModal('aboutModal')"

@@ -42,7 +42,8 @@ service = Service(driver_path)
 driver = webdriver.Firefox(service=service)
 
 # Open the webpage
-driver.get("https://www.sjsu.edu/classes/schedules/spring-2025.php")
+#driver.get("https://www.sjsu.edu/classes/schedules/spring-2025.php") # Spring 2025 SJSU table
+driver.get("https://www.sjsu.edu/classes/schedules/fall-2025.php") # fall 2025 SJSU table
 
 # Wait for the Subject input field to become available (wait for webpage load)
 wait = WebDriverWait(driver, 20)
@@ -72,7 +73,8 @@ driver.execute_script("arguments[0].value = '100'; arguments[0].dispatchEvent(ne
 # This is where the scraping takes place.
 
 # Read cleaned course list and store as a list
-with open("scraper_resources/fast_list_clean.txt", "r") as file:
+# Make sure you are reading the most updated course list file (or current semester)!
+with open("scraper_resources/fall_2025/courses_short_list_fall_2025.txt", "r") as file:
     class_list = [line.strip() for line in file if line.strip()]
 
 for course_name in class_list:
@@ -153,7 +155,7 @@ for course_name in class_list:
             )
 
             # Insert the course data into the database
-            CourseDAO.insert_course(course_data)
+            CourseDAO.insert_course_with_table(course_data, "courses_fall_2025")
 
             # Clear the search input field
             search_input.clear()
