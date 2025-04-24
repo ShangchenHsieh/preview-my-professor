@@ -23,54 +23,6 @@ app = Flask(__name__)
 CORS(app)  
 app.secret_key = os.urandom(24)
 
-
-
-# @cross_origin()
-# @app.route("/", methods=["GET", "POST"])
-# def index():
-#     instructors = []
-#     is_sample = False # This is used as a boolean to keep track of the first time the page is loaded or home is pressed
-#     matched_course = None # This is to store the matched course from the db to display on index.html
-#
-#     if request.method == "POST":
-#         class_number = request.form.get("class_number")
-#         print(f"Class number: {class_number}")
-#         try:
-#             instructors = FlaskDAO.get_frontend_teachers(class_number, "courses") # query the db get a list of professor info dicts
-#             print(instructors)
-#
-#             # Sort the list in descending order based on would take again % (Higher % toward the front of the list)
-#             instructors = sorted(
-#                 instructors,
-#                 key=lambda x: float(x['would_take_again'].replace('%', '').strip()) if x['would_take_again'] not in [None, ''] else 0,
-#                 reverse=True
-#             )
-#
-#             if instructors:
-#                 matched_course = instructors[0].get("course_name")  # Get real course name
-#
-#         except LookupError as e:
-#             print(f"No instructor found: {e}")
-#         except errors.DatabaseError as e:
-#             print(f"Database error: {e}")
-#
-#     else: # When the user first goes to the page display the sample query CS 122
-#         instructors = FlaskDAO.get_frontend_teachers("CS 122", "courses")
-#         is_sample = True
-#
-#         # Sort the list in descending order based on would take again % (Higher % toward the front of the list)
-#         instructors = sorted(
-#             instructors,
-#             key=lambda x: float(x['would_take_again'].replace('%', '').strip()) if x['would_take_again'] not in [None, ''] else 0,
-#             reverse=True
-#         )
-#
-#         if instructors:
-#             matched_course = instructors[0].get("course_name")
-#
-#     return render_template("index.html", instructors=instructors, is_sample=is_sample, matched_course=matched_course)
-
-
 @cross_origin()
 @app.route("/", methods=["GET", "POST"])
 def index():
