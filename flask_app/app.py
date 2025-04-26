@@ -93,7 +93,7 @@ def index():
                                semester_to_table=semester_to_table,
                                no_results=len(instructors) == 0)
 
-    # We caught some random error, display the error page so people don't see our internal server errors
+    # We caught some random error, display the error page so people don't see our internal server errors (less ugly)
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         # Could do error logging here if we want
